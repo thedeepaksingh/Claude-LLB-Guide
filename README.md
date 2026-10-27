@@ -8,7 +8,7 @@ Each paper is written as a full revision pack: background, evolution, core conce
 
 | Paper | Code | Title | Branch | Status |
 |---|---|---|---|---|
-| I | K-1001 | Jurisprudence – I (Legal Theory) | `paper/01-jurisprudence` | In progress |
+| I | K-1001 | Jurisprudence – I (Legal Theory) | `paper/01-jurisprudence` | Draft complete, awaiting review ([open](sem-1/paper-1-jurisprudence/README.md)) |
 | II | K-1002 | Constitutional Law of India – I | `paper/02-constitutional-law` | Not started |
 | III | K-1003 | Law of Torts (and Consumer Protection) | `paper/03-law-of-torts` | Not started |
 | IV | K-1004 | Law of Crimes – I (IPC / BNS) | `paper/04-law-of-crimes` | Not started |

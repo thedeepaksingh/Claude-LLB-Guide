@@ -375,9 +375,9 @@ The Constitution is itself an instrument of **social engineering**:
 - [ ] *Hussainara Khatoon* (1980) 1 SCC 81 · *S.P. Gupta* AIR 1982 SC 149 · *PUDR* (1982) 3 SCC 235 · *Bandhua Mukti Morcha* (1984) 3 SCC 161
 - [ ] *Olga Tellis* (1985) 3 SCC 545 · *M.C. Mehta (Oleum)* (1987) 1 SCC 395 · *Vishaka* (1997) 6 SCC 241 · *Kamal Nath* (1997) 1 SCC 388
 - [ ] *Indra Sawhney* 1992 Supp (3) SCC 217 · *Sanjeev Coke* (1983) 1 SCC 147
-- [ ] *Janhit Abhiyan* (7 Nov 2022): confirm the citation (2023) 5 SCC 1
-- [ ] *Davinder Singh* (1 Aug 2024): obtain the SCC citation
-- [ ] *Property Owners Association* (5 Nov 2024): obtain the SCC citation and exact majority split
+- [ ] *Janhit Abhiyan* (W.P.(C) 55/2019, 7 Nov 2022, 3:2): confirm the SCC citation, believed to be (2023) 5 SCC 1
+- [ ] *Davinder Singh*: 2024 INSC 562 (1 Aug 2024, 6:1); add the SCC reference if your textbook uses it
+- [ ] *Property Owners Association* (W.P.(C) 934/1992, 5 Nov 2024): obtain the SCC citation; reported as an 8:1 majority on the main question with Dhulia J. dissenting, so check the split on each issue
 - [ ] *Muller v. Oregon*, 208 US 412 (1908)
 - [ ] Pound's six-point programme and the list of social interests against your textbook (lists vary slightly between editions)
 - [ ] Titles of Duguit's works (translations vary)
