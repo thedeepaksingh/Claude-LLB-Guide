@@ -4,7 +4,7 @@ All times are **IST (UTC+05:30)**. Newest first.
 
 ## 2026-10-27
 
-### 23:31 — `paper/01-jurisprudence` (draft, awaiting review; tag `sem1-paper1-jurisprudence-v0.1`)
+### 23:31 — `paper/01-jurisprudence` (draft, awaiting review; branch head `4e18dc6`)
 - **Added Paper I (Jurisprudence – I, K-1001), all seven units**, one file each: introduction; natural law (Stammler, Kohler); analytical school (Austin, Kelsen, Hart); historical school (Savigny, Maine); sociological school (Pound, Duguit); American realism; Marxist economic approach.
 - Each unit has: background, concepts, cases, criticism, current developments, comparison tables, quick-revision box, model Q&A (long / short note / very short) and a verification checklist.
 - Added `case-and-quote-bank.md` (36 Indian cases, foreign cases, safe-quotation table), `glossary.md`, and the paper `README.md` with a thinker revision sheet and answer-writing template.
