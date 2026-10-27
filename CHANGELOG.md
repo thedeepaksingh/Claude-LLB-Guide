@@ -4,7 +4,7 @@ All times are **IST (UTC+05:30)**. Newest first.
 
 ## 2026-10-27
 
-### 23:20 — `setup/repo-structure`
+### 23:12 — `setup/repo-structure`
 - Added `docs/00-syllabus-map.md`: official CCSU LL.B. Semester I syllabus (papers K-1001 to K-1005) mapped unit by unit, with source URL and retrieval date.
 - Added `docs/01-gaps-and-open-questions.md`: items still needed from the student (question-paper pattern, syllabus version for session, internals, medium), currency issues in the syllabus (IPC → BNS, sedition, adultery, Consumer Protection Act 2019), and honest limits.
 - Added `docs/WORKFLOW.md`: branching, logging, commit-message convention, file layout.
