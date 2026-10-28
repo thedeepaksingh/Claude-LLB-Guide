@@ -156,21 +156,22 @@
 ### Answer
 
 **Art. 27.** No person shall be compelled to pay any **tax**, the proceeds of which are specifically appropriated for the promotion or maintenance of any particular religion or denomination.
-- It forbids a **tax**, not a **fee**. A tax is a compulsory exaction for general public purposes; a fee is payment for a specific service (*Shirur Mutt*, 1954).
-- General revenue may fund religious facilities such as security at fairs.
-- Haj subsidy: *Rafique Shaikh Bhikan* (2012) directed it be phased out in ten years; it ended in 2018.
+- It forbids a **tax**, not a **fee** (payment for a specific service).
+- *Shirur Mutt* (1954): a levy to administer religious institutions was a tax but did not promote a religion.
+- *Prafull Goradia* (2011): breached only if a substantial part of a tax is used for one religion; the Haj challenge failed.
+- *Rafique Shaikh Bhikan* (2012): phase out the subsidy; it ended in 2018.
 
 **Art. 28.**
 1. **28(1):** no religious instruction in any educational institution **wholly maintained out of State funds**.
 2. **28(2):** this does not apply to an institution **administered by the State** but established under an **endowment or trust** requiring religious instruction.
 3. **28(3):** in a **recognised or aided** institution no one can be made to attend religious instruction or worship without consent (the guardian's, for a minor).
-Private unaided, unrecognised institutions are outside it.
+Private unaided, unrecognised institutions are outside.
 
 **Cases.** *Aruna Roy* (2002): teaching about religions and values in the National Curriculum Framework is not religious instruction. *Bijoe Emmanuel* (1986): no compulsion to join in worship against conscience.
 
-**Conclusion.** Both keep the State neutral.
+**Conclusion.** Both ensure State neutrality.
 
-*Word count: 194*
+*Word count: 198*
 
 ---
 

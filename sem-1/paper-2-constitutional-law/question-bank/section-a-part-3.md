@@ -111,9 +111,9 @@ Art. 25 protects **individuals** (all persons) and is subject to public order, m
 <a id="a-91"></a>
 **A-91 · Article 27: no tax for promotion of a religion**
 
-No person shall be compelled to pay any **tax** whose proceeds are specifically appropriated for the promotion or maintenance of any particular religion or religious denomination. A tax differs from a **fee**: in *Shirur Mutt* (1954) the contribution levied under the Madras Hindu Religious Endowments Act was held to be a fee for services, so Art. 27 did not apply. *Prafull Goradia* (2011) held that Haj subsidy from general revenue did not offend Art. 27.
+No person shall be compelled to pay a **tax** whose proceeds are specifically appropriated for promoting or maintaining a particular religion or denomination. A **fee** for services is outside it. *Shirur Mutt* (1954): a levy to administer religious institutions was a tax, but did not promote a religion. *Prafull Goradia* (2011): Art. 27 is breached only if a substantial part of a tax is used for one religion.
 
-*Word count: 75*
+*Word count: 68*
 
 <a id="a-92"></a>
 **A-92 · Article 28: religious instruction in educational institutions**

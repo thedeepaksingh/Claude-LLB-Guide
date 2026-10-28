@@ -121,7 +121,7 @@
 
 > **Art. 27.** *No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination.*
 
-- **Prohibits taxes**, not **fees**: a **tax** is a compulsory exaction for general public purposes; a **fee** is a charge for a specific service (*Shirur Mutt* drew the distinction on the Madras Act's levy; read the report for the result on s. 76).
+- **Prohibits taxes**, not **fees**: a **tax** is a compulsory exaction for general public purposes; a **fee** is a charge for a specific service (*Shirur Mutt* (1954) held the s. 76 levy under the Madras Act to be a **tax**, not a fee, because it had no quid pro quo with services; it was void because the State legislature lacked competence to impose it, but it did not offend Art. 27, since its object was to administer religious institutions, not to promote a religion. *Prafull Goradia* (2011): Art. 27 is breached only if a substantial part of a tax is used for one religion; the Haj subsidy challenge failed).
 - The **State may spend general revenue** on religious matters without violating Art. 27 as long as no special tax is levied (e.g., pilgrimage facilities, security at fairs).
 - **Haj subsidy:** challenged under Art. 27; in *Union of India v. Rafique Shaikh Bhikan* (2012) 6 SCC 265 the Supreme Court directed that the subsidy be **phased out** over ten years; the Government discontinued it in **2018** *(verify)*.
 - **Limits:** prohibition covers a "particular religion or denomination", not the promotion of religion in general; Art. 27 does not bar the State from taxing a religion's property under general law.
@@ -260,7 +260,7 @@
 
 ## 12. Verification checklist (do before the exam)
 
-- [ ] *Shirur Mutt* AIR 1954 SC 282 (result on s. 76 and Art. 27) · *Ratilal* AIR 1954 SC 388 · *Durgah Committee* AIR 1961 SC 1402 · *Syedna Saifuddin* AIR 1962 SC 853 · *Tilkayat* AIR 1963 SC 1638 · *Venkataramana Devaru* AIR 1958 SC 255 · *Hanif Quareshi* AIR 1958 SC 731
+- [ ] *Shirur Mutt* AIR 1954 SC 282 (s. 76 = tax, void for want of competence; Art. 27 not breached: **checked 28 Oct 2026**) · *Ratilal* AIR 1954 SC 388 · *Durgah Committee* AIR 1961 SC 1402 · *Syedna Saifuddin* AIR 1962 SC 853 · *Tilkayat* AIR 1963 SC 1638 · *Venkataramana Devaru* AIR 1958 SC 255 · *Hanif Quareshi* AIR 1958 SC 731
 - [ ] *Seshammal* (1972) 2 SCC 11 · *Jagdishwaranand* (1983) 4 SCC 522 · *S.P. Mittal* (1983) 1 SCC 51 · *Stainislaus* (1977) 1 SCC 677 · *Bijoe Emmanuel* (1986) 3 SCC 615 · *Ismail Faruqui* (1994) 6 SCC 360 · *Bommai* (1994) 3 SCC 1 · *Church of God* (2000) 7 SCC 282 · *Aruna Roy* (2002) 7 SCC 368 · *D.A.V. College* (1971) 2 SCC 269 (Art. 28 point)
 - [ ] *Shayara Bano* (2017) 9 SCC 1 (lineup of the 3:2 opinions) · Muslim Women (Protection of Rights on Marriage) Act, 2019
 - [ ] *Sabarimala* (2019) 11 SCC 1 (28 Sept 2018) · review order of 14 Nov 2019 (citation) · **nine-judge reference: reserved 14 May 2026; has it been pronounced?** · bench composition
