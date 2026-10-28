@@ -94,6 +94,8 @@ The exam caution is that Indian courts do not call themselves "realist"; the poi
 
 **Conclusion.** Realism redirected jurisprudence from rules to the behaviour of courts and officials, and from logic to experience. Its exaggerations have been corrected by Hart and others, but its basic lesson, that law in action may differ from law in books and that judges do make law, is now generally accepted.
 
+*Word count: 1539*
+
 ---
 
 <a id="c-20"></a>
@@ -145,6 +147,8 @@ The exam caution is that Indian courts do not call themselves "realist"; the poi
 **7. Verdict.** The statement is partly right. Realism combines the positivist concern with law as it is and a rejection of natural law with the sociological concern with law's social working and effects. But realism is not a simple sum of the two. It has its own distinctive claims: the centrality of the judge, rule-scepticism and fact-scepticism, and the prediction theory. It is best described as an empirical, judge-centred and sceptical development that borrowed from both, and then went beyond them.
 
 **Conclusion.** American Realism stands between the analytical and sociological schools: it is positivist in its refusal to mix law and morals and sociological in its attention to law in action. Yet it adds a sceptical view of rules and a focus on judicial behaviour, which makes it a separate movement.
+
+*Word count: 967*
 
 ---
 
@@ -222,6 +226,8 @@ Marx's thought arose from (i) the Industrial Revolution and its extreme inequali
 
 **Conclusion.** The Marxist approach treats law as a part of the superstructure of society, shaped by the economic base and used by the ruling class. It is valuable in showing how law reflects power and economic interest, but it is too narrow and deterministic as a general theory. India has taken from it the idea of economic justice without adopting its class-war and withering-away doctrines.
 
+*Word count: 1393*
+
 ---
 
 <a id="c-22"></a>
@@ -276,6 +282,8 @@ Marx's thought arose from (i) the Industrial Revolution and its extreme inequali
 5. **Gig work.** The treatment of platform workers revives the issue of formal freedom of contract against real bargaining power; the Code on Social Security, 2020 recognises gig and platform workers.
 
 **Conclusion.** The economic approach shows that law is bound up with the economy, in two different ways: Marxists see law as an expression of economic power, while law and economics sees it as a means of allocating resources efficiently. Neither is a complete theory of law. But each has contributed lasting ideas, such as the link between law and class interest and the use of cost-benefit reasoning, and both are visible in Indian constitutional and statutory law.
+
+*Word count: 1047*
 
 ---
 
@@ -339,6 +347,8 @@ Marx's thought arose from (i) the Industrial Revolution and its extreme inequali
 
 **Conclusion.** The schools ask different questions and give different answers. Together they give a fuller picture of law as a system of rules, a product of history, an instrument of social purpose, the work of courts, a vehicle of justice and an expression of economic power.
 
+*Word count: 1041*
+
 ---
 
 <a id="c-24"></a>
@@ -395,5 +405,7 @@ Marx's thought arose from (i) the Industrial Revolution and its extreme inequali
 **8. Assessment.** The two sides each state part of the truth. Law cannot be identified with morality, because law may be unjust and a citizen must be able to say so. But law cannot be wholly cut off from morality, because the content of most law rests on moral ideas, because judges often have to decide hard cases by moral reasoning, and because most constitutions (including India's) make fundamental rights, which are moral claims, a test of validity. The modern Indian position is a blend: a positivist method for identifying law (enactment, hierarchy of norms) combined with natural-law-style limits (basic structure, fundamental rights, constitutional morality).
 
 **Conclusion.** The relation between law and morality is one of overlap but not identity. Natural-law thinkers join them, positivists separate them, and modern writers such as Hart and Fuller argue about how far. In India, the courts have increasingly tested law by constitutional morality while keeping the distinction between what law is and what it should be.
+
+*Word count: 1296*
 
 ---

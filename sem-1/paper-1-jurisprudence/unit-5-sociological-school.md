@@ -1,11 +1,22 @@
 # Paper I · Jurisprudence – I (K-1001) · Unit 5
 ## Sociological School: Background and Characteristics; Roscoe Pound; Leon Duguit
 
-> **Last updated:** 2026-10-27 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
+> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
 > **Verify before exam:** case citations in §8 and the recent decisions in §10 (checklist at the end).
 > **Syllabus line (official):** *Sociological School: Background and Characteristics, Roscoe Pound, Leon Dugit*
 
-**How this unit is examined.** Typical questions: (a) background and characteristics of the Sociological School (long); (b) Roscoe Pound's social engineering and classification of interests (long, very frequent); (c) Duguit's social solidarity and "property as a social function" (long or short); (d) critical evaluation, or comparison with Analytical and Historical schools; (e) short notes on *living law*, *jural postulates*, *law in action v. law in books*, *social solidarity*. **Draw Pound's interests chart**; it earns marks quickly. Link every theory to **Indian social-justice cases** (PIL, M.C. Mehta, Vishaka).
+**How this unit has been examined (December 2022–2025).** 8 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q5 (4): Contribution of Leon Duguit. → [A-76](question-bank/section-a-part-3-units-4-5.md#a-76)
+- Dec 2025 Q11 (20): The aim of social engineering is to build an efficient structure of society as possible, which involves the balancing… → [C-16](question-bank/section-c-part-3-units-4-5.md#c-16)
+- Dec 2024 Q5 (4): Social Solidarity → [A-75](question-bank/section-a-part-3-units-4-5.md#a-75)
+- Dec 2024 Q10 (20): Write a detailed essay on the "Social Engineering Theory." → [C-16](question-bank/section-c-part-3-units-4-5.md#c-16)
+- Dec 2023 Q4 (4): Duguit → [A-76](question-bank/section-a-part-3-units-4-5.md#a-76)
+- Dec 2023 Q9 (20): What do you mean by Dean Roscoe Pound's theory of Social Engineering? Discuss. → [C-16](question-bank/section-c-part-3-units-4-5.md#c-16)
+- Dec 2022 Q8 (10): Write short note on Duguit's doctrine of 'Social Solidarity'. → [B-31](question-bank/section-b-part-3-units-4-5.md#b-31)
+- Dec 2022 Q12 (20): "The aim of social engineering is to build an efficient structure of society as possible, which involves the balancin… → [C-16](question-bank/section-c-part-3-units-4-5.md#c-16)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-1-jurisprudence.md`](../../docs/past-papers/paper-1-jurisprudence.md). Unit assignment is by the main topic of the question. The paragraph that stood here earlier was a guess made before I had the papers. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -294,79 +305,45 @@ The Constitution is itself an instrument of **social engineering**:
 
 ## 11. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The three-tier outlines (10–15, 5 and 2 marks) that stood here earlier were guesses made before I had the papers, and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Thinkers and cases: [`jurists-and-cases-digest.md`](question-bank/jurists-and-cases-digest.md) (cases for this unit: 28–40). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Explain the background and characteristics of the Sociological School of jurisprudence.**
-**Introduction:** The Sociological School views law as a social institution to be studied by its effects on society.
-**Body:** (1) Background: industrialisation; dissatisfaction with Analytical and Historical schools; rise of sociology (Comte, Spencer, Durkheim, Weber). (2) Precursors: Jhering, Ehrlich, Gény, Holmes, Brandeis, Cardozo. (3) Characteristics: Pound's six-point programme, plus the general features in §2. (4) Distinction from the sociology of law.
-**Indian link:** PIL, *Hussainara Khatoon*, *Vishaka*.
-**Conclusion:** The school made law responsive to social facts.
+- [C-16](question-bank/section-c-part-3-units-4-5.md#c-16) Roscoe Pound's theory of social engineering: law as the balancing of competing interests *(set Dec 2025 Q11; Dec 2024 Q10; Dec 2023 Q9; Dec 2022 Q12)*
+- [C-17](question-bank/section-c-part-3-units-4-5.md#c-17) The sociological school of jurisprudence: background and characteristics, with the contributions of Jhering and Ehrlich
+- [C-18](question-bank/section-c-part-3-units-4-5.md#c-18) Leon Duguit's theory of social solidarity
 
----
+**Section B (10 marks)**
 
-**Q2. Discuss Roscoe Pound's theory of social engineering and his classification of interests.**
-**Introduction:** Pound described law as social engineering.
-**Body:** (1) Meaning of social engineering. (2) Theory of interests; four steps. (3) Classification (draw the chart): individual, public, social. (4) Jural postulates. (5) Law in books v. law in action. (6) Stages of legal development.
-**Cases:** *M.C. Mehta* (Oleum), *Vishaka*, *Olga Tellis*, *PUDR*.
-**Criticism:** §A.7.
-**Conclusion:** Pound's value lies in his balancing method rather than in a fixed list of interests.
+- [B-31](question-bank/section-b-part-3-units-4-5.md#b-31) Write a short note on Duguit's doctrine of social solidarity *(set Dec 2022 Q8)*
+- [B-32](question-bank/section-b-part-3-units-4-5.md#b-32) Rudolf von Jhering: law as a means to an end
+- [B-33](question-bank/section-b-part-3-units-4-5.md#b-33) Eugen Ehrlich's "living law"
+- [B-34](question-bank/section-b-part-3-units-4-5.md#b-34) Pound's classification of interests
+- [B-35](question-bank/section-b-part-3-units-4-5.md#b-35) Pound's jural postulates
+- [B-36](question-bank/section-b-part-3-units-4-5.md#b-36) Social engineering: criticism and application in India
+- [B-37](question-bank/section-b-part-3-units-4-5.md#b-37) Characteristics of the sociological school
 
----
+**Section A (4 marks), 17 answers**
 
-**Q3. Explain Duguit's theory of social solidarity. Why did he reject individual rights?**
-**Body:** (1) Social solidarity (similarity; division of labour). (2) Objective law. (3) Rejection of sovereignty. (4) Rights replaced by social functions. (5) Property as a social function. (6) Public service.
-**Indian link:** Arts. 39(b)–(c), 300A, 51A; *Sanjeev Coke*; *Property Owners Association* (2024).
-**Criticism:** §B.6.
+- [A-71](question-bank/section-a-part-3-units-4-5.md#a-71) The sociological school
+- [A-72](question-bank/section-a-part-3-units-4-5.md#a-72) Comte and Durkheim as background
+- [A-73](question-bank/section-a-part-3-units-4-5.md#a-73) Jhering
+- [A-74](question-bank/section-a-part-3-units-4-5.md#a-74) Ehrlich: living law
+- [A-75](question-bank/section-a-part-3-units-4-5.md#a-75) Social solidarity *(set Dec 2024 Q5)*
+- [A-76](question-bank/section-a-part-3-units-4-5.md#a-76) Contribution of Leon Duguit *(set Dec 2025 Q5; Dec 2023 Q4)*
+- [A-77](question-bank/section-a-part-3-units-4-5.md#a-77) Duguit: property as a social function
+- [A-78](question-bank/section-a-part-3-units-4-5.md#a-78) Duguit on the State and sovereignty
+- [A-79](question-bank/section-a-part-3-units-4-5.md#a-79) Social engineering (Pound)
+- [A-80](question-bank/section-a-part-3-units-4-5.md#a-80) Pound's classification of interests
+- [A-81](question-bank/section-a-part-3-units-4-5.md#a-81) Jural postulates
+- [A-82](question-bank/section-a-part-3-units-4-5.md#a-82) Pound's stages of legal development
+- [A-83](question-bank/section-a-part-3-units-4-5.md#a-83) Law in books and law in action
+- [A-84](question-bank/section-a-part-3-units-4-5.md#a-84) Criticism of Pound
+- [A-85](question-bank/section-a-part-3-units-4-5.md#a-85) Social engineering in India
+- [A-86](question-bank/section-a-part-3-units-4-5.md#a-86) Pound's works
+- [A-87](question-bank/section-a-part-3-units-4-5.md#a-87) Sociological and analytical schools: difference
 
----
-
-**Q4. Compare the Sociological School with the Analytical and Historical Schools.**
-*(Use the §5 table, then explain each row in two lines, and conclude that the Sociological School complements rather than replaces the others.)*
-
----
-
-**Q5. Critically evaluate the Sociological School and its relevance in India.**
-*(Use §8 and §6–§7. Give the Indian social-justice cases and the recent decisions in §10.)*
-
----
-
-**Q6. "Law is an instrument of social change." Discuss with reference to Indian experience.**
-*(Use Pound, the Constitution as social engineering (§6), PIL cases (§7), and legislative examples. Close with the caution that law alone cannot change society without implementation.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Characteristics of sociological jurisprudence (Pound's six points).**
-2. **Jhering: law as a means to an end.**
-3. **Ehrlich's living law.**
-4. **Free Law Movement.**
-5. **Law as social engineering.**
-6. **Pound's classification of interests.**
-7. **Jural postulates.**
-8. **Law in books and law in action.**
-9. **Duguit's social solidarity.**
-10. **Property as a social function.**
-11. **Public service theory (Duguit).**
-12. **PIL as sociological jurisprudence.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Who coined the term "sociology"? | Auguste Comte. |
-| Who wrote *Law as a Means to an End*? | Rudolf von Jhering. |
-| Who developed the concept of "living law"? | Eugen Ehrlich. |
-| What are the three categories of interests in Pound? | Individual, public and social. |
-| Name Pound's famous article of 1910. | *Law in Books and Law in Action*. |
-| What did Pound say law is? | Social engineering. |
-| What is Duguit's central idea? | Social solidarity (law rests on interdependence of people). |
-| Did Duguit accept individual rights? | No; only social functions and duties. |
-| Which Article reflects "property as social function"? | Art. 39(b)–(c) (and Art. 300A on property). |
-| What is the Brandeis brief? | A legal argument using social and economic data, in *Muller v. Oregon* (1908). |
-| Name the Indian case on absolute liability. | *M.C. Mehta v. Union of India* (Oleum gas leak, 1987). |
+**Across all units:** [C-23](question-bank/section-c-part-4-units-6-7-cross.md#c-23) Compare the main schools of jurisprudence: natural law, analytical, historical, sociological, realist and Marxist; [C-24](question-bank/section-c-part-4-units-6-7-cross.md#c-24) Law and morality: their relation in natural law, positivism and modern debates, with Indian illustrations
 
 ---
 

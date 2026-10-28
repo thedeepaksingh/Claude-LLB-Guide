@@ -1,11 +1,20 @@
 # Paper I · Jurisprudence – I (K-1001) · Unit 2
 ## Natural Law School: Classical Natural Law; Revival of Natural Law — Rudolf Stammler and Kohler
 
-> **Last updated:** 2026-10-27 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
+> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
 > **Verify before exam:** case citations in §6 and §7 (checklist at the end).
 > **Syllabus line (official):** *Natural Law School: Classical Natural Law, Revival of Natural Law: Rudolf Stammler and Kohler*
 
-**How this unit is examined.** Typical questions: (a) trace the evolution of natural law from the Greeks to the modern revival (long); (b) explain Stammler's and/or Kohler's contribution (long or short); (c) critically evaluate natural law and its relevance today (long); (d) short notes on Aquinas, Grotius, Locke, Fuller, or "natural law with variable content". Always **name the thinker, the book, the century and the core idea**; link to at least one Indian case.
+**How this unit has been examined (December 2022–2025).** 6 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q13 (20): The basis of natural law was the man's reason and wisdom and not the spiritual power of God. Discuss. → [C-06](question-bank/section-c-part-1-units-1-2.md#c-06)
+- Dec 2024 Q1 (4): Manu → [A-17](question-bank/section-a-part-1-units-1-2.md#a-17)
+- Dec 2024 Q7 (10): Write a note on revival of natural law. → [B-08](question-bank/section-b-part-1-units-1-2.md#b-08)
+- Dec 2023 Q1 (4): Manu → [A-17](question-bank/section-a-part-1-units-1-2.md#a-17)
+- Dec 2022 Q3 (4): Manu. → [A-17](question-bank/section-a-part-1-units-1-2.md#a-17)
+- Dec 2022 Q9 (20): Discuss fully the past theories of natural law school of Jurisprudence. → [C-05](question-bank/section-c-part-1-units-1-2.md#c-05)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-1-jurisprudence.md`](../../docs/past-papers/paper-1-jurisprudence.md). Unit assignment is by the main topic of the question. The paragraph that stood here earlier was a guess made before I had the papers. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -201,76 +210,46 @@ flowchart LR
 
 ## 11. Question bank (model answers)
 
-*Mark bands are indicative; adjust once the paper pattern is confirmed (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The three-tier outlines (10–15, 5 and 2 marks) that stood here earlier were guesses made before I had the papers, and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Thinkers and cases: [`jurists-and-cases-digest.md`](question-bank/jurists-and-cases-digest.md) (cases for this unit: 1–11 (morality, natural law and the limits of law)). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Explain the natural law school. Trace its development from the Greek period to the modern revival.**
+- [C-05](question-bank/section-c-part-1-units-1-2.md#c-05) Past theories of the natural law school *(set Dec 2022 Q9)*
+- [C-06](question-bank/section-c-part-1-units-1-2.md#c-06) "The basis of natural law was man's reason and wisdom, and not the spiritual power of God." Discuss. *(set Dec 2025 Q13)*
+- [C-07](question-bank/section-c-part-1-units-1-2.md#c-07) The revival of natural law: Stammler, Kohler and later writers
 
-**Introduction.** Natural law is the oldest school of legal thought. It claims that human law must conform to a higher, universal and rational standard.
-**Body.**
-1. *Greek:* Sophists' nature v. convention; Plato's ideal justice; Aristotle's natural and legal justice.
-2. *Stoics and Romans:* universal reason; Cicero; *jus naturale* and *jus gentium* used by Roman praetors to humanise the *jus civile*.
-3. *Medieval:* Augustine's eternal law; Aquinas's four-fold classification (eternal, divine, natural, human) and the rule that an unjust law is a perversion of law.
-4. *Renaissance and Enlightenment:* Grotius secularised natural law; Hobbes, Locke and Rousseau built social-contract theories; Kant's categorical imperative; revolutions produced bills of rights.
-5. *Decline:* Bentham, Austin, Hume, historical school and Marx rejected it.
-6. *Revival:* post-1900 revival in reaction to formalism and later to totalitarianism: Stammler's variable-content natural law, Kohler's civilisation theory, Radbruch's formula, Fuller's inner morality, Finnis, Dworkin.
-7. *India:* *Kesavananda*, *Maneka Gandhi*, *Puttaswamy*.
+**Section B (10 marks)**
 
-**Criticism and conclusion.** (Summarise §7.) Natural law's lasting value is as a moral check on power and a foundation for human rights.
+- [B-07](question-bank/section-b-part-1-units-1-2.md#b-07) Natural law: meaning, features and criticism
+- [B-08](question-bank/section-b-part-1-units-1-2.md#b-08) Write a note on the revival of natural law *(set Dec 2024 Q7)*
+- [B-09](question-bank/section-b-part-1-units-1-2.md#b-09) Rudolf Stammler's theory of natural law with a variable content
+- [B-10](question-bank/section-b-part-1-units-1-2.md#b-10) Josef Kohler's theory: law and civilisation
+- [B-11](question-bank/section-b-part-1-units-1-2.md#b-11) Aquinas and the four kinds of law
+- [B-12](question-bank/section-b-part-1-units-1-2.md#b-12) Fuller's inner morality of law and the Hart–Fuller debate
+- [B-13](question-bank/section-b-part-1-units-1-2.md#b-13) Manu and the Hindu concept of dharma and law
+- [B-49](question-bank/section-b-part-1-units-1-2.md#b-49) Grotius, Hobbes, Locke and Rousseau: reason, the social contract and natural rights
 
----
+**Section A (4 marks), 17 answers**
 
-**Q2. Discuss the contributions of Rudolf Stammler and Josef Kohler to the revival of natural law.**
-*(Use §3. Structure: why revival was needed → Stammler (concept v. idea of law; variable content; social ideal; four principles; criticism) → Kohler (law and civilisation; relative natural law; criticism) → comparison table → conclusion that both rescued natural law from fixed dogma by tying it to change.)*
+- [A-16](question-bank/section-a-part-1-units-1-2.md#a-16) Natural law
+- [A-17](question-bank/section-a-part-1-units-1-2.md#a-17) Manu *(set Dec 2024 Q1; Dec 2023 Q1; Dec 2022 Q3)*
+- [A-18](question-bank/section-a-part-1-units-1-2.md#a-18) Sources of dharma (Manu) and sources of law (Kautilya)
+- [A-19](question-bank/section-a-part-1-units-1-2.md#a-19) Aristotle on natural justice
+- [A-20](question-bank/section-a-part-1-units-1-2.md#a-20) The Stoics and natural law
+- [A-21](question-bank/section-a-part-1-units-1-2.md#a-21) Cicero on natural law
+- [A-22](question-bank/section-a-part-1-units-1-2.md#a-22) Aquinas: four kinds of law
+- [A-23](question-bank/section-a-part-1-units-1-2.md#a-23) Grotius
+- [A-24](question-bank/section-a-part-1-units-1-2.md#a-24) Social contract: Hobbes, Locke and Rousseau
+- [A-25](question-bank/section-a-part-1-units-1-2.md#a-25) Stammler
+- [A-26](question-bank/section-a-part-1-units-1-2.md#a-26) Kohler
+- [A-27](question-bank/section-a-part-1-units-1-2.md#a-27) Fuller's eight desiderata
+- [A-28](question-bank/section-a-part-1-units-1-2.md#a-28) Finnis
+- [A-29](question-bank/section-a-part-1-units-1-2.md#a-29) Rawls
+- [A-30](question-bank/section-a-part-1-units-1-2.md#a-30) Radbruch formula
+- [A-31](question-bank/section-a-part-1-units-1-2.md#a-31) Natural law ideas in India
+- [A-32](question-bank/section-a-part-1-units-1-2.md#a-32) Criticism of natural law
 
----
-
-**Q3. Critically examine the natural law theory. Is it relevant in modern times?**
-*(Use §7 and §9. Give the criticisms, then the strengths, then modern relevance with human rights, Nuremberg, basic structure and *Puttaswamy*. Take a balanced position.)*
-
----
-
-**Q4. Distinguish between natural law and positivism. Discuss the Hart–Fuller debate.**
-*(Use §8 and §4. Include the grudge-informer case and the eight desiderata.)*
-
----
-
-**Q5. Discuss the influence of natural law on Indian constitutional development.**
-*(Use §5 and §6. Pair each natural-law/positivist case: *Gopalan* → *Maneka Gandhi*; *ADM Jabalpur* → *Puttaswamy*; *Golaknath* → *Kesavananda* → *Minerva Mills*.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Aquinas's four kinds of law.** (§2.3 table.)
-2. **Grotius and the secularisation of natural law.**
-3. **Locke's natural rights and the social contract.**
-4. **Stammler's "natural law with variable content."**
-5. **Stammler's principles of respect and participation.**
-6. **Kohler's jurisprudence of civilisation.**
-7. **Fuller's eight desiderata (inner morality of law).**
-8. **Hart's minimum content of natural law.**
-9. **Natural justice** (*nemo judex*, *audi alteram partem*; *Kraipak*, *Maneka Gandhi*).
-10. **Basic structure doctrine as a natural-law idea** (*Kesavananda*).
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Who said an unjust law is a perversion of law? | St Thomas Aquinas. |
-| Name the four kinds of law in Aquinas. | *Lex aeterna*, *lex divina*, *lex naturalis*, *lex humana*. |
-| Who is "father of international law"? | Hugo Grotius (*De Jure Belli ac Pacis*, 1625). |
-| Which natural rights did Locke emphasise? | Life, liberty and property. |
-| Who wrote *The Theory of Just Law*? | Rudolf Stammler (1902). |
-| What is Stammler's social ideal? | A community of free-willing men. |
-| Name Stammler's two groups of principles. | Principles of respect and principles of participation. |
-| Who wrote *Philosophy of Law* (1909) and the idea of "jurisprudence of civilisation"? | Josef Kohler. |
-| Who wrote *The Morality of Law*? | Lon L. Fuller (1964). |
-| How many desiderata did Fuller list? | Eight. |
-| Which Indian case established the basic structure doctrine? | *Kesavananda Bharati v. State of Kerala* (1973). |
-| Which case overruled *ADM Jabalpur*? | *K.S. Puttaswamy v. Union of India* (2017). |
-| What does *audi alteram partem* mean? | Hear the other side. |
+**Across all units:** [C-23](question-bank/section-c-part-4-units-6-7-cross.md#c-23) Compare the main schools of jurisprudence: natural law, analytical, historical, sociological, realist and Marxist; [C-24](question-bank/section-c-part-4-units-6-7-cross.md#c-24) Law and morality: their relation in natural law, positivism and modern debates, with Indian illustrations
 
 ---
 

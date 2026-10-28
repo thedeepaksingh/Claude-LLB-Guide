@@ -1,11 +1,18 @@
 # Paper I · Jurisprudence – I (K-1001) · Unit 6
 ## American Modern Realism
 
-> **Last updated:** 2026-10-27 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
+> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
 > **Verify before exam:** case citations in §8 and quotations in §3 (checklist at the end).
 > **Syllabus line (official):** *American Modern Realism*
 
-**How this unit is examined.** Typical questions: (a) "Explain American Realism and its main exponents (Holmes, Gray, Llewellyn, Frank)" (long); (b) "Critically evaluate Realism" (long); (c) "Compare Realism with the Analytical and Sociological Schools" (long); (d) short notes on *prophecy theory*, *bad man theory*, *rule-scepticism v. fact-scepticism*, *Llewellyn's law-jobs*, *Gray's view of judge-made law*. The syllabus names no individual thinkers, so **cover all four main ones**; add Scandinavian Realism briefly for depth.
+**How this unit has been examined (December 2022–2025).** 4 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q8 (10): "The prophecies of what the courts will do in fact, and nothing more pretentious, are what I mean by the Law." Discus… → [B-38](question-bank/section-b-part-4-units-6-7.md#b-38)
+- Dec 2024 Q9 (20): American modern realism is a combination of the analytical positivists and sociological approaches. Comment. → [C-20](question-bank/section-c-part-4-units-6-7-cross.md#c-20)
+- Dec 2023 Q12 (20): Write detailed essay on 'Realist Movement' of jurisprudence. → [C-19](question-bank/section-c-part-4-units-6-7-cross.md#c-19)
+- Dec 2022 Q2 (4): Justice Holmes. → [A-88](question-bank/section-a-part-4-units-6-7.md#a-88)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-1-jurisprudence.md`](../../docs/past-papers/paper-1-jurisprudence.md). Unit assignment is by the main topic of the question. The paragraph that stood here earlier was a guess made before I had the papers. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -207,67 +214,39 @@ India's legal system gives many illustrations that **judges make law**:
 
 ## 11. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The three-tier outlines (10–15, 5 and 2 marks) that stood here earlier were guesses made before I had the papers, and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Thinkers and cases: [`jurists-and-cases-digest.md`](question-bank/jurists-and-cases-digest.md) (cases for this unit: 41–43). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Explain the American Realist movement. Discuss the contributions of Holmes, Gray, Llewellyn and Frank.**
-**Introduction:** American Realism emerged in the 1920s–30s as a reaction against formalism.
-**Body:** (1) Background (formalism, *Lochner*, pragmatism, Pound, New Deal). (2) Llewellyn's nine points and general characteristics. (3) Holmes (prophecy; bad man; experience). (4) Gray (statute as source; courts make law). (5) Llewellyn (real v. paper rules; law-jobs; Grand Style). (6) Frank (fact-scepticism; myth of certainty; actual v. probable law). (7) Scandinavian Realism in a line.
-**Indian link:** §7.
-**Conclusion:** Realism shifted jurisprudence from rules to the actual working of the legal system.
+- [C-19](question-bank/section-c-part-4-units-6-7-cross.md#c-19) Write a detailed essay on the Realist movement of jurisprudence *(set Dec 2023 Q12)*
+- [C-20](question-bank/section-c-part-4-units-6-7-cross.md#c-20) "American modern realism is a combination of the analytical positivists and sociological approaches." Comment *(set Dec 2024 Q9)*
 
----
+**Section B (10 marks)**
 
-**Q2. Critically evaluate American Realism. How far is it relevant to modern legal systems, particularly India?**
-*(Use §5, §6, §7 and §9. Present Hart's critique, the merits, and close with the balanced view that realism corrects formalism but cannot replace a theory of legal rules.)*
+- [B-38](question-bank/section-b-part-4-units-6-7.md#b-38) "The prophecies of what the courts will do in fact, and nothing more pretentious, are what I mean by the Law." Discuss *(set Dec 2025 Q8)*
+- [B-39](question-bank/section-b-part-4-units-6-7.md#b-39) John Chipman Gray: law as what the courts lay down
+- [B-40](question-bank/section-b-part-4-units-6-7.md#b-40) Llewellyn and Frank: rule-scepticism and fact-scepticism
+- [B-41](question-bank/section-b-part-4-units-6-7.md#b-41) Features of American realism
+- [B-42](question-bank/section-b-part-4-units-6-7.md#b-42) American realism: criticism and contribution
+- [B-43](question-bank/section-b-part-4-units-6-7.md#b-43) Realism and the Indian judiciary: judges as law-makers
 
----
+**Section A (4 marks), 13 answers**
 
-**Q3. Compare Analytical, Sociological and Realist approaches to law.**
-*(Use the §4 table; add one paragraph each on how Austin, Pound and Holmes would define law.)*
+- [A-88](question-bank/section-a-part-4-units-6-7.md#a-88) Justice Holmes *(set Dec 2022 Q2)*
+- [A-89](question-bank/section-a-part-4-units-6-7.md#a-89) Prediction theory of law
+- [A-90](question-bank/section-a-part-4-units-6-7.md#a-90) The "bad man" theory
+- [A-91](question-bank/section-a-part-4-units-6-7.md#a-91) "The life of the law has not been logic: it has been experience"
+- [A-92](question-bank/section-a-part-4-units-6-7.md#a-92) Gray's view of law
+- [A-93](question-bank/section-a-part-4-units-6-7.md#a-93) Llewellyn
+- [A-94](question-bank/section-a-part-4-units-6-7.md#a-94) Jerome Frank
+- [A-95](question-bank/section-a-part-4-units-6-7.md#a-95) Rule-sceptics and fact-sceptics
+- [A-96](question-bank/section-a-part-4-units-6-7.md#a-96) Features of American realism
+- [A-97](question-bank/section-a-part-4-units-6-7.md#a-97) American and Scandinavian realism
+- [A-98](question-bank/section-a-part-4-units-6-7.md#a-98) Criticism of realism
+- [A-99](question-bank/section-a-part-4-units-6-7.md#a-99) Realism in India
+- [A-100](question-bank/section-a-part-4-units-6-7.md#a-100) Realism and sociological jurisprudence: difference
 
----
-
-**Q4. "Law is nothing more than a prophecy of what courts will do." Discuss in light of Holmes's theory.**
-*(Use §3.1 and §5. Explain the prediction theory and the bad-man standpoint, then the objection that a judge cannot predict his own decision and that citizens need law as a guide.)*
-
----
-
-**Q5. Distinguish between rule-scepticism and fact-scepticism with reference to Llewellyn and Frank.**
-*(Use §3.3, §3.4 and §6. Add a table: object of doubt; method; key work; criticism.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Llewellyn's nine points of realism.**
-2. **Holmes's prediction theory.**
-3. **Holmes's "bad man" theory.**
-4. **Gray's view that all law is judge-made.**
-5. **Llewellyn's law-jobs theory.**
-6. **Paper rules and real rules.**
-7. **Jerome Frank's fact-scepticism.**
-8. **Rule-scepticism and Hart's criticism.**
-9. **Scandinavian Realism.**
-10. **Judicial activism and realism in India.**
-11. **Formalism v. Realism.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Who is regarded as the father of American Realism? | Oliver Wendell Holmes Jr. |
-| Name Holmes's 1897 essay. | *The Path of the Law*. |
-| Who said "the life of the law has not been logic: it has been experience"? | Holmes (*The Common Law*, 1881). |
-| What is Gray's view of statutes? | A statute is a source of law, not law, until applied by courts. |
-| Who wrote *The Bramble Bush*? | Karl Llewellyn (1930). |
-| Which code is Llewellyn associated with? | The Uniform Commercial Code (UCC). |
-| Who is a "fact-sceptic"? | Jerome Frank. |
-| Name Frank's major 1930 book. | *Law and the Modern Mind*. |
-| What are "paper rules"? | Rules as stated in books, as distinct from "real rules" followed by courts. |
-| Name two Scandinavian realists. | Alf Ross and Karl Olivecrona (also Hägerström). |
-| Which Indian doctrine was borrowed from American practice by *Golaknath*? | Prospective overruling. |
+**Across all units:** [C-23](question-bank/section-c-part-4-units-6-7-cross.md#c-23) Compare the main schools of jurisprudence: natural law, analytical, historical, sociological, realist and Marxist; [C-24](question-bank/section-c-part-4-units-6-7-cross.md#c-24) Law and morality: their relation in natural law, positivism and modern debates, with Indian illustrations
 
 ---
 

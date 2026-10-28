@@ -1,11 +1,11 @@
-# Paper I · Question Bank · Section B (10 marks) · Part 1: B-01 to B-13 (Units 1–2)
+# Paper I · Question Bank · Section B (10 marks) · Part 1: B-01 to B-13 and B-49 (Units 1–2)
 
 > **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/01-jurisprudence`
 > **Pattern:** Section B = any 2 of 3, 10 marks each, "not more than 200 words". Every model answer below is **200 words or fewer** (the count is printed under each answer), which is a **12–15 minute** answer. See [`../../../docs/02-exam-pattern-and-past-papers.md`](../../../docs/02-exam-pattern-and-past-papers.md).
 > **"Rubric (mine)"** lines are **my own** mark splits; the university publishes no marking scheme. Where a question was asked in a past paper, the "Asked as" line gives the year and question number; the other questions fill syllabus lines that have not yet been asked at this level.
 > **Citations:** thinker + work + year is enough in 200 words. Details and the status of each checked item are in the [source-verification log](source-verification-log.md).
 
-**Contents:** [B-01](#b-01) Need for the study of jurisprudence · [B-02](#b-02) "Eye of law" · [B-03](#b-03) Law and morals · [B-04](#b-04) Kinds of jurisprudence · [B-05](#b-05) Jurisprudence and other social sciences · [B-06](#b-06) Holland, Salmond and Gray · [B-07](#b-07) Natural law: features and criticism · [B-08](#b-08) Revival of natural law · [B-09](#b-09) Stammler · [B-10](#b-10) Kohler · [B-11](#b-11) Aquinas: four kinds of law · [B-12](#b-12) Fuller and the inner morality of law · [B-13](#b-13) Manu and dharma
+**Contents:** [B-01](#b-01) Need for the study of jurisprudence · [B-02](#b-02) "Eye of law" · [B-03](#b-03) Law and morals · [B-04](#b-04) Kinds of jurisprudence · [B-05](#b-05) Jurisprudence and other social sciences · [B-06](#b-06) Holland, Salmond and Gray · [B-07](#b-07) Natural law: features and criticism · [B-08](#b-08) Revival of natural law · [B-09](#b-09) Stammler · [B-10](#b-10) Kohler · [B-11](#b-11) Aquinas: four kinds of law · [B-12](#b-12) Fuller and the inner morality of law · [B-13](#b-13) Manu and dharma · [B-49](#b-49) Grotius, Hobbes, Locke and Rousseau
 
 ---
 
@@ -347,5 +347,30 @@ A total failure in any one of these does not make a bad system of law, but no sy
 **Assessment.** Manu shows a developed system of custom-based law with the king subject to dharma. But it sanctions caste hierarchy and unequal treatment of women and *shudras*, which the Constitution rejects (Arts. 14–17). Modern Hindu law has been codified (1955–56).
 
 *Word count: 187*
+
+---
+
+<a id="b-49"></a>
+## B-49 · Grotius, Hobbes, Locke and Rousseau: reason, the social contract and natural rights
+
+**Asked as:** syllabus line ("Natural Law School: classical natural law"). Related: A-23, A-24, B-07, C-05, C-06.
+**Marks:** 10 · **Limit:** ≤200 words
+**Rubric (mine):** background 2 · Grotius 2 · Hobbes, Locke and Rousseau 4 · assessment 2
+
+### Answer
+
+In the seventeenth and eighteenth centuries natural law was separated from theology and rested on human reason. The social contract explained the origin of the State and of law.
+
+**Grotius** (1583–1645), *De Jure Belli ac Pacis* (1625): natural law is the dictate of right reason, drawn from man's social nature, and would hold even if there were no God. He founded modern international law.
+
+**Hobbes** (1588–1679), *Leviathan* (1651): in the state of nature life is "solitary, poor, nasty, brutish, and short". Men give up their rights to an absolute sovereign for safety. Law is the sovereign's command, which anticipates Austin.
+
+**Locke** (1632–1704), *Two Treatises of Government* (1689–90): the rights to life, liberty and property exist before government. Government rests on consent and is limited; a ruler who betrays the trust may be resisted. He influenced modern fundamental rights.
+
+**Rousseau** (1712–78), *The Social Contract* (1762): sovereignty lies in the general will of the people.
+
+**Assessment.** The contract is a fiction, not history. The theories reach opposite results (absolutism in Hobbes, limited government in Locke). Their lasting gift is the idea that law rests on reason and consent.
+
+*Word count: 186*
 
 ---

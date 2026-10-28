@@ -1,11 +1,19 @@
 # Paper I · Jurisprudence – I (K-1001) · Unit 4
 ## Historical School: Frederick Karl von Savigny and Sir Henry Sumner Maine
 
-> **Last updated:** 2026-10-27 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
+> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
 > **Verify before exam:** case citations in §7 and the "current developments" in §9 (checklist at the end).
 > **Syllabus line (official):** *Historical School: Frederick Karl Von Savigny, Sir Henry Sumner Maine*
 
-**How this unit is examined.** Typical questions: (a) Savigny's theory of *Volksgeist* with criticism (long); (b) Maine's contribution: stages of legal development, status to contract, patriarchal theory (long); (c) comparison of Savigny and Maine, or evaluation of the Historical School (long); (d) custom as a source of law with Indian cases (long or short); (e) short notes on *Volksgeist*, Thibaut–Savigny controversy, legal fictions, "status to contract". Examiners reward the **exact phrase "from status to contract"**, the **three instrumentalities (fictions, equity, legislation)** and the **named works with dates**.
+**How this unit has been examined (December 2022–2025).** 5 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q4 (4): Name the books written by Sir Henry Maine and Savigny. Two each. → [A-59](question-bank/section-a-part-3-units-4-5.md#a-59)
+- Dec 2025 Q10 (20): The movement of progressive societies has hitherto been a movement from status to contract. Comment on this statement… → [C-14](question-bank/section-c-part-3-units-4-5.md#c-14)
+- Dec 2024 Q6 (10): Discuss in short the 'Volksgeist Theory' of law. → [B-25](question-bank/section-b-part-3-units-4-5.md#b-25)
+- Dec 2022 Q6 (10): "Law grows with growth, strengthens with the strength of people and finally dies away as a nation loses its nationali… → [B-26](question-bank/section-b-part-3-units-4-5.md#b-26)
+- Dec 2022 Q13 (20): "Movement of progressive societies has hitherto been a movement from status to contract." Comment. → [C-14](question-bank/section-c-part-3-units-4-5.md#c-14)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-1-jurisprudence.md`](../../docs/past-papers/paper-1-jurisprudence.md). Unit assignment is by the main topic of the question. The paragraph that stood here earlier was a guess made before I had the papers. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -239,75 +247,42 @@ Maine criticised Austin's command theory by pointing out that in **early and Eas
 
 ## 11. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The three-tier outlines (10–15, 5 and 2 marks) that stood here earlier were guesses made before I had the papers, and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Thinkers and cases: [`jurists-and-cases-digest.md`](question-bank/jurists-and-cases-digest.md) (cases for this unit: 22–27). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Explain the Historical School of jurisprudence. Discuss Savigny's contribution and offer a critical evaluation.**
-**Introduction:** The Historical School arose in early 19th-century Germany as a reaction to natural-law rationalism and to the Napoleonic Code.
-**Body:** (1) Precursors: Montesquieu, Burke, Hugo. (2) Thibaut–Savigny controversy (1814). (3) Savigny's *Volksgeist*, law as language, law found not made, three stages (custom → juristic law → legislation), opposition to codification. (4) The Pandectists and the BGB.
-**Criticism:** §2.3 and §8. **Indian link:** Art. 13(3)(a); custom essentials; reform against custom (sati; untouchability).
-**Conclusion:** The school's insight that law has historical roots is permanent, but its distrust of legislation is not workable in a modern state.
+- [C-12](question-bank/section-c-part-2-unit-3.md#c-12) Salient features of the analytical school; distinguish between the analytical and historical schools *(set Dec 2024 Q13)*
+- [C-13](question-bank/section-c-part-3-units-4-5.md#c-13) Savigny's historical school: the *Volksgeist* theory of law, with criticism
+- [C-14](question-bank/section-c-part-3-units-4-5.md#c-14) "The movement of progressive societies has hitherto been a movement from status to contract." Comment, and show how far it applies in India *(set Dec 2025 Q10; Dec 2022 Q13)*
+- [C-15](question-bank/section-c-part-3-units-4-5.md#c-15) Maine's theories: stages of legal growth, static and progressive societies, patriarchal theory, village communities; custom; Savigny and Maine compared
 
----
+**Section B (10 marks)**
 
-**Q2. Discuss Maine's contribution to the Historical School. Explain "from status to contract".**
-**Body:** (1) Works and method. (2) Four stages: themistes, custom, codes, fictions/equity/legislation. (3) Static v. progressive societies. (4) Status to contract, with Roman and Indian examples. (5) Patriarchal theory and McLennan's reply. (6) Village communities.
-**Criticism:** §3.7; the reversal from contract to status (Friedmann; consumer and labour law).
-**Conclusion:** Maine's thesis is a classic but must be read as a trend, not a universal law.
+- [B-25](question-bank/section-b-part-3-units-4-5.md#b-25) Discuss in short the *Volksgeist* theory of law *(set Dec 2024 Q6)*
+- [B-26](question-bank/section-b-part-3-units-4-5.md#b-26) "Law grows with the growth, strengthens with the strength of the people and finally dies away as a nation loses its nationality." Explain *(set Dec 2022 Q6)*
+- [B-27](question-bank/section-b-part-3-units-4-5.md#b-27) Savigny and the codification controversy (Thibaut v. Savigny)
+- [B-28](question-bank/section-b-part-3-units-4-5.md#b-28) Maine's stages of legal development
+- [B-29](question-bank/section-b-part-3-units-4-5.md#b-29) Legal fictions, equity and legislation as instruments of legal change (Maine)
+- [B-30](question-bank/section-b-part-3-units-4-5.md#b-30) The historical school: assessment, and its place in India
 
----
+**Section A (4 marks), 14 answers**
 
-**Q3. Compare the theories of Savigny and Maine.**
-*(Use the §4 table; add a short paragraph on their shared opposition to natural law and to Austin.)*
+- [A-57](question-bank/section-a-part-3-units-4-5.md#a-57) The historical school
+- [A-58](question-bank/section-a-part-3-units-4-5.md#a-58) *Volksgeist
+- [A-59](question-bank/section-a-part-3-units-4-5.md#a-59) Books of Maine and Savigny *(set Dec 2025 Q4)*
+- [A-60](question-bank/section-a-part-3-units-4-5.md#a-60) Thibaut–Savigny controversy
+- [A-61](question-bank/section-a-part-3-units-4-5.md#a-61) Montesquieu and Hugo as precursors
+- [A-62](question-bank/section-a-part-3-units-4-5.md#a-62) Status to contract
+- [A-63](question-bank/section-a-part-3-units-4-5.md#a-63) Maine's stages of legal development
+- [A-64](question-bank/section-a-part-3-units-4-5.md#a-64) Legal fictions, equity and legislation
+- [A-65](question-bank/section-a-part-3-units-4-5.md#a-65) Maine's patriarchal theory
+- [A-66](question-bank/section-a-part-3-units-4-5.md#a-66) Maine on village communities
+- [A-67](question-bank/section-a-part-3-units-4-5.md#a-67) Criticism of Savigny
+- [A-68](question-bank/section-a-part-3-units-4-5.md#a-68) Criticism of Maine
+- [A-69](question-bank/section-a-part-3-units-4-5.md#a-69) Historical and analytical schools: main difference
+- [A-70](question-bank/section-a-part-3-units-4-5.md#a-70) The historical school in India
 
----
-
-**Q4. What is custom? Discuss its essentials as a source of law and its place in Indian law.**
-*(Use §5 and §7. Include Art. 13(3)(a), Hindu Marriage Act s. 3(a), *Hurpurshad*, *Collector of Madura*, *Shayara Bano*, *Sabarimala*, and the Jallikattu decision.)*
-
----
-
-**Q5. "Law is not made but found." Critically examine in the light of the Historical School.**
-*(Use §2.1, §2.3, §8. Argue that modern law is mostly legislated; custom still matters; give the Indian examples of reform against custom.)*
-
----
-
-**Q6. Evaluate the relevance of the Historical School in modern India.**
-*(Use §6 and §9: UCC debate, custom v. constitutional rights, codification, Sabarimala reference, Jallikattu.)*
-
----
-
-### Short notes (5 marks)
-
-1. ***Volksgeist*.**
-2. **Thibaut–Savigny controversy.**
-3. **Savigny's view on codification.**
-4. **Law and language (Savigny).**
-5. **Maine's stages of legal development.**
-6. **Legal fictions, equity and legislation (Maine).**
-7. **"From status to contract."**
-8. **Maine's patriarchal theory.**
-9. **Static and progressive societies.**
-10. **Village communities (Maine).**
-11. **Essentials of a valid custom.**
-12. **Criticism of the Historical School.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Who founded the Historical School? | Savigny, with Gustav Hugo as precursor. |
-| Name Savigny's manifesto. | *Of the Vocation of Our Age for Legislation and Jurisprudence* (1814). |
-| What is *Volksgeist*? | The common spirit or consciousness of a people, from which law grows. |
-| Who proposed a general German civil code in 1814? | A.F.J. Thibaut. |
-| Name Maine's best-known book and year. | *Ancient Law* (1861). |
-| Name Maine's three instrumentalities of legal progress. | Legal fictions, equity and legislation. |
-| What does *themistes* mean in Maine's theory? | Divinely inspired judgments of early kings. |
-| Who criticised Maine's patriarchal theory? | McLennan and Morgan. |
-| Which Article defines "law" to include custom? | Art. 13(3)(a), Constitution of India. |
-| Name one case laying down the essentials of custom. | *Hurpurshad v. Sheo Dayal* (1876) 3 IA 259. |
-| In which years was Maine Law Member in India? | 1862–69. |
+**Across all units:** [C-23](question-bank/section-c-part-4-units-6-7-cross.md#c-23) Compare the main schools of jurisprudence: natural law, analytical, historical, sociological, realist and Marxist; [C-24](question-bank/section-c-part-4-units-6-7-cross.md#c-24) Law and morality: their relation in natural law, positivism and modern debates, with Indian illustrations
 
 ---
 

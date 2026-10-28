@@ -149,7 +149,7 @@ In *The Concept of Law* (1961) Hart distinguishes a **habit** from a **rule**.
 
 ### Answer
 
-Jeremy Bentham (1748–1832), an English jurist and reformer, is the father of the analytical school and of utilitarianism. Works: *A Fragment on Government* (1776); *An Introduction to the Principles of Morals and Legislation* (1789); *Of Laws in General* (written about 1782, published 1945).
+Jeremy Bentham (1748–1832), an English jurist and reformer, is the father of the analytical school and of utilitarianism. Works: *A Fragment on Government* (1776); *An Introduction to the Principles of Morals and Legislation* (1789); *Of Laws in General* (written about 1782, published 1970).
 
 1. **Principle of utility.** Actions and laws are to be judged by whether they promote the greatest happiness of the greatest number.
 2. **Expositorial and censorial jurisprudence.** The first states what the law is; the second criticises what it ought to be, by the test of utility. He thus separated law from morals.

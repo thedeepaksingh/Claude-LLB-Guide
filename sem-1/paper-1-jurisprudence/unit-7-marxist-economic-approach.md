@@ -1,11 +1,16 @@
 # Paper I · Jurisprudence – I (K-1001) · Unit 7
 ## Economic Approach to Law: The Marxist Economic Approach
 
-> **Last updated:** 2026-10-27 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
+> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
 > **Verify before exam:** case citations in §8 and recent developments in §10 (checklist at the end).
 > **Syllabus line (official):** *Economic Approach of Law: Marxist Economic Approach on Law*
 
-**How this unit is examined.** Typical questions: (a) "Explain the Marxist theory of law" (long, the most common form); (b) "Discuss base and superstructure, class struggle and the withering away of the State and law" (long); (c) "Critically evaluate Marxist jurisprudence" (long); (d) short notes on *historical materialism*, *dialectical materialism*, *base and superstructure*, *law as an instrument of class rule*, *withering away of law*, *Pashukanis*. The syllabus names only the **Marxist** approach, so make it the core of every answer; add the **law-and-economics** approach (Coase, Posner) only as a short comparison.
+**How this unit has been examined (December 2022–2025).** 2 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q1 (4): Write the economic definition of Law given by Karl Marx. → [A-101](question-bank/section-a-part-4-units-6-7.md#a-101)
+- Dec 2022 Q11 (20): Write an essay on economic approach to law. → [C-21](question-bank/section-c-part-4-units-6-7-cross.md#c-21)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-1-jurisprudence.md`](../../docs/past-papers/paper-1-jurisprudence.md). Unit assignment is by the main topic of the question. The paragraph that stood here earlier was a guess made before I had the papers. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -215,72 +220,35 @@ Society divides into **classes** by relation to the means of production: in capi
 
 ## 12. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The three-tier outlines (10–15, 5 and 2 marks) that stood here earlier were guesses made before I had the papers, and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Thinkers and cases: [`jurists-and-cases-digest.md`](question-bank/jurists-and-cases-digest.md) (cases for this unit: 44–50). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Explain the Marxist theory of law. How does it differ from other schools of jurisprudence?**
-**Introduction:** Marx and Engels offered an economic interpretation of history and, within it, of law.
-**Body:** (1) Background and works. (2) Dialectical and historical materialism; stages. (3) Base and superstructure (draw diagram). (4) Class struggle and law as class instrument; State; ideology; formal equality. (5) Dictatorship of the proletariat and withering away of law. (6) Later Marxists: Lenin, Pashukanis, Vyshinsky, Gramsci, Thompson. (7) Comparison table (§9).
-**Conclusion:** Marxist theory is valuable for exposing the economic roots and ideological role of law but cannot explain all law.
+- [C-21](question-bank/section-c-part-4-units-6-7-cross.md#c-21) The Marxist approach to law: base and superstructure, class struggle, law as the will of the ruling class, and the withering away of law *(set Dec 2022 Q11)*
+- [C-22](question-bank/section-c-part-4-units-6-7-cross.md#c-22) The economic approach to law beyond Marx: law and economics, with a critical assessment of both approaches *(set Dec 2022 Q11)*
 
----
+**Section B (10 marks)**
 
-**Q2. Discuss the concepts of base and superstructure and the withering away of law in Marxist jurisprudence.**
-*(Use §2.3, §2.6 and §3. Include Engels's qualification of relative autonomy and Pashukanis's commodity-exchange theory.)*
+- [B-44](question-bank/section-b-part-4-units-6-7.md#b-44) Marx's economic approach to law: base and superstructure
+- [B-45](question-bank/section-b-part-4-units-6-7.md#b-45) Law as an instrument of class rule and its withering away (Marxist view)
+- [B-46](question-bank/section-b-part-4-units-6-7.md#b-46) Criticism of the Marxist theory of law
+- [B-47](question-bank/section-b-part-4-units-6-7.md#b-47) Law and economics: Coase, Calabresi and Posner
+- [B-48](question-bank/section-b-part-4-units-6-7.md#b-48) Lenin and Pashukanis: the later Marxist theory of State and law
 
----
+**Section A (4 marks), 10 answers**
 
-**Q3. Critically evaluate Marxist jurisprudence.**
-*(Use §5 and §10. Give criticisms, then merits, then the Indian experience: *Minerva Mills*, *Sanjeev Coke*, *Balram Singh*, Labour Codes.)*
+- [A-101](question-bank/section-a-part-4-units-6-7.md#a-101) Marx's economic definition of law *(set Dec 2025 Q1)*
+- [A-102](question-bank/section-a-part-4-units-6-7.md#a-102) Base and superstructure
+- [A-103](question-bank/section-a-part-4-units-6-7.md#a-103) Law as an instrument of class rule
+- [A-104](question-bank/section-a-part-4-units-6-7.md#a-104) Withering away of the State and law
+- [A-105](question-bank/section-a-part-4-units-6-7.md#a-105) Engels' contribution
+- [A-106](question-bank/section-a-part-4-units-6-7.md#a-106) Lenin on the State
+- [A-107](question-bank/section-a-part-4-units-6-7.md#a-107) Pashukanis
+- [A-108](question-bank/section-a-part-4-units-6-7.md#a-108) Criticism of the Marxist theory of law
+- [A-109](question-bank/section-a-part-4-units-6-7.md#a-109) Law and economics: Posner
+- [A-110](question-bank/section-a-part-4-units-6-7.md#a-110) Coase theorem
 
----
-
-**Q4. "Law is the will of the ruling class made into a law for all." Examine in light of the Marxist approach and Indian law.**
-*(Quote the *Manifesto*; explain; then test it against Indian labour laws, the Directive Principles, and PIL on bonded labour; conclude that law both reflects and restrains power.)*
-
----
-
-**Q5. Compare the Marxist and law-and-economics approaches to law.**
-*(Use the §4 table; explain Coase theorem and Hand formula briefly; conclude with efficiency v. class justice.)*
-
----
-
-**Q6. Discuss the relevance of the economic approach to law in India.**
-*(Use §6, §7, §10: Preamble, Directive Principles, land reform, property cases, Labour Codes.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Dialectical materialism.**
-2. **Historical materialism and stages of society.**
-3. **Base and superstructure.**
-4. **Class struggle and law.**
-5. **Law as ideology (formal equality).**
-6. **Withering away of the State and law.**
-7. **Engels and relative autonomy.**
-8. **Pashukanis's commodity-exchange theory.**
-9. **Thompson's "rule of law as an unqualified human good".**
-10. **Coase theorem.**
-11. **Socialism in the Indian Constitution** (Preamble; *Balram Singh*).
-12. **Criticism of the Marxist theory of law.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Who wrote *The Communist Manifesto*? | Karl Marx and Friedrich Engels (1848). |
-| What does the "base" consist of? | The forces and relations of production (the economic structure). |
-| Name three parts of the "superstructure". | Law, State and ideology (also politics, religion). |
-| What is historical materialism? | The view that history is driven by changes in the mode of production. |
-| What did Marx predict about law in communism? | That it would wither away along with the State. |
-| Who developed the commodity-exchange theory of law? | Evgeny Pashukanis (1924). |
-| What is "relative autonomy"? | Engels's view that law and politics can act back on the economy. |
-| Who said the rule of law is "an unqualified human good"? | E.P. Thompson. |
-| In which year was "socialist" added to the Preamble? | 1976 (42nd Amendment). |
-| Name one Indian case on Art. 39(b) and Marxist-style redistribution. | *Sanjeev Coke Mfg. Co. v. Bharat Coking Coal Ltd.* (1983). |
-| What is the Coase theorem? | With zero transaction costs, parties bargain to an efficient outcome whatever the initial assignment of legal rights. |
+**Across all units:** [C-23](question-bank/section-c-part-4-units-6-7-cross.md#c-23) Compare the main schools of jurisprudence: natural law, analytical, historical, sociological, realist and Marxist; [C-24](question-bank/section-c-part-4-units-6-7-cross.md#c-24) Law and morality: their relation in natural law, positivism and modern debates, with Indian illustrations
 
 ---
 

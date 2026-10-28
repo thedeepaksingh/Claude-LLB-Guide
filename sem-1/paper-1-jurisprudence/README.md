@@ -1,8 +1,8 @@
 # Paper I — Jurisprudence – I (Legal Theory) · `K-1001` · 100 marks
 
-> **Last updated:** 2026-10-27 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence` · **Status:** draft for review (not yet merged to `main`)
+> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/01-jurisprudence` · **Status:** draft for review (not yet merged to `main`)
 > **Source syllabus:** see [`docs/00-syllabus-map.md`](../../docs/00-syllabus-map.md)
-> **Exam pattern:** **not confirmed.** The official syllabus does not publish one. Q&A is written in three tiers (long ≈ 10–15 marks, short note ≈ 5 marks, very short ≈ 2 marks). Send recent question papers to re-cut weightage. See [`docs/01-gaps-and-open-questions.md`](../../docs/01-gaps-and-open-questions.md), item A1.
+> **Exam pattern: confirmed** on all 20 papers (December 2022–2025). Section A: Q1–5, all compulsory, 4 marks, ≤ 75 words. Section B: Q6–8, any 2, 10 marks, ≤ 200 words. Section C: Q9–13, any 3, 20 marks, "in detail". 3 hours, 100 marks. The model answers are in [`question-bank/`](question-bank/README.md), which maps all 52 previous questions to answers. The university's marking scheme was not found; every mark split here is mine. See [`docs/02-exam-pattern-and-past-papers.md`](../../docs/02-exam-pattern-and-past-papers.md).
 
 ---
 
@@ -17,10 +17,11 @@
 | 5 | Sociological School: background; Pound; Duguit | [`unit-5-sociological-school.md`](unit-5-sociological-school.md) | Jhering, Ehrlich, Pound, Duguit |
 | 6 | American Modern Realism | [`unit-6-american-realism.md`](unit-6-american-realism.md) | Holmes, Gray, Llewellyn, Frank |
 | 7 | Economic approach: Marxist approach | [`unit-7-marxist-economic-approach.md`](unit-7-marxist-economic-approach.md) | Marx, Engels, Lenin, Pashukanis |
+| — | **Question bank:** 183 model answers in the exam pattern (110 × 4 marks, 49 × 10, 24 × 20), digest of thinkers and cases, 3 mock papers, review checklist, coverage audit, source log | [`question-bank/README.md`](question-bank/README.md) | |
 | — | Master case tables and thinker quotes | [`case-and-quote-bank.md`](case-and-quote-bank.md) | |
 | — | Glossary of terms (Latin, German, English) | [`glossary.md`](glossary.md) | |
 
-Every unit file follows the same layout: **background → concepts → cases → criticism → current developments → comparison tables → quick-revision box → model Q&A (long / short / very short) → verification checklist.**
+Every unit file follows the same layout: **background → concepts → cases → criticism → current developments → comparison tables → quick-revision box → links to the model answers in the question bank → verification checklist.** Each unit file also lists the previous questions that came from that unit.
 
 ---
 
@@ -29,9 +30,9 @@ Every unit file follows the same layout: **background → concepts → cases →
 **Three-pass plan**
 1. **Understand (pass 1):** read each unit once, in order, focusing on the background and the diagrams.
 2. **Memorise (pass 2):** use the *quick-revision boxes* and the one-page sheet below; write each thinker's name, work, year, central idea and one criticism from memory.
-3. **Practise (pass 3):** write the long-answer questions under timed conditions, then compare with the model outline.
+3. **Practise (pass 3):** write the Section C questions under timed conditions, then compare with the model answers in the [question bank](question-bank/README.md); sit the [mock papers](question-bank/mock-exam-1.md).
 
-**Answer-writing template for a long answer (10–15 marks)**
+**Answer-writing template for a 20-mark answer (Section C; shorten it to 200 words for Section B)**
 
 | Step | What to write | Roughly |
 |---|---|---|
@@ -87,14 +88,6 @@ Every unit file follows the same layout: **background → concepts → cases →
 
 ---
 
-## High-probability topics (expected, not yet checked against past papers)
+## What has actually been asked (December 2022–2025)
 
-*These are based on syllabus structure and standard practice, **not** on an analysis of CCSU past papers. Once you send recent papers, this list will be replaced by a verified frequency table.*
-
-- **Unit 1:** definitions of jurisprudence; nature and scope; importance
-- **Unit 2:** evolution of natural law; Stammler; Kohler; criticism
-- **Unit 3:** Austin's command theory; Kelsen's pure theory/Grundnorm; Hart's primary and secondary rules; comparison
-- **Unit 4:** Savigny's *Volksgeist*; Maine's status to contract; comparison
-- **Unit 5:** Pound's social engineering and interests; Duguit's social solidarity
-- **Unit 6:** realism: Holmes, Gray, Llewellyn, Frank; criticism
-- **Unit 7:** Marxist theory of law; base and superstructure; criticism
+The earlier version of this section guessed at likely topics. The four papers have now been read; the verified frequency table is in the [question-bank README](question-bank/README.md#frequency). In short: Austin, the definition of jurisprudence, Pound's social engineering, Duguit's social solidarity and American realism came up in **every** sitting; Kelsen, the historical school, Bentham, Manu and natural law in three of four. The same table shows what was asked in which year.

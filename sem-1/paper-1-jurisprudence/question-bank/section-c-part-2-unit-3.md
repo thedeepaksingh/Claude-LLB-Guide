@@ -66,6 +66,8 @@
 
 **Conclusion.** The statement that law is the command of the sovereign captures one important feature of law, namely its source in authority and its backing by force, but it is too narrow as a general theory. For India it applies in part: to enacted law and to the colonial period; it fails to explain a Constitution that binds even Parliament, a judiciary that makes and reviews law, and custom and personal laws that operate alongside statutes.
 
+*Word count: 1493*
+
 ---
 
 <a id="c-09"></a>
@@ -131,6 +133,8 @@ Austin also noted that some **laws are set by private persons in pursuance of le
 **9. Later development.** Kelsen (law as a hierarchy of norms) and Hart (law as a union of primary and secondary rules) kept Austin's separation of law from morality but rejected his command-and-sanction model. Contemporary positivism is thus of two kinds: exclusive (Raz) and inclusive (Hart's *Postscript*).
 
 **Conclusion.** Austin's definition limits jurisprudence to law as it is, laid down by the sovereign. Its great merit is clarity, its great defect narrowness. The analytical school developed from it, and later thinkers repaired it while retaining its core: that the existence of law should be separated from its moral merit.
+
+*Word count: 1020*
 
 ---
 
@@ -208,6 +212,8 @@ Each norm is the creation of a norm above it and the authority for norms below i
 
 **Conclusion.** Kelsen's Pure Theory sees law as a hierarchical order of coercive norms deriving validity from one presupposed basic norm. Its strength is logical clarity and its weakness is that, by leaving out morality and social facts, it cannot answer whether an effective regime has the right to be obeyed. The reply of the courts in *Asma Jilani* shows the limit of purity.
 
+*Word count: 1316*
+
 ---
 
 <a id="c-11"></a>
@@ -272,6 +278,8 @@ The union of primary and secondary rules is, Hart says, "the key to the science 
 **11. Indian illustration.** The Indian courts and officials accept the Constitution as the ultimate source of validity (rule of recognition). Parliament, the amending power (Art. 368) and the courts (Art. 141) give examples of the rules of change and adjudication. Open texture appears in how "reasonable restrictions" (Art. 19), "procedure established by law" (Art. 21) and "equal protection" (Art. 14) are applied. In the penumbra, the Supreme Court has made new law (*Maneka Gandhi*, *Vishaka*, *Puttaswamy*).
 
 **Conclusion.** Hart replaced the command-and-habit model with a model of rules, distinguished obligation from coercion, and found in the union of primary and secondary rules the key to a legal system. His theory is the best modern defence of the view that the existence of law and its moral merit are different questions, but it faces Dworkin's challenge that law includes principles and Fuller's argument that law has an inner morality.
+
+*Word count: 1320*
 
 ---
 
@@ -340,5 +348,7 @@ The union of primary and secondary rules is, Hart says, "the key to the science 
 **8. Indian illustration.** The Indian codes of the nineteenth century (Penal Code, Contract Act) and their replacements (BNS, BNSS and BSA, 2023) express the analytical attitude. The recognition of custom in Hindu and tribal law, and the courts' use of long usage to interpret statutes, express the historical attitude. Art. 13(3)(a) of the Constitution accepts both, by including "custom or usage having the force of law" in "law".
 
 **Conclusion.** The analytical school made jurisprudence a precise study of law as it is, and the historical school showed law as a product of the life of a people. Each corrects the other, and modern jurisprudence uses both.
+
+*Word count: 974*
 
 ---

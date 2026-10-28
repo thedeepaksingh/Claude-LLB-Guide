@@ -1,11 +1,30 @@
 # Paper I · Jurisprudence – I (K-1001) · Unit 3
 ## Analytical School: John Austin, Hans Kelsen and H.L.A. Hart
 
-> **Last updated:** 2026-10-27 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
+> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
 > **Verify before exam:** case citations in §8 (checklist at the end).
 > **Syllabus line (official):** *Analytical School: John Austin, Hans Kelsen, And H.L.A. Hart*
 
-**How this unit is examined.** This is the most heavily tested theory unit. Expect: (a) Austin's command theory with criticism (long, almost every year); (b) Kelsen's pure theory / Grundnorm / hierarchy of norms (long); (c) Hart's concept of law, primary and secondary rules, rule of recognition (long); (d) a comparison of any two, or a critique of positivism as a whole; (e) short notes on sovereignty, sanction, Grundnorm, open texture, internal point of view. Always draw the **diagram** (it earns marks quickly) and finish with **criticism**.
+**How this unit has been examined (December 2022–2025).** 16 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q2 (4): How Kelsen was influenced by Austin? → [A-41](question-bank/section-a-part-2-unit-3.md#a-41)
+- Dec 2025 Q3 (4): What is the meaning of Legal Positivism? → [A-33](question-bank/section-a-part-2-unit-3.md#a-33)
+- Dec 2025 Q7 (10): Is it correct to say that Pure Theory of Law has left dry bones of law, deprived of flesh and blood, which give them… → [B-15](question-bank/section-b-part-2-unit-3.md#b-15)
+- Dec 2024 Q3 (4): Ground Norm → [A-42](question-bank/section-a-part-2-unit-3.md#a-42)
+- Dec 2024 Q4 (4): Contribution of Bentham → [A-34](question-bank/section-a-part-2-unit-3.md#a-34)
+- Dec 2024 Q8 (10): According to Hart rules are concerned not with what happens but with what is to be done? → [B-16](question-bank/section-b-part-2-unit-3.md#b-16)
+- Dec 2024 Q11 (20): Describe Hans Kelsen's Pure theory of Law. → [C-10](question-bank/section-c-part-2-unit-3.md#c-10)
+- Dec 2024 Q13 (20): Describe the salient features of analytical school of Jurisprudence. Distinguish between analytical and historical sc… → [C-12](question-bank/section-c-part-2-unit-3.md#c-12)
+- Dec 2023 Q2 (4): Bentham → [A-34](question-bank/section-a-part-2-unit-3.md#a-34)
+- Dec 2023 Q7 (10): What is difference between Austin and Kelson [Kelsen] as Jurists? → [B-14](question-bank/section-b-part-2-unit-3.md#b-14)
+- Dec 2023 Q10 (20): "Jurisprudence is the philosophy of Positive Law." (Austin) Discuss it. → [C-09](question-bank/section-c-part-2-unit-3.md#c-09)
+- Dec 2023 Q13 (20): Discuss Kelson's [Kelsen's] Pure Theory of Law. → [C-10](question-bank/section-c-part-2-unit-3.md#c-10)
+- Dec 2022 Q1 (4): Sanction. → [A-35](question-bank/section-a-part-2-unit-3.md#a-35)
+- Dec 2022 Q4 (4): Bentham. → [A-34](question-bank/section-a-part-2-unit-3.md#a-34)
+- Dec 2022 Q5 (4): Does international law is law according to Austin? → [A-36](question-bank/section-a-part-2-unit-3.md#a-36)
+- Dec 2022 Q10 (20): Critically examine the statement that "Law is the command of the sovereign" and state whether this concept applies to… → [C-08](question-bank/section-c-part-2-unit-3.md#c-08)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-1-jurisprudence.md`](../../docs/past-papers/paper-1-jurisprudence.md). Unit assignment is by the main topic of the question. The paragraph that stood here earlier was a guess made before I had the papers. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -301,86 +320,60 @@ Hart concedes that, given five facts about human beings (**vulnerability, approx
 
 ## 12. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The three-tier outlines (10–15, 5 and 2 marks) that stood here earlier were guesses made before I had the papers, and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Thinkers and cases: [`jurists-and-cases-digest.md`](question-bank/jurists-and-cases-digest.md) (cases for this unit: 12–21). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Explain Austin's command theory of law. Critically evaluate it.**
-**Introduction:** Austin, the father of English analytical positivism, in *The Province of Jurisprudence Determined* (1832) restricted jurisprudence to positive law.
-**Body:** (1) Classification of laws (use diagram A.1). (2) Command theory: command, duty, sanction, generality. (3) Sovereign: five features. (4) Custom as tacit command. (5) Separation of law and morals.
-**Criticism:** custom; international law; constitutional law; power-conferring rules; federal sovereignty and Indian Constitution (*Kesavananda*); sanction not the only motive; continuity; ignores judges.
-**Conclusion:** Austin is useful for understanding statute law of a unitary state but is too narrow for modern constitutional democracies.
+- [C-08](question-bank/section-c-part-2-unit-3.md#c-08) "Law is the command of the sovereign." Examine critically and say whether the concept applies to the Indian judicial system *(set Dec 2022 Q10)*
+- [C-09](question-bank/section-c-part-2-unit-3.md#c-09) "Jurisprudence is the philosophy of positive law." (Austin) Discuss *(set Dec 2023 Q10)*
+- [C-10](question-bank/section-c-part-2-unit-3.md#c-10) Hans Kelsen's Pure Theory of Law *(set Dec 2024 Q11; Dec 2023 Q13)*
+- [C-11](question-bank/section-c-part-2-unit-3.md#c-11) H.L.A. Hart's *The Concept of Law*: primary and secondary rules, the rule of recognition and Hart's debates
+- [C-12](question-bank/section-c-part-2-unit-3.md#c-12) Salient features of the analytical school; distinguish between the analytical and historical schools *(set Dec 2024 Q13)*
+- [C-24](question-bank/section-c-part-4-units-6-7-cross.md#c-24) Law and morality: their relation in natural law, positivism and modern debates, with Indian illustrations
 
----
+**Section B (10 marks)**
 
-**Q2. Explain Kelsen's Pure Theory of Law. What is the Grundnorm? Critically examine.**
-**Introduction:** Kelsen sought a pure science of law.
-**Body:** (1) Meaning of "pure". (2) *Sein* and *Sollen*; norm. (3) Law as coercive order. (4) Hierarchy of norms (diagram B.4). (5) Grundnorm: nature, validity v. efficacy, revolution. (6) State = legal order; monism.
-**Cases:** *Dosso*; *Asma Jilani*; *Matovu*.
-**Criticism:** B.7.
-**Conclusion:** The theory remains valuable for explaining hierarchy and unity of a legal system and underpins judicial review.
+- [B-12](question-bank/section-b-part-1-units-1-2.md#b-12) Fuller's inner morality of law and the Hart–Fuller debate
+- [B-14](question-bank/section-b-part-2-unit-3.md#b-14) What is the difference between Austin and Kelsen as jurists? *(set Dec 2023 Q7)*
+- [B-15](question-bank/section-b-part-2-unit-3.md#b-15) Is it correct to say that the Pure Theory of Law has left only the dry bones of law, deprived of flesh and blood? Explain *(set Dec 2025 Q7)*
+- [B-16](question-bank/section-b-part-2-unit-3.md#b-16) "According to Hart, rules are concerned not with what happens but with what is to be done." Explain *(set Dec 2024 Q8)*
+- [B-17](question-bank/section-b-part-2-unit-3.md#b-17) Austin's theory of sovereignty
+- [B-18](question-bank/section-b-part-2-unit-3.md#b-18) Kelsen's Grundnorm (basic norm)
+- [B-19](question-bank/section-b-part-2-unit-3.md#b-19) Jeremy Bentham's contribution to jurisprudence
+- [B-20](question-bank/section-b-part-2-unit-3.md#b-20) Hart's primary and secondary rules
+- [B-21](question-bank/section-b-part-2-unit-3.md#b-21) Is international law "law"? The views of Austin, Kelsen and Hart
+- [B-22](question-bank/section-b-part-2-unit-3.md#b-22) Sanction: its meaning and role in law
+- [B-23](question-bank/section-b-part-2-unit-3.md#b-23) Kelsen's theory and revolution: *Dosso*, *Asma Jilani* and *Matovu*
+- [B-24](question-bank/section-b-part-2-unit-3.md#b-24) Hart's internal point of view and open texture
 
----
+**Section A (4 marks), 24 answers**
 
-**Q3. Discuss Hart's concept of law. How does it improve on Austin?**
-**Introduction:** Hart in *The Concept of Law* (1961) rebuilt positivism after criticising Austin.
-**Body:** (1) Gunman model; obliged v. obligation. (2) Primary and secondary rules (table and diagram). (3) Rule of recognition. (4) Internal point of view. (5) Open texture. (6) Minimum content of natural law.
-**Debates:** Fuller (grudge informer), Devlin (*Shaw v. DPP*; *Navtej*), Dworkin.
-**Criticism:** C.8.
-**Conclusion:** Hart provides the most refined positivist theory; its weakness lies in principles and moral reasoning.
+- [A-33](question-bank/section-a-part-2-unit-3.md#a-33) Meaning of legal positivism *(set Dec 2025 Q3)*
+- [A-34](question-bank/section-a-part-2-unit-3.md#a-34) Contribution of Bentham *(set Dec 2024 Q4; Dec 2023 Q2; Dec 2022 Q4)*
+- [A-35](question-bank/section-a-part-2-unit-3.md#a-35) Sanction *(set Dec 2022 Q1)*
+- [A-36](question-bank/section-a-part-2-unit-3.md#a-36) Is international law law, according to Austin? *(set Dec 2022 Q5)*
+- [A-37](question-bank/section-a-part-2-unit-3.md#a-37) Command (Austin)
+- [A-38](question-bank/section-a-part-2-unit-3.md#a-38) Sovereign (Austin)
+- [A-39](question-bank/section-a-part-2-unit-3.md#a-39) Austin's classification of laws
+- [A-40](question-bank/section-a-part-2-unit-3.md#a-40) Positive morality (Austin)
+- [A-41](question-bank/section-a-part-2-unit-3.md#a-41) How was Kelsen influenced by Austin? *(set Dec 2025 Q2)*
+- [A-42](question-bank/section-a-part-2-unit-3.md#a-42) Ground norm (Grundnorm) *(set Dec 2024 Q3)*
+- [A-43](question-bank/section-a-part-2-unit-3.md#a-43) Pure theory of law
+- [A-44](question-bank/section-a-part-2-unit-3.md#a-44) Hierarchy of norms (*Stufenbau*)
+- [A-45](question-bank/section-a-part-2-unit-3.md#a-45) *Sein* and *Sollen* ("is" and "ought")
+- [A-46](question-bank/section-a-part-2-unit-3.md#a-46) Validity and efficacy (Kelsen)
+- [A-47](question-bank/section-a-part-2-unit-3.md#a-47) *State v. Dosso
+- [A-48](question-bank/section-a-part-2-unit-3.md#a-48) Primary and secondary rules (Hart)
+- [A-49](question-bank/section-a-part-2-unit-3.md#a-49) Rule of recognition
+- [A-50](question-bank/section-a-part-2-unit-3.md#a-50) Internal point of view
+- [A-51](question-bank/section-a-part-2-unit-3.md#a-51) Open texture of law
+- [A-52](question-bank/section-a-part-2-unit-3.md#a-52) Minimum content of natural law (Hart)
+- [A-53](question-bank/section-a-part-2-unit-3.md#a-53) Hart–Fuller debate
+- [A-54](question-bank/section-a-part-2-unit-3.md#a-54) Hart–Devlin debate
+- [A-55](question-bank/section-a-part-2-unit-3.md#a-55) Hart–Dworkin debate
+- [A-56](question-bank/section-a-part-2-unit-3.md#a-56) The gunman situation (obliged and obligation)
 
----
-
-**Q4. Compare and contrast the theories of Austin, Kelsen and Hart.**
-*(Use the §9 table in full, then one paragraph each on validity, sanction and morality, and a conclusion.)*
-
----
-
-**Q5. "Analytical positivism separates law from morals." Critically examine the Analytical School.**
-*(Use §1, the separation thesis, and the Hart–Fuller debate. Add the Indian line *Gopalan* → *Maneka Gandhi* and *ADM Jabalpur* → *Puttaswamy*. Conclude that Indian practice combines positivist clarity with natural-law checks.)*
-
----
-
-**Q6. Discuss the Hart–Fuller and Hart–Devlin debates.**
-*(Use §C.7 and the grudge informer facts from Unit 2 §4. Connect Hart–Devlin to *Shaw v. DPP* and to *Naz Foundation → Koushal → Navtej*.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Bentham as the father of analytical jurisprudence.**
-2. **Austin's classification of laws.**
-3. **Austin's concept of sovereignty.**
-4. **Sanction and duty in Austin.**
-5. **Custom as "tacit command".**
-6. **Positive morality (Austin).**
-7. **Kelsen's hierarchy of norms (*Stufenbau*).**
-8. **Grundnorm and efficacy.**
-9. **Pure theory: meaning of "pure".**
-10. **State v. Dosso and the critique of Kelsen.**
-11. **Hart's primary and secondary rules.**
-12. **Rule of recognition.**
-13. **Open texture of law (core and penumbra).**
-14. **Internal and external points of view.**
-15. **Hart's minimum content of natural law.**
-16. **Difference between Austin and Hart on obligation ("gunman" situation).**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Who is known as the father of analytical positivism? | Jeremy Bentham (Austin systematised it). |
-| Name Austin's main work. | *The Province of Jurisprudence Determined* (1832). |
-| Define a command (Austin). | A wish expressed by a determinate person, backed by threat of evil on non-compliance. |
-| Why did Austin call international law "positive morality"? | It is not set by a determinate political superior with a sanction. |
-| What is "Grundnorm"? | The presupposed basic norm that confers validity on all other norms in a legal system. |
-| Who drafted the 1920 Austrian Constitution? | Hans Kelsen. |
-| What is *Stufenbau*? | Kelsen's hierarchy (stepped structure) of norms. |
-| Name Hart's three secondary rules. | Recognition, change, adjudication. |
-| What does Hart's rule of recognition do? | Identifies which rules are valid in the system. |
-| What is "open texture"? | The inevitable uncertainty at the edge of a general rule's meaning (penumbra). |
-| Distinguish being obliged and having an obligation (one line). | Being obliged is forced by threat; having an obligation is accepting a rule as a standard. |
-| Who wrote *The Concept of Law*? | H.L.A. Hart (1961). |
+**Across all units:** [C-23](question-bank/section-c-part-4-units-6-7-cross.md#c-23) Compare the main schools of jurisprudence: natural law, analytical, historical, sociological, realist and Marxist; [C-24](question-bank/section-c-part-4-units-6-7-cross.md#c-24) Law and morality: their relation in natural law, positivism and modern debates, with Indian illustrations
 
 ---
 

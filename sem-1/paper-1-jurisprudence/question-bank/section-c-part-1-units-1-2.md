@@ -58,6 +58,8 @@ The reasons are: it includes the analytical, historical, ethical and sociologica
 
 **Conclusion.** The variety of definitions shows that jurisprudence is a developing subject, not a fixed list of rules. Each definition captures one side of law: Ulpian its ethics, Austin its authority, Holland its form, Salmond its principles, Gray its judicial practice, Pound its social purpose and Stone its connection with other disciplines. A modern definition must hold these together, and that is why a composite definition is the most appropriate.
 
+*Word count: 951*
+
 ---
 
 <a id="c-02"></a>
@@ -117,6 +119,8 @@ Different writers divide the subject differently:
 **5. Branches of jurisprudence in outline.** For revision it helps to remember the main branches: *analytical* (Austin, Kelsen, Hart: the structure and concepts of law); *historical* (Savigny, Maine: law as a growth of society); *ethical or philosophical* (natural law, theories of justice); *sociological* (Jhering, Ehrlich, Duguit, Pound: law in its social setting); *realist* (Holmes, Gray, Llewellyn, Frank: law as what courts do); and *economic or Marxist* (law as a product of economic relations). Each answers a different question: what law is, how it grew, what it ought to be, what it does to society, how judges really decide, and whose interests it serves. A complete study needs all six.
 
 **Conclusion.** Jurisprudence is wide in scope and general in character. Its nature is theoretical, critical and interdisciplinary, and its value lies in explaining why law is what it is, how it can be understood and how it should change. For the lawyer it is the "eye of law": it shows the purpose behind the rules.
+
+*Word count: 992*
 
 ---
 
@@ -179,6 +183,8 @@ Different writers divide the subject differently:
 
 > *Study note.* The account of how Holland and Salmond treat Austin's division is built from textbook and lecture-note summaries, not from a fresh reading of the original pages. Before the exam, check the opening chapter of Salmond's *Jurisprudence* and of Holland's *Elements of Jurisprudence* (the passages on "general" and "particular" jurisprudence) if your teacher gives you a different statement. See the [source-verification log](source-verification-log.md).
 
+*Word count: 1193*
+
 ---
 
 <a id="c-04"></a>
@@ -238,6 +244,8 @@ Different writers divide the subject differently:
 **7. Assessment.** The definition is a useful statement of the working side of law, and it is the best for answering "what will a court do?" It is incomplete as a theory of law, because it neither explains how law gets its authority (Kelsen, Hart) nor gives a place to justice (natural law).
 
 **Conclusion.** Salmond's definition describes law as a body of principles that courts recognise and apply through the machinery of the State in order to do justice. It is practical and wide, but it is circular and does not explain unlitigated law or the creation of law. It is best taken together with the definitions of Austin (the authority of the sovereign), Kelsen and Hart (the structure of a legal system) and the natural-law view (the link with justice).
+
+*Word count: 1138*
 
 ---
 
@@ -303,6 +311,8 @@ Different writers divide the subject differently:
 
 **Conclusion.** The past theories of natural law moved from nature (Greeks), to universal reason (Stoics and Romans), to God (Aquinas), and then to human reason and the social contract (Grotius to Kant). Each period used natural law to limit the power of the ruler. The theory has been criticised for vagueness, but its main idea, that law must meet a standard of justice, remains alive in human rights law and constitutional review.
 
+*Word count: 1095*
+
 ---
 
 <a id="c-06"></a>
@@ -346,6 +356,8 @@ Different writers divide the subject differently:
 **7. India.** Indian thought treats *dharma* as a law of cosmic order, known through the Vedas, *smriti*, custom and conscience; it is not only reason and not only revelation. In modern India, the courts base fundamental rights on reason and on constitutional text, not on religion (*Puttaswamy*, 2017: life and liberty are natural rights that exist before the Constitution; *Kesavananda Bharati*, 1973: the basic structure).
 
 **Conclusion.** The statement is partly correct. Natural law began as a law of reason (Greeks, Stoics, Cicero), was linked to God in the medieval Church (Aquinas), and was freed from theology by the rationalists from Grotius onwards. The modern theories base it on human reason, wisdom and the social needs of people. The truth is that natural law was never based on reason alone nor on God alone: in each age the source was the dominant idea of that age, and the permanent element was the belief that law must conform to a higher standard of justice.
+
+*Word count: 995*
 
 ---
 
@@ -407,5 +419,7 @@ Different writers divide the subject differently:
 4. The revival is a family of different theories, not one school.
 
 **Conclusion.** The revival of natural law showed that no theory of law can ignore justice. Stammler offered a formal test (the community of free-willing men), Kohler an evolutionary test (the advance of civilisation); later writers added procedural morality (Fuller), basic goods (Finnis) and fairness (Rawls). The revived theories give up the old claim of a fixed code, but they keep the central idea that law should be tested by a standard of justice.
+
+*Word count: 1168*
 
 ---

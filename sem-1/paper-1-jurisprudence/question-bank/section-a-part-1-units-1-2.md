@@ -164,14 +164,14 @@ St Thomas Aquinas (*Summa Theologiae*) distinguished: *eternal law*, the reason 
 *Word count: 61*
 
 <a id="a-23"></a>
-**A-23 · Grotius** · *Related: C-06*
+**A-23 · Grotius** · *Related: B-49, C-06*
 
 Hugo Grotius (1583–1645), in *De Jure Belli ac Pacis* (1625), founded modern international law and secularised natural law. He held that natural law is the dictate of right reason, derived from man's rational and social nature, and would be valid "even if we were to concede that there is no God". He thus separated natural law from theology.
 
 *Word count: 58*
 
 <a id="a-24"></a>
-**A-24 · Social contract: Hobbes, Locke and Rousseau** · *Related: C-05*
+**A-24 · Social contract: Hobbes, Locke and Rousseau** · *Related: B-49, C-05*
 
 *Hobbes* (*Leviathan*, 1651): men in a state of nature make a contract surrendering their rights to an absolute sovereign for peace. *Locke* (*Second Treatise*, 1689): natural rights to life, liberty and property exist before government, which rests on consent and may be resisted if it breaks its trust. *Rousseau* (*The Social Contract*, 1762): law is the expression of the general will.
 

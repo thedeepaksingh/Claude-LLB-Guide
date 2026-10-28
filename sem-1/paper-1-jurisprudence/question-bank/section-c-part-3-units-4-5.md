@@ -64,6 +64,8 @@
 
 **Conclusion.** Savigny's *Volksgeist* theory made law a part of the life of a people and taught the importance of history and custom. Its weakness is that it makes law the passive product of the national spirit and cannot explain reform or borrowing. Modern law uses both views: it respects social tradition and also uses legislation to change it.
 
+*Word count: 1200*
+
 ---
 
 <a id="c-14"></a>
@@ -115,6 +117,8 @@
 **5. Assessment.** Maine's thesis is a good description of the growth of individual freedom and of the replacement of birth-based hierarchy by consent. In India the Constitution and legislation moved the law away from status-based inequality. But Indian law today combines both: it extends contract in the market, and it uses status-like protection for weaker groups. The statement is therefore true in part. It describes a major direction of change, but it is not a complete or permanent law of social development.
 
 **Conclusion.** Maine saw the history of progressive societies as the rise of the free individual who makes his own legal relations. India's constitutional and statutory changes follow that direction by removing legal disabilities based on birth. However, the modern movement towards protective, class-based legislation shows that, as Friedmann said, welfare States are moving from contract back to status. Indian law is a mixture of the two.
+
+*Word count: 1126*
 
 ---
 
@@ -180,6 +184,8 @@
 **11. Indian illustration.** Adoption (a legal fiction in Hindu law), the Indian codes enacted in Maine's period, such as the Indian Succession Act, 1865, and the continuing role of custom in Hindu and tribal law, all show Maine's categories at work.
 
 **Conclusion.** Maine added a comparative and evolutionary dimension to the historical school. Where Savigny looked to the national spirit, Maine looked for general stages of growth common to different societies. His thesis of status to contract, his three instrumentalities of legal change and his study of Indian village communities remain his lasting contributions, though many of his generalisations have been corrected.
+
+*Word count: 1110*
 
 ---
 
@@ -248,6 +254,8 @@ The Indian Constitution is itself an instrument of social engineering. The Pream
 **8. Merits.** Pound made law dynamic and purposive, linked law with social science, gave a framework for balancing interests that is still used in constitutional adjudication (proportionality), and encouraged welfare legislation and judicial concern for the social effect of decisions.
 
 **Conclusion.** Pound's theory sees law as a tool for building an efficient social structure by recognising, delimiting and balancing the many interests of individuals, the State and society. Despite its lack of a fixed scale of values, it has become part of the working method of modern courts, and is especially visible in the Indian Constitution and in the Supreme Court's constitutional decisions.
+
+*Word count: 1398*
 
 ---
 
@@ -322,6 +330,8 @@ The Indian Constitution is itself an instrument of social engineering. The Pream
 
 **Conclusion.** The sociological school arose out of dissatisfaction with abstract and formal theories of law and the rise of the social sciences. Its contribution is to see law as a means to social ends and to ask how it works in fact. Its weakness is the absence of a settled standard for choosing among social interests, but its method now underlies the work of modern courts and legislatures.
 
+*Word count: 1191*
+
 ---
 
 <a id="c-18"></a>
@@ -380,5 +390,7 @@ Property is not an absolute right but a social function. The owner holds propert
 4. **Limits.** Unlike Duguit, the Indian Constitution protects individual rights (Part III) and enforces them through the courts, so it balances duty and right.
 
 **Conclusion.** Duguit placed the foundation of law in the interdependence of human beings and the duty of each to serve it. His theory weakened the idea of absolute State will and absolute private property and helped to build the idea of the welfare State and public service. It fails to give a clear test of solidarity and risks undervaluing individual rights, but its influence is visible in the directive principles of the Indian Constitution and in the social control of property.
+
+*Word count: 1104*
 
 ---

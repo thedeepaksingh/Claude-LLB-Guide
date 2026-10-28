@@ -1,11 +1,25 @@
 # Paper I · Jurisprudence – I (K-1001) · Unit 1
 ## Introduction: Definition, Nature and Scope of Jurisprudence; Importance of Its Study
 
-> **Last updated:** 2026-10-27 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
+> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-27 · **Branch:** `paper/01-jurisprudence`
 > **Verify before exam:** case citations in §6 (see checklist at the end).
 > **Syllabus line (official):** *Introduction: Definition, Nature and Scope of Jurisprudence, Importance of the Study of Jurisprudence*
 
-**How this unit is examined.** Expect one of: (a) "Define jurisprudence and discuss its nature and scope" (long), (b) "Discuss the importance/utility of studying jurisprudence" (long or short), (c) a short note on a definition, on a kind of jurisprudence, or on the relation between jurisprudence and another discipline. Definitions (with the thinker's name and book) are the highest-value items: examiners reward a correct name with a correct definition.
+**How this unit has been examined (December 2022–2025).** 11 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q6 (10): Evaluate the need for the study of Jurisprudence. → [B-01](question-bank/section-b-part-1-units-1-2.md#b-01)
+- Dec 2025 Q9 (20): According to Austin, Jurisprudence can be divided into 'General and Particular.' To what extent do Holland and Salmon… → [C-03](question-bank/section-c-part-1-units-1-2.md#c-03)
+- Dec 2025 Q12 (20): "Law is the body of principles, recognized and applied by the state in the administration of Justice." Discuss. → [C-04](question-bank/section-c-part-1-units-1-2.md#c-04)
+- Dec 2024 Q2 (4): Is Jurisprudence study of law of one nation? → [A-03](question-bank/section-a-part-1-units-1-2.md#a-03)
+- Dec 2024 Q12 (20): How would you define Jurisprudence? Which definition according to you would be the most appropriate one? → [C-01](question-bank/section-c-part-1-units-1-2.md#c-01)
+- Dec 2023 Q3 (4): Salmond → [A-04](question-bank/section-a-part-1-units-1-2.md#a-04)
+- Dec 2023 Q5 (4): "Jurisprudence is lawyer's extroversion." (Stone) Comment. → [A-06](question-bank/section-a-part-1-units-1-2.md#a-06)
+- Dec 2023 Q6 (10): Law and Morals → [B-03](question-bank/section-b-part-1-units-1-2.md#b-03)
+- Dec 2023 Q8 (10): "Jurisprudence is the eye of law." Discuss. → [B-02](question-bank/section-b-part-1-units-1-2.md#b-02)
+- Dec 2023 Q11 (20): Discuss the definition, nature, scope and the utility of jurisprudence. → [C-02](question-bank/section-c-part-1-units-1-2.md#c-02)
+- Dec 2022 Q7 (10): "Jurisprudence is the eye of law." Discuss. → [B-02](question-bank/section-b-part-1-units-1-2.md#b-02)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-1-jurisprudence.md`](../../docs/past-papers/paper-1-jurisprudence.md). Unit assignment is by the main topic of the question. The paragraph that stood here earlier was a guess made before I had the papers. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -163,69 +177,42 @@ Jurisprudence has no single fixed boundary. Its scope is usually described under
 
 ## 9. Question bank (model answers)
 
-*Mark bands below are indicative. If your paper pattern differs (see `docs/01-gaps-and-open-questions.md`, item A1), shorten or expand accordingly.*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The three-tier outlines (10–15, 5 and 2 marks) that stood here earlier were guesses made before I had the papers, and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Thinkers and cases: [`jurists-and-cases-digest.md`](question-bank/jurists-and-cases-digest.md) (cases for this unit: 1–11 (morality, natural law and the limits of law)). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Define jurisprudence. Discuss its nature and scope.**
+- [C-01](question-bank/section-c-part-1-units-1-2.md#c-01) How would you define jurisprudence? Which definition is the most appropriate? *(set Dec 2024 Q12)*
+- [C-02](question-bank/section-c-part-1-units-1-2.md#c-02) Definition, nature, scope and utility of jurisprudence *(set Dec 2023 Q11)*
+- [C-03](question-bank/section-c-part-1-units-1-2.md#c-03) Austin's division into general and particular jurisprudence: how far do Holland and Salmond agree? *(set Dec 2025 Q9)*
+- [C-04](question-bank/section-c-part-1-units-1-2.md#c-04) "Law is the body of principles recognised and applied by the State in the administration of justice." Discuss. *(set Dec 2025 Q12)*
+- [C-24](question-bank/section-c-part-4-units-6-7-cross.md#c-24) Law and morality: their relation in natural law, positivism and modern debates, with Indian illustrations
 
-**Introduction.** The word jurisprudence comes from the Latin *juris prudentia*, meaning knowledge or skill in law. It is the discipline that studies law at the level of general principles rather than the detail of any one statute.
+**Section B (10 marks)**
 
-**Definitions.** Ulpian called it the knowledge of things divine and human and the science of the just and the unjust. Austin treated it as the philosophy of positive law. Salmond defined it as the science of the first principles of the civil law. Holland called it the formal science of positive law. Gray stressed the rules followed by courts and the principles behind them. Pound described it as the science of law in the juridical sense. Julius Stone called it the lawyer's extroversion. Dias treats it as legal theory.
+- [B-01](question-bank/section-b-part-1-units-1-2.md#b-01) Evaluate the need for the study of jurisprudence *(set Dec 2025 Q6)*
+- [B-02](question-bank/section-b-part-1-units-1-2.md#b-02) "Jurisprudence is the eye of law." Discuss *(set Dec 2023 Q8; Dec 2022 Q7)*
+- [B-03](question-bank/section-b-part-1-units-1-2.md#b-03) Law and morals *(set Dec 2023 Q6)*
+- [B-04](question-bank/section-b-part-1-units-1-2.md#b-04) Kinds (divisions) of jurisprudence
+- [B-05](question-bank/section-b-part-1-units-1-2.md#b-05) Jurisprudence and the other social sciences
+- [B-06](question-bank/section-b-part-1-units-1-2.md#b-06) Compare the definitions of jurisprudence given by Holland, Salmond and Gray
 
-**Nature.** (i) It is a general and theoretical study of law. (ii) It is a social science, systematic but not experimental. (iii) It is both descriptive (what law is) and critical (what law ought to be). (iv) It is interdisciplinary, drawing on ethics, history, sociology, economics and politics. (v) It is dynamic, with each school answering the needs of its age.
+**Section A (4 marks), 15 answers**
 
-**Scope.** It covers the nature and definition of law; sources of law; fundamental concepts (rights, duties, ownership, possession, personality, liability); justice and administration of justice; legal reasoning and interpretation; and the schools of thought (natural, analytical, historical, sociological, realist, economic). Its kinds are analytical, historical, ethical (Salmond), expositorial and censorial (Bentham), general and particular (Austin).
-
-**Relationship with other disciplines.** (Insert one or two lines each for sociology, ethics, history and economics from §5.)
-
-**Indian illustration.** *Gopalan* and *Maneka Gandhi* show how one constitutional phrase produced two judgments because of two jurisprudential views.
-
-**Conclusion.** Jurisprudence has no rigid boundary; it is the theoretical backbone of law, and its value lies in explaining why law is what it is and what it should become.
-
----
-
-**Q2. "Jurisprudence is the eye of law." Discuss the importance of the study of jurisprudence.**
-*(Use §6. Open with the quotation as a way of saying that jurisprudence lets the lawyer see the purpose and structure behind rules. Give 6–8 numbered points, each with a one-line illustration, then the Indian cases, then a short conclusion on law reform and emerging issues.)*
-
----
-
-**Q3. Explain the different kinds of jurisprudence according to Salmond, Bentham and Austin.**
-*(Use §4. Present as a three-column table, then explain analytical, historical and ethical jurisprudence with one example each, and end with the modern classification including sociological and realist approaches.)*
-
----
-
-**Q4. Discuss the relationship between jurisprudence and other social sciences.**
-*(Use the §5 table. Give the strongest weight to sociology, ethics and history; add economics and political science; end by quoting Stone's "lawyer's extroversion".)*
-
----
-
-### Short notes (5 marks)
-
-1. **Origin and meaning of "jurisprudence."** *Juris* + *prudentia*; Ulpian's definition; shift from Roman usage to Bentham/Austin.
-2. **Salmond's definition of jurisprudence** and criticism that "civil law" is ambiguous and that the definition is too narrow, ignoring law's social purpose.
-3. **Austin's definition and province of jurisprudence.** Positive law only; excludes natural law and morality from the study.
-4. **General and particular jurisprudence (Austin).**
-5. **Expositorial and censorial jurisprudence (Bentham).**
-6. **Is jurisprudence a science?**
-7. **Jurisprudence and sociology.**
-8. **Law and morality** (use the table in §7).
-9. **Utility of jurisprudence to judges and legislators** (use *Maneka Gandhi*, *Puttaswamy*, *Vishaka*).
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Meaning of *jurisprudentia*? | Knowledge of or skill in law (Latin *juris* + *prudentia*). |
-| Who defined jurisprudence as "the formal science of positive law"? | T.E. Holland. |
-| Who called jurisprudence the "lawyer's extroversion"? | Julius Stone. |
-| Name Salmond's three branches. | Legal exposition (analytical), legal history (historical), science of legislation (ethical). |
-| Who divided jurisprudence into expositorial and censorial? | Jeremy Bentham. |
-| What did Austin mean by "particular jurisprudence"? | The science of an actual system of law, such as Indian law. |
-| Name Austin's major work on jurisprudence. | *The Province of Jurisprudence Determined* (1832). |
-| Who is the author of *Law in a Changing Society*? | W. Friedmann. |
-| What is the difference between law and morality in one line? | Law is enforced by the State for external conduct; morality rests on conscience and social opinion. |
-| Is jurisprudence a natural science? | No; it is a systematic social science without experimental method. |
+- [A-01](question-bank/section-a-part-1-units-1-2.md#a-01) Meaning of "jurisprudence"
+- [A-02](question-bank/section-a-part-1-units-1-2.md#a-02) Ulpian's definition
+- [A-03](question-bank/section-a-part-1-units-1-2.md#a-03) Is jurisprudence the study of the law of one nation? *(set Dec 2024 Q2)*
+- [A-04](question-bank/section-a-part-1-units-1-2.md#a-04) Salmond *(set Dec 2023 Q3)*
+- [A-05](question-bank/section-a-part-1-units-1-2.md#a-05) Holland's definition
+- [A-06](question-bank/section-a-part-1-units-1-2.md#a-06) "Jurisprudence is lawyer's extroversion" (Stone) *(set Dec 2023 Q5)*
+- [A-07](question-bank/section-a-part-1-units-1-2.md#a-07) Gray's definition
+- [A-08](question-bank/section-a-part-1-units-1-2.md#a-08) "Jurisprudence is the philosophy of positive law" (Austin)
+- [A-09](question-bank/section-a-part-1-units-1-2.md#a-09) Keeton and Dias on jurisprudence
+- [A-10](question-bank/section-a-part-1-units-1-2.md#a-10) Expositorial and censorial jurisprudence
+- [A-11](question-bank/section-a-part-1-units-1-2.md#a-11) General and particular jurisprudence
+- [A-12](question-bank/section-a-part-1-units-1-2.md#a-12) Law and morality: difference
+- [A-13](question-bank/section-a-part-1-units-1-2.md#a-13) Nature of jurisprudence: is it a science?
+- [A-14](question-bank/section-a-part-1-units-1-2.md#a-14) Utility of the study of jurisprudence
+- [A-15](question-bank/section-a-part-1-units-1-2.md#a-15) Jurisprudence and sociology
 
 ---
 
