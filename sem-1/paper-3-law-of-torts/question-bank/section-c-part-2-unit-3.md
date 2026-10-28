@@ -88,9 +88,7 @@
 
 **Conclusion.** A master is liable if his servant commits a tort in the course of employment, whether the act was authorised or an unauthorised mode of doing an authorised act. The courts now look at the close connection between the job and the wrong. An employer is generally not liable for an independent contractor, and the exceptions mostly concern hazardous work and non-delegable duties. The same ideas apply to the State; and the right to sue for a wrong done to another is given by statute to dependants, representatives and guardians.
 
-*Word count: 1,200*
-
-*Word count: 1587*
+*Word count: 1584*
 
 ---
 
@@ -140,9 +138,7 @@
 
 **Conclusion.** The statement is substantially correct. From *P. & O.* (1861) to *Kasturilal* (1965) the sovereign/non-sovereign test decided the matter. Since *Nilabati* (1993) and *Nagendra Rao* (1994) it has been confined to a small core of acts, and fundamental-rights violations attract compensation whatever the nature of the function. A clear statute, as the Supreme Court has urged since 1965, is still needed.
 
-*Word count: 1,150*
-
-*Word count: 1160*
+*Word count: 1157*
 
 ---
 
@@ -193,9 +189,7 @@ Persons who act **independently** and happen to cause the same damage are **not*
 
 **Conclusion.** Joint tortfeasors are persons answerable for the same wrong: as master and servant, as partners in a joint duty, or as parties to a common design. Each is liable for all the damage, and the plaintiff may choose whom to sue. English statutes have removed the harsh rules on judgment and contribution; India relies on the common law and on motor-claims cases for composite negligence.
 
-*Word count: 1,000*
-
-*Word count: 902*
+*Word count: 899*
 
 ---
 

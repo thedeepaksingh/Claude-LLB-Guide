@@ -83,9 +83,7 @@
 
 **Conclusion.** Nuisance requires an unreasonable interference with the use or enjoyment of land that causes substantial damage. Public nuisance is both a crime and, with special damage, a tort. The defences are narrow: prescription, statutory authority, consent and reasonable user. Utility, and coming to the nuisance, do not excuse. The Indian courts increasingly use nuisance ideas, with Art. 21, to protect the environment.
 
-*Word count: 1,000*
-
-*Word count: 1037*
+*Word count: 1034*
 
 ---
 
@@ -148,9 +146,7 @@
 
 **Conclusion.** Trespass protects bodily integrity, liberty, possession of land and possession of goods against direct interference and does so without proof of damage. In India it is reinforced by the Constitution (Arts. 21 and 22), under which the State pays compensation for unlawful detention.
 
-*Word count: 1,100*
-
-*Word count: 1121*
+*Word count: 1118*
 
 ---
 
@@ -202,9 +198,7 @@
 
 **Conclusion.** A defamatory statement, referring to the plaintiff and published to a third person, is actionable. Truth, fair comment and privilege are the main defences, and the criminal law adds a "public good" requirement for truth. Libel and slander are distinguished mainly in English law.
 
-*Word count: 1,150*
-
-*Word count: 1048*
+*Word count: 1045*
 
 ---
 

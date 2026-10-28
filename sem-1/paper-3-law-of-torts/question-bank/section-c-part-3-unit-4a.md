@@ -73,9 +73,7 @@ Duty of care  →  Breach of the duty  →  Damage caused by the breach (not too
 
 **Conclusion.** Negligence is the breach of a legal duty of care, measured against the reasonable man, which causes foreseeable damage. The objective theory is the one the courts apply, and the tort rests on duty, breach and damage.
 
-*Word count: 1,100*
-
-*Word count: 1262*
+*Word count: 1259*
 
 ---
 
@@ -134,9 +132,7 @@ If the facts are fully known, there is nothing for the doctrine to say.
 
 **Conclusion.** *Res ipsa loquitur* is an aid to proof that moves the burden of explanation to the defendant when the circumstances themselves suggest negligence; it applies in India, as *Subhagwanti* shows. Contributory negligence, once a complete bar, now only reduces damages in proportion to the plaintiff's share of responsibility.
 
-*Word count: 1,000*
-
-*Word count: 914*
+*Word count: 911*
 
 ---
 
@@ -225,9 +221,7 @@ If the facts are fully known, there is nothing for the doctrine to say.
 
 **Conclusion.** A professional is judged by the standard of an ordinary competent member of the profession. Civil liability rests on a breach of this standard; criminal liability needs gross negligence. The Supreme Court protects doctors against harassment while holding hospitals and practitioners accountable. The law on whether doctors are covered by the Consumer Protection Act is under reconsideration.
 
-*Word count: 1,000*
-
-*Word count: 894*
+*Word count: 891*
 
 ---
 

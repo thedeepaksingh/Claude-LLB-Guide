@@ -69,9 +69,7 @@
 
 **Conclusion.** A consumer is a person who buys goods or hires services for consideration, other than for resale or commercial purpose; users and beneficiaries with the buyer's approval are included, and livelihood by self-employment is not commercial. "Service" covers most paid services, except free services and personal service. Deficiency is any shortfall in the standard of service, including negligence and withholding of information. The Supreme Court has extended the Act to housing and medical services, and excluded advocates, with the position of doctors under reconsideration.
 
-*Word count: 1,200*
-
-*Word count: 1204*
+*Word count: 1201*
 
 ---
 
@@ -130,9 +128,7 @@
 
 **Conclusion.** The District Commission is the court of first instance for most consumer disputes up to ₹50 lakh. It has the powers of a civil court, can grant a wide range of reliefs, and its orders are enforceable as decrees and by penal sanctions. Appeals go to the State and National Commissions and finally to the Supreme Court.
 
-*Word count: 1,050*
-
-*Word count: 923*
+*Word count: 920*
 
 ---
 
@@ -191,9 +187,7 @@
 
 **Conclusion.** A complaint must show who the parties are, why the Commission has jurisdiction, the facts, the defect or deficiency, the cause of action and the relief claimed, with the proof annexed. The procedure is simple, there is no need for a lawyer, and the Commission is required to decide within three months.
 
-*Word count: 1,150*
-
-*Word count: 1033*
+*Word count: 1030*
 
 ---
 
@@ -254,9 +248,7 @@
 
 **Conclusion.** The 2019 Act moves from a purely remedial law to a regulatory one: it adds a regulator (the CCPA) for class-wide action, a separate product-liability regime that does not need proof of negligence, a definition of unfair contracts, rules for e-commerce and mediation, and easier access to forums for complainants.
 
-*Word count: 1,100*
-
-*Word count: 1023*
+*Word count: 1020*
 
 ---
 

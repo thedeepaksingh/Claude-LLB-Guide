@@ -232,9 +232,7 @@ Liability is not absolute: the plaintiff can recover only for the natural conseq
 
 **Conclusion.** *Rylands v. Fletcher* made the keeper of a dangerous thing liable for its escape, subject to exceptions such as Act of God, consent, plaintiff's default, third-party act and statutory authority. In India, *M.C. Mehta* has replaced those exceptions with a stricter rule of absolute liability for hazardous enterprises, which better suits the risks of modern industry.
 
-*Word count: 1,010*
-
-*Word count: 1077*
+*Word count: 1074*
 
 ---
 
@@ -296,9 +294,7 @@ Liability is not absolute: the plaintiff can recover only for the natural conseq
 
 **Conclusion.** The law of torts allows nearly everyone to sue and be sued. Exceptions rest on public policy (judges, diplomats, foreign States) or on the person's capacity (minors, persons of unsound mind). The State is liable, but subject to procedural protections. A person who is not liable himself may still have another made liable on his behalf (Unit 3).
 
-*Word count: 1,010*
-
-*Word count: 1035*
+*Word count: 1032*
 
 ---
 
@@ -358,9 +354,7 @@ Thus there is **double actionability** (the "double test"). In ***Boys v. Chapli
 
 **Conclusion.** Damages are the central remedy for a tort, with injunction and restitution for continuing wrongs, and the law allows limited self-help. A right of action ends by death (in some cases), waiver, release, accord and satisfaction, judgment or limitation. A foreign tort is actionable in India if it would be a tort in India and was actionable civilly in the place where it was done.
 
-*Word count: 1,060*
-
-*Word count: 1308*
+*Word count: 1305*
 
 ---
 
@@ -428,9 +422,7 @@ Thus there is **double actionability** (the "double test"). In ***Boys v. Chapli
 
 **Conclusion.** The statement correctly states the law. A plaintiff fails under *volenti* only if he agreed, freely and with knowledge, to take the risk. Mere knowledge, as in *Smith v. Baker*, *Dann v. Hamilton* and the rescue cases, is not enough. Courts prefer contributory negligence, which shares the loss, to the harsh all-or-nothing defence.
 
-*Word count: 1,050*
-
-*Word count: 1126*
+*Word count: 1123*
 
 ---
 
@@ -492,9 +484,7 @@ A person may use **reasonable force** to defend his own person or property, or t
 
 **Conclusion.** Necessity, private defence and statutory authority are defences of justification. Necessity requires a greater harm avoided and a reasonable response; private defence permits proportionate force against a wrongful attack; statutory authority protects acts the legislature has authorised, but not negligence and not nuisance that could be avoided. Courts apply each strictly, and the burden is on the defendant.
 
-*Word count: 1,000*
-
-*Word count: 980*
+*Word count: 977*
 
 ---
 
