@@ -37,7 +37,7 @@
 | **Vishaka v. State of Rajasthan** | (1997) 6 SCC 241 | Guidelines against sexual harassment; gender equality |
 | **Githa Hariharan v. Reserve Bank of India** | (1999) 2 SCC 228 | "natural guardian" provision in the Hindu Minority and Guardianship Act read down so that the mother can be guardian in appropriate cases |
 | **Secretary, Ministry of Defence v. Babita Puniya** | (2020) 7 SCC 469 | Permanent commission for women officers in the Army; stereotypes on physical and social differences rejected |
-| **Indian Young Lawyers Association v. State of Kerala (Sabarimala)** | (2018) 8 SCC 1 | Exclusion of women of menstruating age from Sabarimala temple held to violate Arts. 14, 15, 25 (a nine-judge reference on wider questions is pending; see Unit 10) |
+| **Indian Young Lawyers Association v. State of Kerala (Sabarimala)** | (2019) 11 SCC 1 (28 Sept 2018; *verify the report*) | Exclusion of women of menstruating age from Sabarimala temple held to violate Arts. 14, 15, 25 (a nine-judge reference on wider questions is pending; see Unit 10) |
 
 ### 1.4 Article 15(4): backward classes
 - ***State of Madras v. Champakam Dorairajan*** AIR 1951 SC 226: a Government Order allocating medical-college seats by community **violated Art. 15(1) and Art. 29(2)**. This prompted the **First Amendment, 1951**, which inserted **Art. 15(4)**.
