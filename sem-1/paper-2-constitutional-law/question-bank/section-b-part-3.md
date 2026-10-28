@@ -349,13 +349,13 @@ Art. 32(2) empowers the Supreme Court, and Art. 226 the High Courts, to issue wr
 - *Sarla Mudgal* (1995): conversion to Islam does not dissolve a first marriage; the Court urged a UCC.
 - *John Vallamattom* (2003): s. 118 of the Indian Succession Act struck down; a UCC urged again.
 
-**Developments.** The 21st Law Commission (2018) said a UCC was "neither necessary nor desirable at this stage". The 22nd Law Commission invited views in June 2023. The Goa Civil Code is an example. The **Uttarakhand Uniform Civil Code Act, 2024** came into force on 27 January 2025; Bills were passed in Gujarat and Assam in 2026 (check assent).
+**Developments.** The 21st Law Commission (2018) said a UCC was "neither necessary nor desirable at this stage". The 22nd Law Commission invited views in June 2023. Goa has a civil code. Uttarakhand's Act has been in force since 27 January 2025. Gujarat's Act was reported to have received assent on 2 October 2026 (commencement pending); Assam's Bill (May 2026) awaits assent.
 
 **For:** national integration; gender justice. **Against:** religious freedom (Art. 25), diversity, lack of consensus.
 
 **Conclusion.** The Court has urged a UCC, but it remains a policy for the legislatures.
 
-*Word count: 195*
+*Word count: 198*
 
 ---
 

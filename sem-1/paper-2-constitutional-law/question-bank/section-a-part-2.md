@@ -215,7 +215,7 @@ Art. 21 uses "procedure established by law" (from the Japanese Constitution), un
 <a id="a-67"></a>
 **A-67 · Right to privacy**
 
-*K.S. Puttaswamy v. Union of India* (24 August 2017, nine judges) unanimously held that privacy is a fundamental right under Art. 21 and Part III. It covers bodily integrity, decisional autonomy and informational privacy. Any intrusion must satisfy legality, a legitimate aim and proportionality. *M.P. Sharma* and *Kharak Singh* were overruled in part, and *ADM Jabalpur* was disapproved.
+*K.S. Puttaswamy v. Union of India* (24 August 2017, nine judges) unanimously held that privacy is a fundamental right under Art. 21 and Part III. It covers bodily integrity, decisional autonomy and informational privacy. Any intrusion must satisfy legality, a legitimate aim and proportionality. *M.P. Sharma* and *Kharak Singh* were overruled in part, and *ADM Jabalpur* was overruled.
 
 *Word count: 58*
 

@@ -10,8 +10,8 @@
 
 | | |
 |---|---|
-| Checked against a source | 24 groups of points (section 2) |
-| Changed after a check showed an error | 20 corrections (section 3) |
+| Checked against a source | 28 groups of points (section 2) |
+| Changed after a check showed an error | 21 corrections (section 3) |
 | Not checked | 13 law-and-events items, 5 groups of case citations, 15 holding-and-fact items, and the points added when the 20-mark answers were lengthened on 28 Oct 2026 (section 4, list D) |
 | Official marking scheme | **Not found** (section 5) |
 | Link and anchor check | See section 6 |
@@ -46,6 +46,10 @@
 | 22 | Ambedkar on Art. 32 ("the very soul of the Constitution…") | Constituent Assembly Debates | Quote checked | C-22 |
 | 23 | Digest: *Joseph Shine* citation | Report | (2019) 3 SCC 39, decided 27 Sept 2018 | digest 23, case bank, units 4, 5, 8 |
 | 24 | Exam pattern and paper codes | All 20 papers | 4/10/20 marks; 75/200/"in detail"; K-1002 for Paper II | README, [`../../../docs/02-exam-pattern-and-past-papers.md`](../../../docs/02-exam-pattern-and-past-papers.md) |
+| 25 | *Puttaswamy* and *ADM Jabalpur* (second check, 28 Oct 2026, evening) | A legal-news account of the 2017 judgment and the encyclopaedia entry quoting para 119 | Chandrachud J. (for four judges), Nariman J. and Kaul J. expressly overruled *ADM Jabalpur*; para 119 calls the majority judgments "seriously flawed"; six concurring opinions and no dissent; the Attorney General accepted in argument that privacy could be a "wholly qualified" right | C-16, C-25, A-67, A-108, B-31, digest, unit 8 |
+| 26 | State UCC laws (press reports only, 28 Oct 2026, evening) | Reports in a legal-news aggregator, a news site and the All India Radio website | **Gujarat:** Assembly passed the Bill in March 2026; assent reported on 2 Oct 2026 (Gujarat Act No. 15 of 2026), commencement to be notified; marriage registration within 60 days and live-in registration within 30 days; Scheduled Tribes excluded. **Assam:** Bill passed on 27 May 2026; to go to the Governor and the President; assent not reported. I did not see the Gazette | B-45, unit 13, README |
+| 27 | *Anjuman Ishaat-e-Taleem Trust v. State of Maharashtra* (1 Sept 2025) | Law-reporter summary of the judgment (2025 INSC 1063) | Bench of Datta and Manmohan JJ.; TET mandatory for in-service teachers with more than five years of service left, Art. 142 relief for those with less; *Pramati* doubted and the question of RTE's application to minority institutions referred to a larger bench | C-17 |
+| 28 | Caste census and Bihar quota (news reports, 28 Oct 2026) | News reports | Union Cabinet approved caste enumeration in the next census on 30 April 2025 (no timeline given); Patna High Court struck down Bihar's increase of reservation to 65% in June 2024 | C-07 |
 
 ---
 
@@ -55,7 +59,7 @@
 |---|---|---|---|---|
 | 1 | *Shirur Mutt* s. 76 | "fee"; implied a breach of Art. 27 | "tax", void for want of legislative competence, no breach of Art. 27 | A-91, B-38, unit 10 (commit 0fc1e02) |
 | 2 | *Prafull Goradia* | Holding line missing in the unit note | Added the holding | unit 10 |
-| 3 | ADM Jabalpur and *Puttaswamy* | "declared wrong" | "disapproved" | A-67 |
+| 3 | ADM Jabalpur and *Puttaswamy* | "declared wrong" | "disapproved" at first; **reversed** on a second check (row 25 in section 2) to "overruled" in every file | A-67 and the files in row 19 |
 | 4 | Wording errors | – | Corrected | A-143, A-147, A-151 |
 | 5 | *Joseph Shine* citation | (2018) 2 SCC 189 | (2019) 3 SCC 39 | digest, case bank, units 4, 5, 8 |
 | 6 | *Kaushal Kishor* entry | Guessed facts | Verified facts and bench | digest 41 |
@@ -71,7 +75,7 @@
 | 16 | Unit-file question banks | Outlines with guessed mark bands "indicative; confirm your pattern" | Replaced with links to the real answers | units 1–14 |
 | 17 | Drafting corrections in C-25 to C-29 | Statements I could not support (a res judicata rule for habeas corpus; Art. 28(3) in *Bijoe Emmanuel*; the Irish directives said to come from Spanish models; *Praga Tools* said to allow mandamus against a private body) | Removed or narrowed before publication | C-27, C-28, C-29 |
 | 18 | C-11: Art. 20 and the Emergency | "Art. 359(1) proviso, inserted by the 44th Amendment" | "Art. 359(1), as amended by the 44th Amendment, which excepts Arts. 20 and 21" | C-11 |
-| 19 | C-16: *ADM Jabalpur* in *Puttaswamy* | "declared wrongly decided" and "overruled" | "disapproved (commonly described as overruled)"; the conclusion now says "disapproved" | C-16 |
+| 19 | C-16 and other files: *ADM Jabalpur* in *Puttaswamy* | "declared wrongly decided" (C-16, B-31, unit 8) and, elsewhere, "disapproved" (A-67, A-108, digest, C-25) | After a second source check, "overruled" with attribution to Chandrachud J. (for four), Nariman J. and Kaul J., and the quotation "seriously flawed" (para 119); my first softening to "disapproved" was too cautious and is withdrawn | C-16, C-25, A-67, A-108, B-31, digest, unit 8 |
 | 20 | C-04: eclipse and post-Constitution laws | A bullet on *Mahendra Lal Jaini* and a "Result" sentence that relied on it, which I could not support | Bullet removed; the result now rests on *Bhikaji Narain*, *Deep Chand* and *Ambica Mills* and says the point must be stated carefully | C-04 |
 
 ---
@@ -80,8 +84,8 @@
 
 **A. Law and events that may have moved after 28 October 2026 or that I could not confirm**
 1. Hijab case: status of the larger bench in 2026.
-2. Sabarimala nine-judge reference: judgment may have been pronounced since reserved on 14 May 2026.
-3. Gujarat and Assam Uniform Civil Code Bills: assent and commencement.
+2. Sabarimala nine-judge reference: reserved on 14 May 2026 after a 16-day hearing; August 2026 reports said the verdict was expected by 6 October 2026. I found no report of the verdict in my searches on 28 Oct 2026, but one later news headline mentions a Sabarimala verdict and I could not open it. **Check this first.**
+3. Gujarat and Assam Uniform Civil Code laws: **partly checked** (section 2, row 26, press reports only). Still to confirm: the Gazette text, the Gujarat commencement notification, and whether Assam's Bill has received assent.
 4. Labour Codes: commencement date of 21 November 2025.
 5. BNS s. 226 (attempt to commit suicide to compel a public servant), as referred to in unit 8.
 6. Waqf (Amendment) Act: outcome after the interim order.
@@ -108,23 +112,23 @@
 5. Swaran Singh Committee (1976): the number of duties it proposed.
 6. Verma Committee (1999): dates and the list of laws it identified.
 7. Ambedkar's and other framers' quotations other than the Art. 32 quotation.
-8. **Art. 30 and citizens.** A-37 and B-20 say Art. 29 and Art. 30 are for citizens; the text of Art. 30(1) says "all minorities". The answers follow the usual textbook statement. Check before relying.
+8. **Art. 30 and citizens.** B-20 lists Art. 29 and Art. 30 among the rights of citizens "as usually classified" and now notes that Art. 30(1) says "all minorities" (A-37 says only "minorities"). Whether a non-citizen minority can claim Art. 30 is not settled in the answers; check before relying.
 9. *Bommai*: the outcome for Meghalaya and Nagaland.
 10. *Ismail Faruqui*: the s. 4(3) remark.
 11. *St. Stephen's*: the interview point.
 12. *Champakam*: whether the Court held Art. 15(1) or only Art. 29(2) violated (the digest says Art. 29(2); B-23 and C-07 say Arts. 15(1) and 29(2)).
 13. *Makhan Singh*: the size of the bench.
 14. *Davinder Singh*: whether the creamy-layer opinions bind.
-15. Gujarat and Assam UCC details in B-45 and the unit notes.
+15. Gujarat and Assam UCC details (registration periods, exclusions, minimum marriage age): press reports only (section 2, row 26).
 
 **D. Points added on 28 Oct 2026 when the 20-mark answers were lengthened (written from memory; not checked against a source)**
 1. **C-16 (privacy):** the count of six opinions and the names of the concurring judges; the counsel's arguments in *Puttaswamy*; the date of the January 2021 Aadhaar review and Chandrachud J.'s dissent; the Aadhaar and Other Laws (Amendment) Act, 2019; *X v. Principal Secretary* (29 Sept 2022); the Pegasus order (27 Oct 2021) and its committee head; SCC references for *Shafin Jahan* (2018) 16 SCC 368, *Suchita Srivastava* (2009) 9 SCC 1, *Common Cause* (2018) 5 SCC 1 and *Selvi* (2010) 7 SCC 263; DPDP Act features (the ₹250 crore ceiling, s. 17, appointment of the Board); BNS ss. 77 and 78; Srikrishna Committee dates.
-2. **C-17 (education):** the facts of *Mohini Jain*; *P.A. Inamdar* (2005) 6 SCC 537; RTE Act sections 3(2), 4, 12(2), 17, 18, 27, 28, 29 and 30; the date of *Society for Unaided Private Schools* (12 April 2012); the teacher-eligibility holding reported in the 1 Sept 2025 order; the scope of *Ashoka Kumar Thakur*.
+2. **C-17 (education):** the facts of *Mohini Jain*; *P.A. Inamdar* (2005) 6 SCC 537; RTE Act sections 3(2), 4, 12(2), 17, 18, 27, 28, 29 and 30; the date of *Society for Unaided Private Schools* (12 April 2012); the scope of *Ashoka Kumar Thakur*. (The 1 Sept 2025 teacher-eligibility holding is now checked: section 2, row 27.)
 3. **C-15 (environment):** *Chhetriya Pradushan Mukti Sangharsh Samiti* (1990) 4 SCC 449 and *Virender Gaur* (1995) 2 SCC 577; the 12 December 1996 *Godavarman* order; Entries 17A and 17B; the seven laws in Schedule I of the NGT Act; the CNG orders "from 1998".
 4. **C-11 and C-12 (Art. 20):** *Raja Narayanlal Bansilal* AIR 1961 SC 29; *Poolpandi* (1992) 3 SCC 259; *Leo Roy Frey* AIR 1958 SC 119; *Thomas Dana* AIR 1959 SC 375; BSA s. 23; BNSS ss. 349 and 351; the Criminal Procedure (Identification) Act, 2022.
 5. **C-14 (dignity):** *Hussainara Khatoon* (1980) 1 SCC 81; *Shatrughan Chauhan* (2014) 3 SCC 1; *Jeeja Ghosh* (2016) 7 SCC 761; *Safai Karamchari Andolan* (2014) 11 SCC 224; *Bodhisattwa Gautam* (1996) 1 SCC 490; *Gian Kaur* (1996) 2 SCC 648; *Aruna Shanbaug* (2011) 4 SCC 454; the Mental Healthcare Act, 2017 s. 115; the absence of a general offence of attempting suicide in the BNS.
 6. **C-09 (press):** *Tata Press* (1995) 5 SCC 139; *Raj Narain* (1975) 4 SCC 428; *Prabha Dutt* (1982) 1 SCC 1; *Aveek Sarkar* (2014) 4 SCC 257; *Ranjit Udeshi* AIR 1965 SC 881; *Vinod Dua* (3 June 2021); *Vombatkere* (11 May 2022); the Law Commission's 200th Report.
-7. **C-02 to C-07 (Part I and II):** the adoption of the Preamble on 17 Oct 1949; *Kesavananda* details (68 days, eleven opinions, the nine-judge summary, the 1975 review bench); *Minerva Mills* 4:1; the NJAC vote (4:1); *Narasu Appa Mali* AIR 1952 Bom 84 and the vote pattern in *Shayara Bano*; *Kathi Raning Rawat* AIR 1952 SC 123; *Triloki Nath Khosa* (1974) 1 SCC 19; *R.K. Garg* (1981) 4 SCC 675; *Nergesh Meerza* (1981) 4 SCC 335; *Rajbala* (2016) 2 SCC 445; *Zee Telefilms* (2005) 4 SCC 649; *BCCI v. CAB* (2015) 3 SCC 251; *Hari Vishnu Kamath* AIR 1955 SC 233; *Govinda Rao* AIR 1965 SC 491; the Mandal timeline; the 102nd, 105th and 106th Amendments; the April 2025 caste-census decision; the Patna High Court order of June 2024; the OBC creamy-layer limit.
+7. **C-02 to C-07 (Part I and II):** the adoption of the Preamble on 17 Oct 1949; *Kesavananda* details (68 days, eleven opinions, the nine-judge summary, the 1975 review bench); *Minerva Mills* 4:1; the NJAC vote (4:1); *Narasu Appa Mali* AIR 1952 Bom 84 and the vote pattern in *Shayara Bano*; *Kathi Raning Rawat* AIR 1952 SC 123; *Triloki Nath Khosa* (1974) 1 SCC 19; *R.K. Garg* (1981) 4 SCC 675; *Nergesh Meerza* (1981) 4 SCC 335; *Rajbala* (2016) 2 SCC 445; *Zee Telefilms* (2005) 4 SCC 649; *BCCI v. CAB* (2015) 3 SCC 251; *Hari Vishnu Kamath* AIR 1955 SC 233; *Govinda Rao* AIR 1965 SC 491; the Mandal timeline; the 102nd, 105th and 106th Amendments; the OBC creamy-layer limit. (The April 2025 caste-census decision and the Patna High Court order of June 2024 are now checked: section 2, row 28.)
 8. **C-28 (directives):** *Mirzapur Moti Kureshi* (2005) 8 SCC 534; *Shah Bano*, *Sarla Mudgal* and *John Vallamattom* citations; the 21st and 22nd Law Commission positions on a uniform civil code; the description of the majority's view in *Property Owners Association* on Krishna Iyer J.'s reading of Art. 39(b).
 
 ---

@@ -150,7 +150,7 @@
 - **Issue.** Can a detainee seek habeas corpus when the right to move a court for enforcing Arts. 14, 21 and 22 has been suspended under Art. 359? Is there a right to life and liberty apart from Art. 21?
 - **Held (majority).** While the order was in force, no one could challenge detention in court, even for mala fides or illegality. **Khanna J. dissented**: Art. 21 is not the only source of the right to life and liberty, and the rule of law continues even in an Emergency.
 - **Principle.** The majority view that rights to life and liberty could be suspended in an Emergency has been rejected. Khanna J.'s dissent is now the accepted position: liberty is not the gift of the Constitution.
-- **After.** The 44th Amendment (1978) provided that Arts. 20 and 21 cannot be suspended under Art. 359. *K.S. Puttaswamy v. Union of India* (2017) disapproved the majority view as wrong.
+- **After.** The 44th Amendment (1978) provided that Arts. 20 and 21 cannot be suspended under Art. 359. *K.S. Puttaswamy v. Union of India* (2017) overruled the majority view (para 119 called the majority judgments "seriously flawed").
 - **Used in:** A-05, A-67, B-18, C-03, C-25.
 
 ---
@@ -431,7 +431,7 @@
 ### 51. *K.S. Puttaswamy v. Union of India* (2017) 10 SCC 1 · 9 judges (unanimous)
 - **Facts.** Justice K.S. Puttaswamy (retired) challenged the Aadhaar scheme. The Union argued that privacy is not a fundamental right, relying on *M.P. Sharma* (8 judges, 1954) and *Kharak Singh* (6 judges, 1962); a nine-judge bench was constituted to decide the question.
 - **Issue.** Is privacy a fundamental right? What is the test for restricting it? Are *M.P. Sharma* and *Kharak Singh* still good law?
-- **Held.** The **right to privacy** is a fundamental right, intrinsic to life and liberty under Art. 21 and part of Part III. It covers bodily integrity, personal autonomy, informational privacy and decisional autonomy. A restriction must satisfy **legality, a legitimate aim, proportionality and procedural safeguards**. *M.P. Sharma* and *Kharak Singh* were overruled to the extent that they said otherwise. The majority view in *ADM Jabalpur* was disapproved.
+- **Held.** The **right to privacy** is a fundamental right, intrinsic to life and liberty under Art. 21 and part of Part III. It covers bodily integrity, personal autonomy, informational privacy and decisional autonomy. A restriction must satisfy **legality, a legitimate aim, proportionality and procedural safeguards**. *M.P. Sharma* and *Kharak Singh* were overruled to the extent that they said otherwise. The majority view in *ADM Jabalpur* was overruled.
 - **Principle.** Privacy is intrinsic to life and liberty; restrictions must satisfy legality, a legitimate aim and proportionality.
 - **After.** *Puttaswamy (Aadhaar)* (2018) 1 SCC 809 † (4:1) upheld Aadhaar with limits. The Digital Personal Data Protection Act, 2023 and the DPDP Rules, 2025 † now regulate personal data.
 - **Used in:** A-67, B-31, C-16, C-25.

@@ -109,7 +109,7 @@ timeline
 | ***Gobind*** | (1975) 2 SCC 148 | Limited privacy right |
 | ***R. Rajagopal v. State of T.N.*** | (1994) 6 SCC 632 | Privacy is part of Art. 21; right to be left alone (also Unit 6) |
 | ***PUCL v. Union of India*** | (1997) 1 SCC 301 | **Telephone tapping** infringes privacy; procedural safeguards laid down |
-| ***Justice K.S. Puttaswamy (Retd.) v. Union of India*** | (2017) 10 SCC 1 (nine judges; **24 August 2017**) | **Privacy is a fundamental right** under Art. 21 (and Arts. 14 and 19); *M.P. Sharma* and *Kharak Singh* overruled to the extent they held otherwise; ***ADM Jabalpur*** declared wrongly decided. **Three-part test** for any intrusion: (i) **legality** (a law), (ii) **legitimate aim**, (iii) **proportionality**. Privacy includes **informational privacy, bodily integrity, autonomy, decisional privacy** |
+| ***Justice K.S. Puttaswamy (Retd.) v. Union of India*** | (2017) 10 SCC 1 (nine judges; **24 August 2017**) | **Privacy is a fundamental right** under Art. 21 (and Arts. 14 and 19); *M.P. Sharma* and *Kharak Singh* overruled to the extent they held otherwise; ***ADM Jabalpur*** overruled. **Three-part test** for any intrusion: (i) **legality** (a law), (ii) **legitimate aim**, (iii) **proportionality**. Privacy includes **informational privacy, bodily integrity, autonomy, decisional privacy** |
 | ***Puttaswamy (II)*** (Aadhaar) | (2019) 1 SCC 1 (26 Sept 2018) | Aadhaar upheld for welfare and PAN-linking; **s. 57** (use by private entities) struck down; use as a condition for bank accounts and mobile SIMs held impermissible; applied proportionality |
 
 **Statute:** the **Digital Personal Data Protection Act, 2023** (assent 11 Aug 2023) and the **DPDP Rules, 2025** (notified in November 2025). As reported by law-firm sources: the Data Protection Board and definitions took effect on **13 Nov 2025**, consent-manager provisions follow on **12 Nov 2026**, and the main obligations on data fiduciaries (notice, consent, children's data, rights of data principals) on **12 May 2027**. *(Dates from secondary sources; confirm in the Gazette.)*
@@ -167,7 +167,7 @@ timeline
 
 - **Facts:** during the Emergency (1975–77), the right to move courts to enforce Arts. 14, 21 and 22 was suspended by Presidential Order under Art. 359. The question was whether a detenu could challenge detention by habeas corpus.
 - **Holding (4:1):** no; Art. 21 was the **sole repository** of the right to life, and with its enforcement suspended, no writ of habeas corpus could be sought. **H.R. Khanna J.** dissented: the State had no power to deprive life or liberty without the authority of law.
-- **Later:** the 44th Amendment (1978) made Arts. 20 and 21 **non-suspendable**; **Puttaswamy (2017)** declared ADM Jabalpur "**wrongly decided**" and **overruled** it; Khanna J.'s dissent was vindicated (Chandrachud J. in *Puttaswamy*: the judgment was "seriously flawed").
+- **Later:** the 44th Amendment (1978) made Arts. 20 and 21 **non-suspendable**; **Puttaswamy (2017)** **overruled** ADM Jabalpur (Chandrachud J. for four judges, with Nariman and Kaul JJ.); Khanna J.'s dissent was vindicated (Chandrachud J. in *Puttaswamy*: the judgment was "seriously flawed").
 
 ---
 

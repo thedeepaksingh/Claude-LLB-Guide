@@ -2,7 +2,7 @@
 ## Directive Principles of State Policy — Importance and Relationship with Fundamental Rights
 
 > **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/02-constitutional-law`
-> **Verify before exam:** the State UCC laws (Gujarat and Assam passed in 2026; assent/commencement not verified), *Property Owners Association* (Nov 2024) citation, and citations marked *verify* (checklist at the end).
+> **Verify before exam:** the State UCC laws (Gujarat: assent reported 2 Oct 2026, commencement to be notified; Assam: Bill passed 27 May 2026, assent not reported), *Property Owners Association* (Nov 2024) citation, and citations marked *verify* (checklist at the end).
 > **Syllabus line (official):** *Directive Principles of State Policy: importance and relationship with Fundamental Rights*
 
 **How this unit is examined.** Typical questions: (a) "Discuss the relationship between Fundamental Rights and Directive Principles" (long, **the most frequent**); (b) "What is the importance of DPSPs? Are they justiciable?" (long); (c) "Classify the DPSPs" (short or long); (d) "Uniform Civil Code: Art. 44" (short or long); (e) short notes on *Art. 31C*, *Minerva Mills*, *Art. 39(b) and (c)*, *equal pay for equal work*, *Art. 39A*, *Art. 48*, *Art. 51*. **Structure: meaning and source → classification → nature (Art. 37) → relationship with FRs in chronological order (*Champakam* → *Kesavananda* → *Minerva Mills*) → implementation → criticism.**
@@ -138,7 +138,7 @@ The Court read DPSPs into Art. 21 and Art. 14 to make them enforceable indirectl
   - ***Jose Paulo Coutinho v. Maria Luiza Valentina Pereira*** (2019) 20 SCC 85: praised the **Goa Civil Code** as an example of a uniform code *(verify)*.
   - ***Shayara Bano*** (2017) (Unit 10).
 - **Law Commission:** the 21st Law Commission (Aug 2018 consultation paper) said a UCC is "neither necessary nor desirable at this stage"; the 22nd Law Commission invited public views in June 2023.
-- **State laws:** **Uttarakhand** Uniform Civil Code Act, 2024 (assent March 2024; brought into force on **27 January 2025**); **Gujarat** Uniform Civil Code Bill, 2026 (passed by the Assembly on **24 March 2026**); **Assam** Uniform Civil Code Bill, 2026 (passed by the Assembly in **late May 2026**). Reported features include monogamy, registration of marriages, registration of live-in relationships, and exemption for Scheduled Tribes. *(Assent and commencement of the Gujarat and Assam laws not verified; check before writing.)*
+- **State laws:** **Uttarakhand** Uniform Civil Code Act, 2024 (assent March 2024; brought into force on **27 January 2025**); **Gujarat** Uniform Civil Code Act, 2026 (passed by the Assembly on **24 March 2026**; the President's assent was reported on **2 October 2026**, and the State is to notify the commencement date); **Assam** Uniform Civil Code Bill, 2026 (passed by the Assembly on **27 May 2026**; to go to the Governor and the President, assent not reported). Reported features include monogamy, registration of marriages (Gujarat: within 60 days) and live-in relationships (Gujarat: within 30 days), and exclusion of Scheduled Tribes; Assam sets 21 for grooms and 18 for brides. *(Based on press reports; check the Gazette and commencement notifications before writing exact dates.)*
 - **Arguments for:** national integration, gender justice, one law for all. **Against:** religious freedom (Art. 25), minority identity, diversity of customs, premature without consensus.
 
 ---
@@ -163,7 +163,7 @@ The Court read DPSPs into Art. 21 and Art. 14 to make them enforceable indirectl
 
 ## 8. Current relevance and recent developments
 
-- **UCC:** Uttarakhand law in force since 27 Jan 2025; Gujarat and Assam laws passed in 2026. Challenges based on Arts. 14, 21, 25 and privacy (registration of live-in relationships) are likely; check the pending petitions.
+- **UCC:** Uttarakhand law in force since 27 Jan 2025; Gujarat Act (assent reported 2 Oct 2026) and Assam Bill (passed 27 May 2026). Challenges based on Arts. 14, 21, 25 and privacy (registration of live-in relationships) are likely; check the pending petitions.
 - **Property Owners Association (Nov 2024):** narrowed Art. 39(b) as a basis for State takeover of private resources.
 - **Welfare delivery:** MGNREGA and NFSA; Labour Codes (Nov 2025) as partial fulfilment of Arts. 39, 41–43.
 - **Caution for the exam:** do not say DPSPs are "enforceable". They are not enforceable by courts, but they are "fundamental in governance" and are applied indirectly through Part III.
@@ -177,7 +177,7 @@ The Court read DPSPs into Art. 21 and Art. 14 to make them enforceable indirectl
 - **Amendments:** 42nd (39(f), 39A, 43A, 48A) · 44th (38(2)) · 86th (45) · 97th (43B).
 - **Relationship:** *Champakam* (1951: FRs prevail) → *Kerala Education Bill* (1958: harmony) → *Golaknath* (1967) → Art. 31C (25th Am.) → *Kesavananda* (1973) → 42nd Am. → ***Minerva Mills* (1980: balance is basic structure)** → *Sanjeev Coke* (1983).
 - **Art. 39(b)**: *Property Owners Association* (5 Nov 2024; not all private resources).
-- **UCC (Art. 44):** *Shah Bano* (1985) · *Sarla Mudgal* (1995) · *John Vallamattom* (2003) · Goa Code · Uttarakhand Act (in force 27 Jan 2025) · Gujarat and Assam (2026).
+- **UCC (Art. 44):** *Shah Bano* (1985) · *Sarla Mudgal* (1995) · *John Vallamattom* (2003) · Goa Code · Uttarakhand Act (in force 27 Jan 2025) · Gujarat Act (assent reported 2 Oct 2026) · Assam Bill (27 May 2026).
 - **Art. 48:** *Hanif Quareshi* (1958); *Mirzapur Moti Kureshi* (2005).
 
 **Examiner keywords:** welfare State, non-justiciable, social and economic democracy, harmonious construction, conscience of the Constitution, balance, Art. 31C, basic structure, material resources of the community, uniform civil code.
@@ -227,6 +227,6 @@ The Court read DPSPs into Art. 21 and Art. 14 to make them enforceable indirectl
 - [ ] *Randhir Singh* (1982) 1 SCC 618 · *Jagjit Singh* (2017) 1 SCC 148 · *MCD v. Female Workers* (2000) 3 SCC 224
 - [ ] *Hanif Quareshi* AIR 1958 SC 731 · *Mirzapur Moti Kureshi* (2005) 8 SCC 534
 - [ ] *Shah Bano* (1985) 2 SCC 556 · *Sarla Mudgal* (1995) 3 SCC 635 · *John Vallamattom* (2003) 6 SCC 611 · *Jose Paulo Coutinho* (2019) 20 SCC 85
-- [ ] Uttarakhand UCC Act, 2024 (in force 27 Jan 2025) · **Gujarat and Assam UCC Bills 2026: assent and commencement** · 21st and 22nd Law Commission positions
+- [ ] Uttarakhand UCC Act, 2024 (in force 27 Jan 2025) · **Gujarat UCC Act (commencement) and Assam UCC Bill (assent), 2026** · 21st and 22nd Law Commission positions
 - [ ] *Rajendra N. Shah* (2021) 6 SCC 667 (97th Amendment) · MGNREGA, NFSA, Maternity Benefit Act amendments
 - [ ] Quotes: Ambedkar (19 Nov 1948); K.T. Shah; T.T. Krishnamachari; K.C. Wheare; Austin

@@ -230,9 +230,9 @@ Art. 32(2): the Supreme Court may issue **directions, orders or writs**, includi
 <a id="a-108"></a>
 **A-108 · Habeas corpus**
 
-The writ of *habeas corpus* ("you have the body") directs a person detaining another to produce him before the court and justify the detention. Production of the body is not always essential; the court tests the legality of detention (*Kanu Sanyal*, 1973). It is a remedy against unlawful executive and private detention. *ADM Jabalpur* (1976) denied it during the Emergency; that decision has since been disapproved.
+The writ of *habeas corpus* ("you have the body") directs a person detaining another to produce him before the court and justify the detention. Production of the body is not always essential; the court tests the legality of detention (*Kanu Sanyal*, 1973). It is a remedy against unlawful executive and private detention. *ADM Jabalpur* (1976) denied it during the Emergency; that decision was later overruled (*Puttaswamy*, 2017).
 
-*Word count: 66*
+*Word count: 67*
 
 <a id="a-109"></a>
 **A-109 · Mandamus**

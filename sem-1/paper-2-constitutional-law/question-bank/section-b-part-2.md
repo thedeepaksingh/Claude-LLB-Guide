@@ -100,7 +100,7 @@ Fundamental Rights are not absolute. In a national Emergency they may be affecte
 
 ### Answer
 
-**Citizens only:** Art. 15 (non-discrimination), Art. 16 (public employment), Art. 19 (six freedoms), Art. 29 (cultural rights), and Art. 30 (minorities) as usually classified.
+**Citizens only:** Art. 15 (non-discrimination), Art. 16 (public employment), Art. 19 (six freedoms), Art. 29 (cultural rights), and Art. 30 (minorities) as usually classified, though Art. 30(1) says "all minorities".
 
 **All persons, including foreigners:** Art. 14, Art. 20, Arts. 21 and 21A, Art. 22 (enemy aliens excepted from preventive-detention safeguards), Arts. 23–24, Arts. 25–28 and the remedy under Art. 32.
 
@@ -416,7 +416,7 @@ A restriction on Art. 19(1)(a) must be (i) imposed by **law**, (ii) within one o
 
 **Facts and issue.** A retired High Court judge, Justice K.S. Puttaswamy, challenged the Aadhaar scheme. The Union argued that privacy is not a fundamental right. A nine-judge bench decided the question on **24 August 2017**.
 
-**Holding.** Unanimously, privacy is an intrinsic part of the right to life and personal liberty under **Art. 21** and of the freedoms in Part III. It includes **bodily integrity, decisional autonomy and informational privacy**. *M.P. Sharma* and *Kharak Singh* were overruled to the extent of the contrary view, and *ADM Jabalpur* was declared wrongly decided.
+**Holding.** Unanimously, privacy is an intrinsic part of the right to life and personal liberty under **Art. 21** and of the freedoms in Part III. It includes **bodily integrity, decisional autonomy and informational privacy**. *M.P. Sharma* and *Kharak Singh* were overruled to the extent of the contrary view, and *ADM Jabalpur* was overruled.
 
 **Test for any intrusion:** (i) **legality**, a law must authorise it; (ii) a **legitimate aim**; (iii) **proportionality**, with a rational nexus and the least intrusive means.
 

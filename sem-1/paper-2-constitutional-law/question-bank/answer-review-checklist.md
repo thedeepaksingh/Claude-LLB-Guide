@@ -72,7 +72,7 @@ These are the points where the law moved recently or where I could not confirm t
 - [ ] Sabarimala nine-judge reference — has judgment been pronounced?
 - [ ] Hijab case (*Aishat Shifa*) — has a larger bench decided?
 - [ ] AMU's minority status after *Naresh Agarwal* (2024)
-- [ ] State Uniform Civil Code laws (Uttarakhand in force; check Gujarat and Assam)
+- [ ] State Uniform Civil Code laws (Uttarakhand in force; Gujarat assent reported 2 Oct 2026, check commencement; Assam Bill awaiting assent)
 - [ ] Presidential Reference on Governors' assent (opinion of 20 November 2025)
 - [ ] BNS s. 152 challenge; BNS ss. 143, 356 numbering
 - [ ] DPDP Rules, 2025 — commencement dates

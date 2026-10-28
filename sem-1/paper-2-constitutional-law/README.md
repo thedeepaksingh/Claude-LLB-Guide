@@ -138,7 +138,7 @@ Four papers are a small sample. Use this to decide what to read **first**, not w
 3. **Pramati reference:** the September 2025 order referring the exclusion of minority institutions from the RTE Act (Units 8, 11).
 4. **Waqf (Amendment) Act, 2025:** interim order of 15 Sept 2025; final decision (Unit 10).
 5. **Sedition / BNS s. 152:** status of challenges (Unit 6).
-6. **UCC:** Gujarat (24 Mar 2026) and Assam (late May 2026) bills: assent and commencement (Unit 13).
+6. **UCC:** Gujarat (Assembly 24 Mar 2026; assent reported 2 Oct 2026; commencement to be notified) and Assam (Bill passed 27 May 2026; assent not reported) (Unit 13).
 7. **106th Amendment:** commencement date (Unit 1).
 8. **Hijab reference** and **Places of Worship Act, 1991 challenge** (Unit 10).
 9. **DPDP Act and Rules:** commencement dates 13 Nov 2025 / 12 Nov 2026 / 12 May 2027 (Unit 8).

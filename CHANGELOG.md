@@ -4,7 +4,13 @@ All times are **IST (UTC+05:30)**. Newest first.
 
 ## 2026-10-28
 
-### 21:15 — `paper/02-constitutional-law` (question bank: lengthening the 20-mark answers)
+### 21:15 — `paper/02-constitutional-law` (question bank: second source check)
+- Checked against sources (news and law-reporter summaries; Gazette and official reports not opened): *Puttaswamy* on *ADM Jabalpur*; the Gujarat and Assam UCC laws; the 1 Sept 2025 teacher-eligibility judgment; the April 2025 caste-census decision and the Patna High Court's June 2024 order on Bihar's 65% quota.
+- **Reversed my own earlier softening:** *ADM Jabalpur* was **overruled** in *Puttaswamy* (Chandrachud J. for four judges, with Nariman and Kaul JJ.; para 119 calls the majority judgments "seriously flawed"). Restored "overruled" in C-16, C-25, A-67, A-108, B-31, the digest and unit 8.
+- **Updated:** Gujarat UCC Act (Assembly March 2026; assent reported 2 Oct 2026; commencement to be notified) and Assam UCC Bill (passed 27 May 2026; assent not reported) in B-45, unit 13, the Paper II README and the review checklist; B-45 trimmed to 198 words. Privacy case "Arguments" bullet in C-16 corrected to the Attorney General's actual position. C-17 now states the 1 Sept 2025 teacher-eligibility holding as checked. B-20 now notes that Art. 30(1) says "all minorities".
+- **Open:** whether the nine-judge *Sabarimala* verdict has been pronounced (expected by 6 Oct 2026 per August reports; I could not confirm). `source-verification-log.md` now has 28 checked groups and 21 corrections.
+
+### 21:10 — `paper/02-constitutional-law` (question bank: lengthening the 20-mark answers)
 - Fourteen Section C answers that ran between 550 and 862 words were lengthened with added cases, statutory detail and current developments: C-02 Preamble, C-03 State and writs, C-04 eclipse and severability, C-05 basic structure, C-06 Art. 14, C-07 reservation, C-09 press, C-11 Art. 20, C-12 short notes, C-14 dignity, C-15 environment, C-16 privacy, C-17 education, and C-28 directives. **All 29 twenty-mark answers are now 910 to 1,416 words** (before: 550 to 1,218).
 - Three wording errors fixed in the same pass: C-11 (Art. 359(1) as amended by the 44th Amendment, not a "proviso"); C-16 (*ADM Jabalpur* "disapproved", not "declared wrongly decided"); C-04 (removed a *Mahendra Lal Jaini* bullet and the sentence that relied on it).
 - Section C file headers, the question-bank README and the answer-review checklist now say the models run 900–1,400 words and are references; a handwritten answer of 700–1,000 words (my estimate) with the same headings and key cases is the exam target.
