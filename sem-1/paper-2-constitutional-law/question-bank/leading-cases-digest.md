@@ -169,7 +169,7 @@
 ### 22. *Navtej Singh Johar v. Union of India* (2018) 10 SCC 1 · 5 judges (unanimous)
 - **Facts.** Petitions challenged s. 377 IPC as it applied to consensual sex between adults. The Court had upheld the section in *Suresh Kumar Koushal* (2013), reversing the Delhi High Court in *Naz Foundation* (2009).
 - **Held.** Section 377 is unconstitutional **insofar as it criminalises consensual sexual conduct between adults in private** (Arts. 14, 15, 19 and 21). *Koushal* was overruled. Sexual orientation is part of identity and dignity; **constitutional morality** prevails over social morality.
-- **After.** The Bharatiya Nyaya Sanhita, 2023 has no equivalent of s. 377. In *Supriyo v. Union of India* (17 October 2023) † the Court (5 judges) declined to recognise a right to marry for same-sex couples and left the question to Parliament.
+- **After.** The Bharatiya Nyaya Sanhita, 2023 has no equivalent of s. 377. In *Supriyo v. Union of India* (17 October 2023) † the Court (5 judges) declined to recognise a right to marry for same-sex couples and left the question to Parliament; review petitions were dismissed on 9 January 2025.
 - **Used in:** A-43, B-22, C-06.
 
 ### 23. *Joseph Shine v. Union of India* (2019) 3 SCC 39 · 5 judges
@@ -199,7 +199,7 @@
 ### 26. *Janhit Abhiyan v. Union of India* (2023) 5 SCC 1 † · 5 judges (3:2) · judgment of 7 November 2022
 - **Facts.** The 103rd Amendment (2019) inserted Arts. 15(6) and 16(6), permitting up to 10% reservation for economically weaker sections other than those covered by the existing reservations.
 - **Held (3:2).** Maheshwari, Trivedi and Pardiwala JJ. upheld the amendment: economic criteria are a permissible basis; excluding SC, ST and OBC (who already have reservations) is not discriminatory; the 50% ceiling is not inflexible and is a rule for the existing reservation categories. Bhat J. (with Lalit CJI) dissented: exclusion of the poorest SC/ST/OBC people from a benefit given on the basis of poverty violates the equality code and is an attack on the basic structure.
-- **After.** Review petitions were later filed; check whether they have been decided. Several State laws now exceed 50% and are being challenged (including the Tamil Nadu 69% quota, protected by the Ninth Schedule).
+- **After.** A review petition was dismissed on 9 May 2023 by a five-judge bench led by Chandrachud CJI. Several State laws now exceed 50% and are being challenged (including the Tamil Nadu 69% quota, protected by the Ninth Schedule).
 - **Used in:** A-47, A-48, C-07.
 
 ### 27. *State of Punjab v. Davinder Singh* (1 August 2024) · 2024 INSC 562 · 7 judges (6:1)
@@ -281,15 +281,17 @@
 - **Used in:** A-136, B-38, C-19, C-24.
 
 ### 40. *Re: Prashant Bhushan* (2021) 1 SCC 745 † · 3 judges
-- **Facts.** In June 2020, Prashant Bhushan, an advocate, tweeted about the Chief Justice of India sitting on a motorcycle during the lockdown and about the role of the last four Chief Justices in the "destruction of democracy".
-- **Held.** On 14 August 2020 he was held guilty of **criminal contempt**. On 31 August 2020 the Court imposed a fine of **one rupee**, with three months' imprisonment and a three-year practice bar as default.
+- **Facts.** On 27 June 2020 Prashant Bhushan, an advocate, tweeted that the last four Chief Justices had played a part in the destruction of democracy; on 29 June 2020 he tweeted about the Chief Justice of India (S.A. Bobde) sitting on a motorcycle during the lockdown.
+- **Bench.** Arun Mishra, B.R. Gavai and Krishna Murari JJ.
+- **Held.** On 14 August 2020 he was held guilty of **criminal contempt**. On 31 August 2020 the Court imposed a fine of **one rupee** payable by 15 September 2020, with three months' imprisonment and a three-year practice bar as default. He paid the fine and filed a review.
 - **Principle.** Free speech and contempt of court (Art. 19(2)); fair criticism of judges is permitted, but scandalising the court is not.
 - **Used in:** A-58, C-10.
 
-### 41. *Kaushal Kishor v. State of Uttar Pradesh* (2023) 4 SCC 1 † · 5 judges (4:1) · 3 January 2023
-- **Facts.** After the Bulandshahr gang-rape in 2016, a State minister described it as a "political conspiracy". The victims' family sought action and guidelines.
-- **Issues.** Can additional restrictions be imposed on free speech beyond Art. 19(2)? Can Arts. 19 and 21 be enforced against persons other than the State? Is the Government liable for a minister's statement?
-- **Held.** The grounds in Art. 19(2) are **exhaustive**: no additional restrictions, even for ministers. Arts. 19 and 21 can be enforced against **private persons** (horizontal application). The State is not vicariously liable for a minister's personal statement. **Nagarathna J. dissented** on horizontal enforcement through writs and on liability for statements made in an official capacity.
+### 41. *Kaushal Kishor v. State of Uttar Pradesh* (2023) 4 SCC 1 · 5 judges (4:1) · 3 January 2023
+- **Facts.** On 29 July 2016 a mother and daughter were gang-raped on National Highway 91 near Bulandshahr, Uttar Pradesh. The family was dissatisfied with the police investigation. When the then State minister Azam Khan called the incident a "political conspiracy", the victim's father asked the Supreme Court for an FIR against him and the transfer of the case. The Court transferred the investigation, accepted the minister's unconditional apology (16 December 2016), and referred questions on ministers' statements to a Constitution Bench, together with two Kerala cases.
+- **Bench.** Nazeer, Gavai, Bopanna, Ramasubramanian and Nagarathna JJ.; Ramasubramanian J. wrote for the majority.
+- **Issues.** Are the grounds in Art. 19(2) exhaustive? Can Arts. 19 and 21 be enforced against persons other than the State? Does the State have a duty to protect Art. 21 from private threats? Is a minister's statement attributable to the Government (Art. 75(3))?
+- **Held (4:1).** The grounds in Art. 19(2) are **exhaustive**: no further restriction may be added because the speech conflicts with another right. Arts. 19 and 21 can be enforced against **private persons** where needed (horizontal effect), and the State must protect Art. 21 rights against private threats. A minister's statement that violates a right is **not by itself a constitutional tort**, and is attributable to the Government only if it relates to government affairs or reflects official policy. **Nagarathna J. agreed in part and dissented in part** (reported to differ on writs against private persons and on the protection of speech that demeans dignity; **check the separate opinion**).
 - **Used in:** A-03, C-03, C-08.
 
 ---
