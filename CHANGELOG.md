@@ -4,6 +4,14 @@ All times are **IST (UTC+05:30)**. Newest first.
 
 ## 2026-10-28
 
+### 21:15 — `paper/02-constitutional-law` (question bank: lengthening the 20-mark answers)
+- Fourteen Section C answers that ran between 550 and 862 words were lengthened with added cases, statutory detail and current developments: C-02 Preamble, C-03 State and writs, C-04 eclipse and severability, C-05 basic structure, C-06 Art. 14, C-07 reservation, C-09 press, C-11 Art. 20, C-12 short notes, C-14 dignity, C-15 environment, C-16 privacy, C-17 education, and C-28 directives. **All 29 twenty-mark answers are now 910 to 1,416 words** (before: 550 to 1,218).
+- Three wording errors fixed in the same pass: C-11 (Art. 359(1) as amended by the 44th Amendment, not a "proviso"); C-16 (*ADM Jabalpur* "disapproved", not "declared wrongly decided"); C-04 (removed a *Mahendra Lal Jaini* bullet and the sentence that relied on it).
+- Section C file headers, the question-bank README and the answer-review checklist now say the models run 900–1,400 words and are references; a handwritten answer of 700–1,000 words (my estimate) with the same headings and key cases is the exam target.
+- `coverage-audit.md` regenerated (no 20-mark answer is below 900 words). `source-verification-log.md`: three more corrections (18–20) and a new list 4D of the points added today that are written from memory and not yet checked against a source.
+- Link check: 763 relative links in the Paper II folder and 11 in `docs/`; none broken.
+- Status: **draft for review.** Not merged to `main`.
+
 ### 13:55 — `paper/02-constitutional-law` (question bank)
 - Added `sem-1/paper-2-constitutional-law/question-bank/`: **227 model answers in the real CCSU pattern** (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words, **151 answers** (A-01 to A-151); Section B, 10 marks, ≤ 200 words, **47 answers**; Section C, 20 marks, in detail, **29 answers** (C-01 to C-29).
 - Added `leading-cases-digest.md`: **93 cases**, each with facts (91), issue, holding, principle, later developments where there are any, and where it is used. Eight case headings are marked † (not checked against a law report).

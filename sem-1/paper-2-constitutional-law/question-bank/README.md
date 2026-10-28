@@ -157,7 +157,7 @@ Counted from the 52 transcribed Paper II questions. "A" means the 4-mark tier, "
 1. **Read the note** for the unit in [`../`](../) once.
 2. **Write Section A answers from memory** in 75 words; then compare with the model answer and count the words.
 3. **Write Section B answers** in 200 words, in 10 minutes each.
-4. **For Section C**, read the "Model rubric (mine)" at the top of the answer, write your own, then read the model. Aim for 900–1,200 words.
+4. **For Section C**, read the "Model rubric (mine)" at the top of the answer, write your own, then read the model. The models run 900–1,400 words; aim for 700–1,000 handwritten words (my estimate) with the same headings and key cases.
 5. **Check cases** in the [digest](leading-cases-digest.md) (facts, issues, held, principle, later history).
 6. **Sit a mock** ([1](mock-exam-1.md), [2](mock-exam-2.md), [3](mock-exam-3.md)) under time.
 7. **Mark your answers** with the [checklist](answer-review-checklist.md).

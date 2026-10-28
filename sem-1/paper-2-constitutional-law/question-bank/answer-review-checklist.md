@@ -8,7 +8,7 @@
 ## 1. Before you review: set the answer beside the question
 
 1. Did you **answer the question that was asked**? Compare your first paragraph with the verb in the question (*explain, discuss, distinguish, critically examine, comment, write a note*).
-2. Did you keep to the **exam limit**? Section A ≤ 75 words, Section B ≤ 200 words, Section C: no limit printed ("answer is required in detail"), but 900–1,200 words fits a 30-minute answer.
+2. Did you keep to the **exam limit**? Section A ≤ 75 words, Section B ≤ 200 words, Section C: no limit printed ("answer is required in detail"), but the models run 900–1,400 words; 700–1,000 handwritten words (my estimate) with the same headings and key cases fits a 30–35 minute answer.
 3. Did you write the **right number of answers**? A: all five. B: two of three. C: three of five. An extra answer in B or C does not earn extra marks.
 
 ## 2. Section A (4 marks) — tick each box

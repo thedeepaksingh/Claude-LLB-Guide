@@ -1,6 +1,6 @@
 # Paper II · Coverage Audit (K-1002 Constitutional Law of India – I)
 
-> **Last updated:** 2026-10-28 13:53 IST · **Law stated as on:** 2026-10-28 · **Branch:** `paper/02-constitutional-law`
+> **Last updated:** 2026-10-28 21:08 IST · **Law stated as on:** 2026-10-28 · **Branch:** `paper/02-constitutional-law`
 > **What this is.** A line-by-line check of the CCSU syllabus against the question bank: which syllabus line is answered where, at which mark level (4, 10, 20), and with which cases. It also lists what is **not** covered and why. It was produced from the files in this folder by a script that fails if any answer ID is left unassigned, so the counts below are exact.
 > **Companion files:** [`README.md`](README.md) (index and past-paper map) · [`source-verification-log.md`](source-verification-log.md) (what was checked) · [`leading-cases-digest.md`](leading-cases-digest.md) · [`answer-review-checklist.md`](answer-review-checklist.md)
 
@@ -12,7 +12,7 @@
 |---|---|---|---|
 | 1 | Every prescribed syllabus topic and subtopic is covered | **Done** at 4, 10 and 20 marks, with one exception | Section 4 below maps all 5 syllabus items through 25 sub-lines. The only sub-line without a 10- or 20-mark answer is the **right to property** (A-15 only; it is outside the syllabus text and was set once, as a 4-mark question in Dec 2022). |
 | 2 | Every question in the question bank has a complete model answer | **Done** | 227 answers: 151 four-mark, 47 ten-mark, 29 twenty-mark. A script confirms every ID has an answer anchor. Word limits are checked by script: every Section A answer is ≤ 75 words (longest 75), every Section B answer ≤ 200 words (longest 198). |
-| 3 | Short, medium and long answers matched to the applicable exam pattern | **Done** | Pattern confirmed on all 20 papers (5 subjects × Dec 2022–2025): Section A 4 marks / 75 words; Section B 10 marks / 200 words; Section C 20 marks / "in detail". Section C answers run from 550 to 1,218 words (see section 6 for the ones below 900). |
+| 3 | Short, medium and long answers matched to the applicable exam pattern | **Done** | Pattern confirmed on all 20 papers (5 subjects × Dec 2022–2025): Section A 4 marks / 75 words; Section B 10 marks / 200 words; Section C 20 marks / "in detail". Section C answers run from 910 to 1,416 words (see section 6 for any below 900). |
 | 4 | Cases include material facts, issues, holdings, principles and later developments where relevant | **Done, with marked gaps** | [Digest](leading-cases-digest.md): 93 cases, each with an issue, holding and principle; facts for 91 (the two without facts, *Basheshar Nath* and *AIIMS Students' Union*, are marked †); later developments wherever there are any. Eight case headings are marked **†** (not checked against a law report). |
 | 5 | Statutory provisions and current law verified against authoritative sources | **Partly done** | Checked: Arts. 352, 358, 359 (text), BNS mappings, UCC in Uttarakhand, DPDP Rules, several 2022–2026 judgments. **Not** checked: the items listed as unverified in the [log](source-verification-log.md). The log separates "checked", "changed" and "not checked". |
 | 6 | Previous papers and the actual university marking scheme have been checked | **Papers: done. Marking scheme: not found** | All 20 papers read. None was found in the university's published material or on the previous-paper sites I could read. Every "Model rubric" is labelled **(mine)**. |
@@ -135,7 +135,7 @@ All **52** Paper II questions of December 2022, 2023, 2024 and 2025 (13 per pape
 **Thin spots that remain (so you know where to read more)**
 1. **Right to property:** short answer only (A-15).
 2. **No case in the digest** for: Art. 22 (A.K. Roy, D.K. Basu are cited in A-141 and A-142 but not digested), pith and substance, Art. 31A, Art. 15(2), Art. 34, residuary powers, the Sarkaria and Punchhi Commissions. These are statute-led topics at the 4-mark level.
-3. **Twenty-mark answers shorter than 900 words:** C-02 (690), C-03 (862), C-04 (768), C-05 (737), C-06 (809), C-07 (807), C-09 (841), C-11 (799), C-12 (653), C-14 (740), C-15 (639), C-16 (550), C-17 (587), C-28 (846). These have been (or are being) lengthened; the count above is from the current files.
+3. **Twenty-mark answers shorter than 900 words:** none. Fourteen answers that ran between 550 and 862 words were lengthened on 28 October 2026; the figures come from the current files. The models are references: a handwritten answer will be shorter, and each Section C file says what to keep.
 4. **Pending matters** that can change the answers: the nine-judge Sabarimala reference (reserved May 2026; no judgment found), the hijab case (larger bench), the challenge to the Delhi services amendment of 2023, the AMU regular bench, the 50% ceiling challenges, SC/ST creamy layer, State UCC laws other than Uttarakhand, the Waqf (Amendment) Act challenge. Re-check each before the exam.
 5. **Language.** The papers are bilingual; the bank is in English only. Hindi technical terms are in the glossary.
 6. **Official marking scheme:** not found. The rubrics are mine.

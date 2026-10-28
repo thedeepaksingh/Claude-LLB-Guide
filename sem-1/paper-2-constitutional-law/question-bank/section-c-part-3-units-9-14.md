@@ -1,7 +1,7 @@
 # Paper II · Question Bank · Section C (20 marks) · Part 3: Units 9–14
 
 > **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/02-constitutional-law`
-> **Pattern:** Section C = any 3 of 5, 20 marks each, "answer is required in detail" (no printed word limit). Each model answer below is about 900–1,200 words, which is a **20–35 minute** answer. See [`../../../docs/02-exam-pattern-and-past-papers.md`](../../../docs/02-exam-pattern-and-past-papers.md).
+> **Pattern:** Section C = any 3 of 5, 20 marks each, "answer is required in detail" (no printed word limit). Each model answer below runs about 900–1,400 words. It is a full-marks **reference**: in the exam, keep the headings, the leading cases and one or two examples, and write what fits in 30–35 minutes (about 700–1,000 handwritten words; my estimate). See [`../../../docs/02-exam-pattern-and-past-papers.md`](../../../docs/02-exam-pattern-and-past-papers.md).
 > **"Model rubric"** lines are **my own** mark splits to help you self-check. The university publishes no marking scheme.
 > **Citations:** the full citation of each case is in the answer when I am sure of it. Where a citation is not independently verified, the [source-verification log](source-verification-log.md) says so. In the exam, case name + year + court earns the credit; do not guess an SCC number.
 

@@ -11,8 +11,8 @@
 | | |
 |---|---|
 | Checked against a source | 24 groups of points (section 2) |
-| Changed after a check showed an error | 17 corrections (section 3) |
-| Not checked | 13 law-and-events items, 5 groups of case citations and 15 holding-and-fact items (section 4) |
+| Changed after a check showed an error | 20 corrections (section 3) |
+| Not checked | 13 law-and-events items, 5 groups of case citations, 15 holding-and-fact items, and the points added when the 20-mark answers were lengthened on 28 Oct 2026 (section 4, list D) |
 | Official marking scheme | **Not found** (section 5) |
 | Link and anchor check | See section 6 |
 
@@ -70,6 +70,9 @@
 | 15 | Answer-review checklist | An unsupported "25% more" claim; a wrong sentence about repeated Section A topics | Removed and corrected | checklist |
 | 16 | Unit-file question banks | Outlines with guessed mark bands "indicative; confirm your pattern" | Replaced with links to the real answers | units 1–14 |
 | 17 | Drafting corrections in C-25 to C-29 | Statements I could not support (a res judicata rule for habeas corpus; Art. 28(3) in *Bijoe Emmanuel*; the Irish directives said to come from Spanish models; *Praga Tools* said to allow mandamus against a private body) | Removed or narrowed before publication | C-27, C-28, C-29 |
+| 18 | C-11: Art. 20 and the Emergency | "Art. 359(1) proviso, inserted by the 44th Amendment" | "Art. 359(1), as amended by the 44th Amendment, which excepts Arts. 20 and 21" | C-11 |
+| 19 | C-16: *ADM Jabalpur* in *Puttaswamy* | "declared wrongly decided" and "overruled" | "disapproved (commonly described as overruled)"; the conclusion now says "disapproved" | C-16 |
+| 20 | C-04: eclipse and post-Constitution laws | A bullet on *Mahendra Lal Jaini* and a "Result" sentence that relied on it, which I could not support | Bullet removed; the result now rests on *Bhikaji Narain*, *Deep Chand* and *Ambica Mills* and says the point must be stated carefully | C-04 |
 
 ---
 
@@ -114,6 +117,16 @@
 14. *Davinder Singh*: whether the creamy-layer opinions bind.
 15. Gujarat and Assam UCC details in B-45 and the unit notes.
 
+**D. Points added on 28 Oct 2026 when the 20-mark answers were lengthened (written from memory; not checked against a source)**
+1. **C-16 (privacy):** the count of six opinions and the names of the concurring judges; the counsel's arguments in *Puttaswamy*; the date of the January 2021 Aadhaar review and Chandrachud J.'s dissent; the Aadhaar and Other Laws (Amendment) Act, 2019; *X v. Principal Secretary* (29 Sept 2022); the Pegasus order (27 Oct 2021) and its committee head; SCC references for *Shafin Jahan* (2018) 16 SCC 368, *Suchita Srivastava* (2009) 9 SCC 1, *Common Cause* (2018) 5 SCC 1 and *Selvi* (2010) 7 SCC 263; DPDP Act features (the ₹250 crore ceiling, s. 17, appointment of the Board); BNS ss. 77 and 78; Srikrishna Committee dates.
+2. **C-17 (education):** the facts of *Mohini Jain*; *P.A. Inamdar* (2005) 6 SCC 537; RTE Act sections 3(2), 4, 12(2), 17, 18, 27, 28, 29 and 30; the date of *Society for Unaided Private Schools* (12 April 2012); the teacher-eligibility holding reported in the 1 Sept 2025 order; the scope of *Ashoka Kumar Thakur*.
+3. **C-15 (environment):** *Chhetriya Pradushan Mukti Sangharsh Samiti* (1990) 4 SCC 449 and *Virender Gaur* (1995) 2 SCC 577; the 12 December 1996 *Godavarman* order; Entries 17A and 17B; the seven laws in Schedule I of the NGT Act; the CNG orders "from 1998".
+4. **C-11 and C-12 (Art. 20):** *Raja Narayanlal Bansilal* AIR 1961 SC 29; *Poolpandi* (1992) 3 SCC 259; *Leo Roy Frey* AIR 1958 SC 119; *Thomas Dana* AIR 1959 SC 375; BSA s. 23; BNSS ss. 349 and 351; the Criminal Procedure (Identification) Act, 2022.
+5. **C-14 (dignity):** *Hussainara Khatoon* (1980) 1 SCC 81; *Shatrughan Chauhan* (2014) 3 SCC 1; *Jeeja Ghosh* (2016) 7 SCC 761; *Safai Karamchari Andolan* (2014) 11 SCC 224; *Bodhisattwa Gautam* (1996) 1 SCC 490; *Gian Kaur* (1996) 2 SCC 648; *Aruna Shanbaug* (2011) 4 SCC 454; the Mental Healthcare Act, 2017 s. 115; the absence of a general offence of attempting suicide in the BNS.
+6. **C-09 (press):** *Tata Press* (1995) 5 SCC 139; *Raj Narain* (1975) 4 SCC 428; *Prabha Dutt* (1982) 1 SCC 1; *Aveek Sarkar* (2014) 4 SCC 257; *Ranjit Udeshi* AIR 1965 SC 881; *Vinod Dua* (3 June 2021); *Vombatkere* (11 May 2022); the Law Commission's 200th Report.
+7. **C-02 to C-07 (Part I and II):** the adoption of the Preamble on 17 Oct 1949; *Kesavananda* details (68 days, eleven opinions, the nine-judge summary, the 1975 review bench); *Minerva Mills* 4:1; the NJAC vote (4:1); *Narasu Appa Mali* AIR 1952 Bom 84 and the vote pattern in *Shayara Bano*; *Kathi Raning Rawat* AIR 1952 SC 123; *Triloki Nath Khosa* (1974) 1 SCC 19; *R.K. Garg* (1981) 4 SCC 675; *Nergesh Meerza* (1981) 4 SCC 335; *Rajbala* (2016) 2 SCC 445; *Zee Telefilms* (2005) 4 SCC 649; *BCCI v. CAB* (2015) 3 SCC 251; *Hari Vishnu Kamath* AIR 1955 SC 233; *Govinda Rao* AIR 1965 SC 491; the Mandal timeline; the 102nd, 105th and 106th Amendments; the April 2025 caste-census decision; the Patna High Court order of June 2024; the OBC creamy-layer limit.
+8. **C-28 (directives):** *Mirzapur Moti Kureshi* (2005) 8 SCC 534; *Shah Bano*, *Sarla Mudgal* and *John Vallamattom* citations; the 21st and 22nd Law Commission positions on a uniform civil code; the description of the majority's view in *Property Owners Association* on Krishna Iyer J.'s reading of Art. 39(b).
+
 ---
 
 ## 5. Paper-level facts and process notes
@@ -128,7 +141,7 @@
 
 ## 6. Link and anchor check
 
-I checked every relative link and anchor in `sem-1/paper-2-constitutional-law/` and `docs/` with a script (it resolves each file path and looks for an `<a id>` or heading slug). At the last run (28 Oct 2026, 13:57 IST): 763 relative links in the Paper II folder and 11 in `docs/`; none broken.
+I checked every relative link and anchor in `sem-1/paper-2-constitutional-law/` and `docs/` with a script (it resolves each file path and looks for an `<a id>` or heading slug). At the last run (28 Oct 2026, 21:07 IST): 763 relative links in the Paper II folder and 11 in `docs/`; none broken.
 
 ---
 
