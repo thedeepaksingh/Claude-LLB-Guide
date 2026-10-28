@@ -47,9 +47,9 @@ T.E. Holland (*Elements of Jurisprudence*, 1880) defined jurisprudence as "the f
 <a id="a-06"></a>
 **A-06 · "Jurisprudence is lawyer's extroversion" (Stone)** · *Asked: Dec 2023 Q5*
 
-Julius Stone (*The Province and Function of Law*, 1946) described jurisprudence as "the lawyer's extroversion": the lawyer's examination of the precepts, ideals and techniques of law in the light of knowledge drawn from outside law, such as sociology, economics, ethics and psychology. It shows that jurisprudence is interdisciplinary and looks outward beyond the rules of a single system.
+Julius Stone (*The Province and Function of Law*, first published 1946–47) described jurisprudence as "the lawyer's extroversion": the lawyer's examination of the precepts, ideals and techniques of law in the light of knowledge drawn from outside law, such as sociology, economics, ethics and psychology. It shows that jurisprudence is interdisciplinary and looks outward beyond the rules of a single system.
 
-*Word count: 58*
+*Word count: 60*
 
 <a id="a-07"></a>
 **A-07 · Gray's definition** · *Related: C-01*
