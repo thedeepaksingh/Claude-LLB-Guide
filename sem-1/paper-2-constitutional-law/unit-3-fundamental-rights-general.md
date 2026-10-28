@@ -248,72 +248,41 @@ Features recognised by the Supreme Court include supremacy of the Constitution, 
 
 ## 11. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. What is meant by "State" in Article 12? Are statutory corporations, universities and private bodies covered?**
-**Introduction:** Fundamental rights are mainly enforceable against the "State" as defined in Art. 12.
-**Body:** (1) Text and four categories. (2) Evolution of "other authorities": *Mohan Lal*, *Sukhdev Singh*, *R.D. Shetty*, *Ajay Hasia*, *Pradeep Kumar Biswas* (the six-fold test). (3) Judiciary (*Mirajkar*, *Rupa Ashok Hurra*, curative petition). (4) Private bodies: *Zee Telefilms*; Art. 226 against public-function bodies.
-**Conclusion:** The Court uses a functional "instrumentality" approach; private bodies are reached through Art. 226 and, since *Kaushal Kishor*, certain rights have horizontal effect.
+- [C-03](question-bank/section-c-part-1-units-1-5.md#c-03) Against whom Fundamental Rights are enforceable; the remedies available *(topic asked: Dec 2022 Q13; Dec 2025 Q3)*
+- [C-04](question-bank/section-c-part-1-units-1-5.md#c-04) Doctrines of eclipse and severability (Article 13) *(topic asked: Dec 2022 Q10)*
+- [C-05](question-bank/section-c-part-1-units-1-5.md#c-05) Can Fundamental Rights be amended? The basic structure doctrine *(topic asked: Dec 2022 Q1; Dec 2023 Q1)*
+- [C-25](question-bank/section-c-part-4-gap-fill.md#c-25) Suspension of Fundamental Rights during an Emergency
 
----
+**Section B (10 marks)**
 
-**Q2. Discuss Article 13 and the doctrines of eclipse, severability and waiver.**
-*(Use §5.1–§5.3 with cases and the Art. 13 table. Add Art. 13(4).)*
+- [B-16](question-bank/section-b-part-1.md#b-16) The meaning of "State" in Article 12 *(topic asked: Dec 2022 Q13; Dec 2025 Q3)*
+- [B-17](question-bank/section-b-part-2.md#b-17) Doctrines of eclipse and severability *(topic asked: Dec 2022 Q10)*
+- [B-18](question-bank/section-b-part-2.md#b-18) Suspension of Fundamental Rights (Arts. 358 and 359) *(topic asked: Dec 2025 Q5; Dec 2024 Q3)*
+- [B-19](question-bank/section-b-part-2.md#b-19) The basic structure doctrine *(topic asked: Dec 2022 Q1; Dec 2023 Q1)*
+- [B-20](question-bank/section-b-part-2.md#b-20) Who can claim Fundamental Rights? *(topic asked: Dec 2025 Q3)*
+- [B-21](question-bank/section-b-part-2.md#b-21) Scheme of Fundamental Rights (Part III)
 
----
+**Section A (4 marks), 15 answers**
 
-**Q3. Can Parliament amend Fundamental Rights? Trace the development from Shankari Prasad to Kesavananda Bharati.**
-*(Use §5.5 flowchart and table. Include the 24th Amendment, *Minerva Mills*, *Waman Rao*, *Coelho*.)*
-
----
-
-**Q4. Who can claim fundamental rights? Are they enforceable against private individuals?**
-*(Use §3, §4.4. Citizens v. persons table; corporations; foreigners; horizontal operation: Arts. 15(2), 17, 23, 24; *PUDR*, *Vishaka*, *Kaushal Kishor*.)*
-
----
-
-**Q5. Discuss the suspension of fundamental rights during an Emergency. What safeguards did the 44th Amendment introduce?**
-*(Use §7 and the Art. 358 v. 359 table. Cases: *Makhan Singh*, *ADM Jabalpur*, *Puttaswamy*. 44th Amendment: "armed rebellion", Arts. 20 and 21 immune.)*
-
----
-
-**Q6. Explain the scheme of Fundamental Rights in the Indian Constitution.**
-*(Use §2 table and classification; include why property is no longer a fundamental right.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Doctrine of eclipse.**
-2. **Doctrine of severability.**
-3. **Doctrine of waiver.**
-4. **Prospective overruling.**
-5. **Instrumentality of the State (R.D. Shetty; Ajay Hasia test).**
-6. **Is the judiciary "State"?**
-7. **Basic structure doctrine.**
-8. **Ninth Schedule and Article 31B.**
-9. **Article 31C.**
-10. **Article 358 and Article 359.**
-11. **Horizontal application of fundamental rights.**
-12. **Fundamental rights of non-citizens.**
-13. **Right to property: from fundamental right to Art. 300A.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| In which Part are Fundamental Rights? | Part III (Arts. 12–35). |
-| Which Article defines "State"? | Art. 12. |
-| Which Article makes laws inconsistent with FRs void? | Art. 13. |
-| Which Amendment inserted Art. 13(4)? | The 24th Amendment (1971). |
-| Which case introduced the basic structure doctrine? | *Kesavananda Bharati* (1973). |
-| Which rights cannot be suspended during Emergency? | Arts. 20 and 21. |
-| Which Amendment removed property from FRs? | The 44th Amendment (1978). |
-| Which Article is the Ninth Schedule linked to? | Art. 31B. |
-| Name one right available only to citizens. | Art. 19 (also 15, 16, 29, 30). |
-| Which case overruled *ADM Jabalpur*? | *K.S. Puttaswamy* (2017). |
+- [A-03](question-bank/section-a-part-1.md#a-03) Against whom Fundamental Rights are available
+- [A-05](question-bank/section-a-part-1.md#a-05) Suspension of Fundamental Rights
+- [A-15](question-bank/section-a-part-1.md#a-15) Right to property
+- [A-29](question-bank/section-a-part-1.md#a-29) "State" under Article 12
+- [A-30](question-bank/section-a-part-1.md#a-30) Doctrine of eclipse
+- [A-31](question-bank/section-a-part-1.md#a-31) Doctrine of severability
+- [A-32](question-bank/section-a-part-1.md#a-32) Doctrine of waiver
+- [A-33](question-bank/section-a-part-1.md#a-33) Basic structure doctrine
+- [A-34](question-bank/section-a-part-1.md#a-34) Ninth Schedule (Art. 31B)
+- [A-35](question-bank/section-a-part-1.md#a-35) Article 31C
+- [A-36](question-bank/section-a-part-1.md#a-36) Article 33
+- [A-37](question-bank/section-a-part-1.md#a-37) Who may claim Fundamental Rights
+- [A-140](question-bank/section-a-part-4.md#a-140) Article 13: laws inconsistent with Fundamental Rights
+- [A-143](question-bank/section-a-part-4.md#a-143) Article 31A: saving of laws on estates and related matters
+- [A-151](question-bank/section-a-part-4.md#a-151) Martial law (Art. 34)
 
 ---
 

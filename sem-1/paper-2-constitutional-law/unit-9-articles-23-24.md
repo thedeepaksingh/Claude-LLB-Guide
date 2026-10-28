@@ -153,57 +153,26 @@
 
 ## 6. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 59, 60, 61, 62). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Discuss the scope of Article 23 of the Constitution. Does it prohibit forced labour only when imposed by the State?**
-**Introduction:** Art. 23 prohibits traffic in human beings, begar and forced labour.
-**Body:** (1) Text and key terms. (2) *PUDR*: applies against private persons; "force" includes economic compulsion; minimum wage. (3) *Sanjit Roy*, *Deena*, *Bandhua Mukti Morcha*, *Neerja Chaudhary*. (4) Art. 23(2): compulsory service. (5) Statutes: Bonded Labour Act, ITPA, BNS, Code on Wages.
-**Conclusion:** Art. 23 is a rare example of a Fundamental Right enforceable against private action; enforcement remains the challenge.
+- [C-18](question-bank/section-c-part-3-units-9-14.md#c-18) Right against exploitation: Articles 23 and 24
 
----
+**Section B (10 marks)**
 
-**Q2. Discuss the constitutional and statutory protection against child labour in India.**
-*(Use §2: Art. 24 text, cases (*PUDR*, *M.C. Mehta*), CLPRA as amended in 2016, RTE, ILO conventions, criticism.)*
+- [B-34](question-bank/section-b-part-3.md#b-34) Article 23: traffic in human beings and forced labour
+- [B-35](question-bank/section-b-part-3.md#b-35) Article 24: prohibition of child labour
 
----
+**Section A (4 marks), 7 answers**
 
-**Q3. "Payment of wages below the minimum wage amounts to forced labour." Discuss with reference to *PUDR v. Union of India* and *Sanjit Roy*.**
-*(Use §1.4 table: facts, holdings, reasoning on economic compulsion.)*
-
----
-
-**Q4. What are the constitutional safeguards against bonded labour? Discuss the role of the judiciary.**
-*(Use §1.4: *Bandhua Mukti Morcha*, *Neerja Chaudhary*; §1.5 Act and scheme.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Begar.**
-2. **Forced labour and economic compulsion (*PUDR*).**
-3. **Compulsory service for public purposes.**
-4. **Bonded Labour System (Abolition) Act, 1976.**
-5. **Prison labour (*Deena*).**
-6. **Traffic in human beings and ITPA.**
-7. **Hazardous employment under Art. 24.**
-8. **M.C. Mehta v. State of Tamil Nadu (1996): child labour.**
-9. **Child Labour Amendment Act, 2016.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Is Art. 23 enforceable against private persons? | Yes (*PUDR v. Union of India*, 1982). |
-| Is Art. 23 available to non-citizens? | Yes; it applies to any person. |
-| What is begar? | Compulsory labour without payment. |
-| Who can make laws punishing offences under Art. 23? | Parliament alone (Art. 35(a)(ii)). |
-| Which case treated payment below minimum wage as forced labour? | *PUDR (Asiad)* and *Sanjit Roy v. State of Rajasthan*. |
-| What age does Art. 24 cover? | Below 14 years. |
-| Does Art. 24 ban all child labour? | No; only employment in factories, mines and other hazardous work. |
-| Which Act of 1976 abolished bonded labour? | The Bonded Labour System (Abolition) Act, 1976. |
-| Which case dealt with child labour in the Sivakasi match industry? | *M.C. Mehta v. State of Tamil Nadu* (1996). |
+- [A-77](question-bank/section-a-part-3.md#a-77) Article 23: traffic in human beings and forced labour
+- [A-78](question-bank/section-a-part-3.md#a-78) *People's Union for Democratic Rights v. Union of India* (Asiad Workers' case, 1982)
+- [A-79](question-bank/section-a-part-3.md#a-79) Bonded labour
+- [A-80](question-bank/section-a-part-3.md#a-80) Article 24: prohibition of child labour
+- [A-81](question-bank/section-a-part-3.md#a-81) *M.C. Mehta v. State of Tamil Nadu* (1996)
+- [A-82](question-bank/section-a-part-3.md#a-82) Article 23 and Article 24 compared
+- [A-83](question-bank/section-a-part-3.md#a-83) Human trafficking
 
 ---
 

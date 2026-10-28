@@ -79,7 +79,7 @@
 | 2014 | *Subramanian Swamy v. Director, CBI* | (2014) 8 SCC 682 | Section 6A DSPE Act struck (rank-based classification) |
 | 2017 | *Shayara Bano* | (2017) 9 SCC 1 | Triple talaq set aside; manifest arbitrariness (Nariman J.) |
 | 2018 | *Navtej Singh Johar* | (2018) 10 SCC 1 | s. 377 read down |
-| 2018 | *Joseph Shine* | (2018) 2 SCC 189 | s. 497 IPC struck |
+| 2018 | *Joseph Shine* | (2019) 3 SCC 39 | s. 497 IPC struck |
 | 2018 | *Jarnail Singh* | (2018) 10 SCC 396 | Creamy layer for SC/ST in promotion; no data on backwardness needed |
 | 2020 | *Mukesh Kumar v. State of Uttarakhand* | (2020) 3 SCC 1 | No fundamental right to reservation in promotion |
 | 2020 | *Babita Puniya* | (2020) 7 SCC 469 | Permanent commission for women in the Army |

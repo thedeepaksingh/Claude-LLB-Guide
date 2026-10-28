@@ -100,7 +100,7 @@ flowchart TD
 - ***State of Andhra Pradesh v. McDowell & Co.*** (1996) 3 SCC 709: **no**; a law cannot be struck down on the ground of arbitrariness alone, only for lack of legislative competence or violation of a fundamental right.
 - ***Shayara Bano v. Union of India*** (2017) 9 SCC 1 (Nariman and Lalit JJ.): instant **triple talaq** (*talaq-e-biddat*) was struck down on the ground of **"manifest arbitrariness"**: a law may be struck down under Art. 14 if it is "capricious, irrational and/or without adequate determining principle", or "excessive and disproportionate". The majority view (3:2) on the invalidity of the practice was by Nariman and Lalit JJ. on this ground and by Kurian Joseph J. on the ground that the practice is un-Islamic; Khehar CJ and Nazeer J. dissented. *(Check the exact majority reasoning in the report.)*
 - ***Navtej Singh Johar v. Union of India*** (2018) 10 SCC 1: s. 377 IPC, as applied to consensual same-sex relations between adults, held **manifestly arbitrary**, violating Arts. 14, 15, 19, 21.
-- ***Joseph Shine v. Union of India*** (2018) 2 SCC 189: s. 497 IPC (adultery) held **arbitrary**: it treated the woman as the husband's property and violated Arts. 14, 15 and 21.
+- ***Joseph Shine v. Union of India*** (2019) 3 SCC 39: s. 497 IPC (adultery) held **arbitrary**: it treated the woman as the husband's property and violated Arts. 14, 15 and 21.
 - ***Association for Democratic Reforms v. Union of India*** (15 Feb 2024): the Electoral Bonds Scheme, particularly unlimited corporate donations, was held **manifestly arbitrary** and violative of Art. 19(1)(a) (five-judge bench, unanimous). *(Reported summary; the SC Observer summary does not cite Art. 14 explicitly.)*
 
 ---
@@ -175,65 +175,24 @@ Art. 14 permits **special provisions** for disadvantaged groups: Art. 15(3), (4)
 
 ## 9. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 18, 19, 20, 21, 22, 23). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Explain the doctrine of reasonable classification under Article 14. What tests must a valid classification satisfy?**
-**Introduction:** Art. 14 prohibits class legislation but permits reasonable classification.
-**Body:** (1) Text and two phrases. (2) Two tests: intelligible differentia and rational nexus (diagram). (3) *Dalmia* principles. (4) Cases: *Chiranjit Lal*, *Anwar Ali Sarkar*, *Kathi Raning Rawat*, *Budhan Choudhry*, *Nakara*, *Subramanian Swamy*.
-**Conclusion:** the test balances legislative freedom with equality; the courts have added a non-arbitrariness requirement.
+- [C-06](question-bank/section-c-part-1-units-1-5.md#c-06) Article 14: equality before law and equal protection of the laws *(topic asked: Dec 2022 Q11; Dec 2025 Q7)*
 
----
+**Section B (10 marks)**
 
-**Q2. "Equality and arbitrariness are sworn enemies." Discuss the development of arbitrariness as a ground of challenge under Article 14.**
-**Body:** (1) Traditional classification and its limits. (2) *Royappa* (new concept). (3) *Maneka Gandhi* (golden triangle). (4) *Ajay Hasia*, *R.D. Shetty*, *Shrilekha Vidyarthi*. (5) *McDowell* (limit on striking legislation). (6) *Shayara Bano* (manifest arbitrariness), *Navtej*, *Joseph Shine*, electoral bonds.
-**Criticism:** vagueness, judicial subjectivity.
+- [B-09](question-bank/section-b-part-1.md#b-09) Reasonableness and non-arbitrariness as guides to Article 14 *(topic asked: Dec 2025 Q7)*
+- [B-22](question-bank/section-b-part-2.md#b-22) The test of reasonable classification under Article 14 *(topic asked: Dec 2025 Q7; Dec 2022 Q11)*
 
----
+**Section A (4 marks), 5 answers**
 
-**Q3. Distinguish "equality before law" from "equal protection of the laws". What are the exceptions to equality before law?**
-*(Use §5 table and §1.2 exceptions: Art. 361, Arts. 105/194, diplomats, Art. 31C.)*
-
----
-
-**Q4. Explain the rule of law and its place in the Indian Constitution.**
-*(Use §1.1: Dicey's three meanings; Indian position; basic structure; *Indira Nehru Gandhi v. Raj Narain*; *ADM Jabalpur* and its overruling; tribunals and *L. Chandra Kumar*.)*
-
----
-
-**Q5. Discuss the Government's contractual and policy action in the light of Article 14.**
-*(Use §3.2 and §4.2: *R.D. Shetty*, *Shrilekha Vidyarthi*, promissory estoppel, legitimate expectation.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Class legislation v. reasonable classification.**
-2. **Intelligible differentia and rational nexus.**
-3. **Principles in *Ram Krishna Dalmia*.**
-4. **New concept of equality (*Royappa*).**
-5. **Manifest arbitrariness (*Shayara Bano*).**
-6. **Rule of law (Dicey).**
-7. **Article 361: immunity of the President and Governors.**
-8. **Promissory estoppel and legitimate expectation.**
-9. **Equal pay for equal work.**
-10. **No equality in illegality.**
-11. **Golden triangle (Arts. 14, 19, 21).**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| To whom is Art. 14 available? | Any person (citizens, non-citizens, companies). |
-| What are the two tests of valid classification? | Intelligible differentia and rational nexus. |
-| Which case laid down the principles of classification (single person as a class)? | *Ram Krishna Dalmia v. Justice Tendolkar* (1958). |
-| Who said "equality and arbitrariness are sworn enemies"? | Bhagwati J. in *E.P. Royappa* (1974). |
-| Which case struck down instant triple talaq? | *Shayara Bano v. Union of India* (2017). |
-| Which Article gives immunity to the President and Governors? | Art. 361. |
-| What is the "golden triangle"? | Arts. 14, 19 and 21 read together (*Maneka Gandhi*). |
-| Which case held that Art. 14 does not apply in illegality? | *Chandigarh Administration v. Jagjit Singh* (1995). |
-| Which case held s. 497 IPC arbitrary? | *Joseph Shine v. Union of India* (2018). |
+- [A-38](question-bank/section-a-part-2.md#a-38) Equality before law and equal protection of the laws
+- [A-39](question-bank/section-a-part-2.md#a-39) Reasonable classification
+- [A-40](question-bank/section-a-part-2.md#a-40) Non-arbitrariness under Article 14
+- [A-41](question-bank/section-a-part-2.md#a-41) Equal pay for equal work
+- [A-42](question-bank/section-a-part-2.md#a-42) Exceptions to equality before law
 
 ---
 
@@ -242,7 +201,7 @@ Art. 14 permits **special provisions** for disadvantaged groups: Art. 15(3), (4)
 - [ ] *Chiranjit Lal* AIR 1951 SC 41 · *Anwar Ali Sarkar* AIR 1952 SC 75 · *Kathi Raning Rawat* AIR 1952 SC 123 · *Budhan Choudhry* AIR 1955 SC 191 · *Kedar Nath Bajoria* AIR 1953 SC 404 · *Dalmia* AIR 1958 SC 538
 - [ ] *N.M. Thomas* (1976) 2 SCC 310 · *Special Courts Bill* (1979) 1 SCC 380 · *Nakara* (1983) 1 SCC 305 · *Subramanian Swamy* (2014) 8 SCC 682
 - [ ] *Royappa* (1974) 4 SCC 3 (exact wording of the quotation) · *Maneka Gandhi* (1978) 1 SCC 248 · *Ajay Hasia* (1981) 1 SCC 722 · *Shrilekha Vidyarthi* (1991) 1 SCC 212 · *McDowell* (1996) 3 SCC 709
-- [ ] *Shayara Bano* (2017) 9 SCC 1: read the separate opinions to state the 3:2 reasoning accurately · *Navtej* (2018) 10 SCC 1 · *Joseph Shine* (2018) 2 SCC 189
+- [ ] *Shayara Bano* (2017) 9 SCC 1: read the separate opinions to state the 3:2 reasoning accurately · *Navtej* (2018) 10 SCC 1 · *Joseph Shine* (2019) 3 SCC 39
 - [ ] *Mahabir Auto Stores* (1990) 3 SCC 752 and *Netai Bag* (2000) 8 SCC 262: **my recall of these two citations is the weakest in this file; confirm or drop**
 - [ ] *Motilal Padampat* (1979) 2 SCC 409 · *Hindustan Development Corp.* (1993) 3 SCC 499 · *Kamdhenu* (1993) 1 SCC 71 · *Randhir Singh* (1982) 1 SCC 618 · *Jagjit Singh* (2017) 1 SCC 148 · *Chandigarh Administration v. Jagjit Singh* (1995) 1 SCC 745
 - [ ] *L. Chandra Kumar* (1997) 3 SCC 261 · *A.K. Kraipak* (1969) 2 SCC 262 · *Rameshwar Prasad* (2006) 2 SCC 1

@@ -98,7 +98,7 @@ timeline
 | **Gender identity** | *National Legal Services Authority (NALSA) v. Union of India* (2014) 5 SCC 438 | Recognition of transgender persons as a third gender; self-identified gender is part of dignity and autonomy under Arts. 14, 15, 16, 19 and 21 |
 | **Sexual orientation** | *Navtej Singh Johar v. Union of India* (2018) 10 SCC 1 | IPC s. 377 read down: **consensual same-sex conduct between adults** is not an offence; constitutional morality prevails over social morality |
 | **Decisional autonomy in marriage** | *Shafin Jahan v. Asokan K.M.* (2018) 16 SCC 368 (*Hadiya*); *Shakti Vahini v. Union of India* (2018) 7 SCC 192 | The choice of a partner is protected; guidelines against honour killings |
-| **Adultery** | *Joseph Shine v. Union of India* (2018) 2 SCC 189 | IPC s. 497 struck down (arbitrary, discriminatory, treats the wife as property) |
+| **Adultery** | *Joseph Shine v. Union of India* (2019) 3 SCC 39 | IPC s. 497 struck down (arbitrary, discriminatory, treats the wife as property) |
 | **Same-sex marriage** | *Supriyo v. Union of India* (17 Oct 2023) | No fundamental right to marry; the Special Marriage Act not read down; the Court recorded the Government's statement of a committee on rights of queer couples *(verify citation and the later review dismissal)* |
 
 ### 4.2 Privacy
@@ -265,75 +265,43 @@ timeline
 
 ## 12. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. "Article 21 is the heart of Fundamental Rights." Discuss the scope of the right to life and personal liberty.**
-**Introduction:** Art. 21 in a single sentence guarantees life and liberty; from a limited reading in *Gopalan* it has become the source of the widest range of rights.
-**Body:** (1) Text and drafting. (2) *Gopalan* → *Maneka Gandhi* (golden triangle). (3) Heads with cases (table §4): dignity, livelihood, health, shelter, environment, privacy, speedy trial, legal aid, custodial rights, education. (4) Limits: valid law with fair procedure; death penalty; preventive detention. (5) *ADM Jabalpur* and 44th Amendment.
-**Recent:** *Puttaswamy*, *Navtej*, *Common Cause*, *Ranjitsinh*, *Harish Rana*.
-**Conclusion:** judicial expansion has made Art. 21 the guardian of human dignity; the challenge is legislative follow-up and enforcement.
+- [C-13](question-bank/section-c-part-2-units-6-8.md#c-13) Expanding horizons of the right to life and personal liberty (Art. 21) *(topic asked: Dec 2024 Q10; Dec 2023 Q8; Dec 2025 Q10)*
+- [C-14](question-bank/section-c-part-2-units-6-8.md#c-14) Right to life means life with human dignity *(topic asked: Dec 2025 Q10)*
+- [C-15](question-bank/section-c-part-2-units-6-8.md#c-15) Environment protection and Article 21 *(topic asked: Dec 2023 Q10; Dec 2022 Q9)*
+- [C-16](question-bank/section-c-part-2-units-6-8.md#c-16) The right to privacy
+- [C-17](question-bank/section-c-part-2-units-6-8.md#c-17) Right to education: Art. 21A and the RTE Act, 2009 *(topic asked: Dec 2023 Q13; Dec 2024 Q4)*
 
----
+**Section B (10 marks)**
 
-**Q2. Explain the impact of *Maneka Gandhi v. Union of India* on the interpretation of Article 21. How did it differ from *A.K. Gopalan*?**
-*(Use §2.1–§2.4: facts, holdings, table. Cover the golden triangle.)*
+- [B-06](question-bank/section-b-part-1.md#b-06) Extended interpretation of Article 21 *(topic asked: Dec 2023 Q8)*
+- [B-30](question-bank/section-b-part-2.md#b-30) *Maneka Gandhi v. Union of India* (1978)
+- [B-31](question-bank/section-b-part-2.md#b-31) The right to privacy: *K.S. Puttaswamy v. Union of India* (2017)
+- [B-32](question-bank/section-b-part-2.md#b-32) Right to die and euthanasia
+- [B-33](question-bank/section-b-part-3.md#b-33) Right to education: Article 21A and the RTE Act, 2009 *(topic asked: Dec 2023 Q13; Dec 2024 Q4)*
+- [B-47](question-bank/section-b-part-3.md#b-47) Environment protection and Article 21 *(topic asked: Dec 2023 Q10; Dec 2022 Q9)*
 
----
+**Section A (4 marks), 16 answers**
 
-**Q3. Discuss the right to privacy as a fundamental right. What was decided in *Puttaswamy*?**
-*(Use §4.2: the line from *M.P. Sharma* to *Puttaswamy*, three-part test, Aadhaar, DPDP Act.)*
-
----
-
-**Q4. Discuss whether the right to die is part of the right to life. Trace the law from *Rathinam* to *Common Cause*.**
-*(Use §4.5: *Rathinam*, *Gian Kaur*, *Aruna Shanbaug*, *Common Cause* (2018, 2023), *Harish Rana* (2026), plus the Mental Healthcare Act.)*
-
----
-
-**Q5. Discuss the constitutional position of the right to education. What are the main features of the RTE Act, 2009?**
-*(Use §7: background (Mohini Jain, Unni Krishnan), 86th Amendment, RTE features, *Pramati*, criticism.)*
-
----
-
-**Q6. "The death penalty and Article 21": discuss *Bachan Singh* and the "rarest of rare" doctrine.**
-*(Use §4.3: *Bachan Singh*, *Machhi Singh*, *Mithu*, *Shatrughan Chauhan*.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Procedure established by law v. due process.**
-2. **The golden triangle (Arts. 14, 19, 21).**
-3. **Right to livelihood (*Olga Tellis*).**
-4. **Custodial violence and the D.K. Basu guidelines.**
-5. **Compensation for violation of Art. 21 (*Rudul Sah*, *Nilabati Behera*).**
-6. **Right to speedy trial.**
-7. **Right to clean environment; absolute liability and precautionary principle.**
-8. **Right to shelter and health.**
-9. **ADM Jabalpur and Puttaswamy.**
-10. **Passive euthanasia and living will.**
-11. **Vishaka Guidelines and the POSH Act, 2013.**
-12. **Right to climate (*M.K. Ranjitsinh*).**
-13. **86th Amendment and Art. 21A.**
-14. **Section 12(1)(c) RTE Act and the 25% reservation.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Is Art. 21 available to non-citizens? | Yes; it applies to every person. |
-| Which case overruled *A.K. Gopalan* in effect? | *Maneka Gandhi v. Union of India* (1978). |
-| Name the three Articles of the "golden triangle". | Arts. 14, 19 and 21. |
-| Which case recognised privacy as a fundamental right? | *K.S. Puttaswamy v. Union of India* (2017). |
-| Which Amendment inserted Art. 21A? | The 86th Amendment Act, 2002. |
-| What age does Art. 21A cover? | 6–14 years. |
-| When did the RTE Act come into force? | 1 April 2010. |
-| What percentage of seats in private unaided schools is reserved under the RTE Act? | 25%. |
-| Which case laid down the "rarest of rare" doctrine? | *Bachan Singh v. State of Punjab* (1980). |
-| Which case holds that the right to life does not include the right to die? | *Gian Kaur v. State of Punjab* (1996). |
-| Can Art. 21 be suspended during an Emergency? | No (44th Amendment). |
+- [A-09](question-bank/section-a-part-1.md#a-09) Right to Education
+- [A-64](question-bank/section-a-part-2.md#a-64) "Procedure established by law" and "due process"
+- [A-65](question-bank/section-a-part-2.md#a-65) The golden triangle (Arts. 14, 19 and 21)
+- [A-66](question-bank/section-a-part-2.md#a-66) Right to livelihood
+- [A-67](question-bank/section-a-part-2.md#a-67) Right to privacy
+- [A-68](question-bank/section-a-part-2.md#a-68) Speedy trial and free legal aid
+- [A-69](question-bank/section-a-part-2.md#a-69) Right to shelter
+- [A-70](question-bank/section-a-part-2.md#a-70) Right to health and medical aid
+- [A-71](question-bank/section-a-part-2.md#a-71) Right to die
+- [A-72](question-bank/section-a-part-2.md#a-72) *Unni Krishnan v. State of A.P.* (1993)
+- [A-73](question-bank/section-a-part-2.md#a-73) The 25% quota under the RTE Act
+- [A-74](question-bank/section-a-part-2.md#a-74) Death penalty and Article 21
+- [A-75](question-bank/section-a-part-2.md#a-75) Right to a clean environment
+- [A-76](question-bank/section-a-part-2.md#a-76) Absolute liability
+- [A-141](question-bank/section-a-part-4.md#a-141) Article 22: protection against arrest and detention
+- [A-142](question-bank/section-a-part-4.md#a-142) Preventive detention (Art. 22(4)–(7))
 
 ---
 
@@ -345,7 +313,7 @@ timeline
 - [ ] *Bachan Singh* (1980) 2 SCC 684 · *Machhi Singh* (1983) 3 SCC 470 · *Mithu* (1983) 2 SCC 277 · *Shatrughan Chauhan* (2014) 3 SCC 1 · *Vatheeswaran* (1983) 2 SCC 68
 - [ ] *Chameli Singh* (1996) 2 SCC 549 · *Parmanand Katara* (1989) 4 SCC 286 · *Paschim Banga* (1996) 4 SCC 37 · *CERC* (1995) 3 SCC 42 · *Subhash Kumar* (1991) 1 SCC 598 · *M.C. Mehta (Oleum)* (1987) 1 SCC 395 · *Vellore* (1996) 5 SCC 647 · *M.K. Ranjitsinh* (21 Mar 2024; 2024 INSC 280)
 - [ ] *Puttaswamy* (2017) 10 SCC 1 (24 Aug 2017) · *Puttaswamy II* (2019) 1 SCC 1 (26 Sept 2018) · *PUCL (tapping)* (1997) 1 SCC 301 · *Rajagopal* (1994) 6 SCC 632
-- [ ] *Navtej* (2018) 10 SCC 1 · *Joseph Shine* (2018) 2 SCC 189 · *NALSA* (2014) 5 SCC 438 · *Shafin Jahan* (2018) 16 SCC 368 · *Shakti Vahini* (2018) 7 SCC 192 · *Suchita Srivastava* (2009) 9 SCC 1 · *Supriyo* (17 Oct 2023)
+- [ ] *Navtej* (2018) 10 SCC 1 · *Joseph Shine* (2019) 3 SCC 39 · *NALSA* (2014) 5 SCC 438 · *Shafin Jahan* (2018) 16 SCC 368 · *Shakti Vahini* (2018) 7 SCC 192 · *Suchita Srivastava* (2009) 9 SCC 1 · *Supriyo* (17 Oct 2023)
 - [ ] *Rathinam* (1994) 3 SCC 394 · *Gian Kaur* (1996) 2 SCC 648 · *Aruna Shanbaug* (2011) 4 SCC 454 · *Common Cause* (2018) 5 SCC 1 and 24 Jan 2023 modification · **Harish Rana (11 Mar 2026; 2026 INSC 222)**: read the judgment
 - [ ] *Mohini Jain* (1992) 3 SCC 666 · *Unni Krishnan* (1993) 1 SCC 645 · *T.M.A. Pai* (2002) 8 SCC 481 · *Society for Unaided Private Schools* (2012) 6 SCC 1 · *Pramati* (2014) 8 SCC 1 · RTE (Amendment) Act, 2019 (detention in Classes V and VIII)
 - [ ] DPDP Act, 2023 and DPDP Rules, 2025 commencement dates (13 Nov 2025; 12 Nov 2026; 12 May 2027)

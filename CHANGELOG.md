@@ -4,6 +4,16 @@ All times are **IST (UTC+05:30)**. Newest first.
 
 ## 2026-10-28
 
+### 13:55 — `paper/02-constitutional-law` (question bank)
+- Added `sem-1/paper-2-constitutional-law/question-bank/`: **227 model answers in the real CCSU pattern** (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words, **151 answers** (A-01 to A-151); Section B, 10 marks, ≤ 200 words, **47 answers**; Section C, 20 marks, in detail, **29 answers** (C-01 to C-29).
+- Added `leading-cases-digest.md`: **93 cases**, each with facts (91), issue, holding, principle, later developments where there are any, and where it is used. Eight case headings are marked † (not checked against a law report).
+- Added three full mock papers, an answer-review checklist, `README.md` (index, map of all 52 past questions to answers, topic-frequency table), `coverage-audit.md` and `source-verification-log.md`.
+- Coverage audit found five syllabus lines with no 20-mark answer (suspension of rights, Arts. 15–18, Arts. 26–28, DPSP nature and importance, the writs); added C-25 to C-29. Added A-140 to A-151 for twelve syllabus-adjacent topics.
+- Corrections after checking: *Shirur Mutt* s. 76 is a tax, not a fee, and does not breach Art. 27 (A-91, B-38, unit 10); *Joseph Shine* is (2019) 3 SCC 39, not (2018) 2 SCC 189 (units 4, 5, 8 and the case bank); digest header promised issue and principle for each case but 13 and 15 of 93 had them, now all 93; unit-file question banks (guessed mark bands) replaced with links to the real answers.
+- Paper II `README.md`: exam pattern marked confirmed; guessed "high-probability topics" replaced by a frequency table from the 52 past questions.
+- **No official marking scheme was found.** Every rubric is marked "(mine)". The `source-verification-log.md` lists what was checked, what was changed and what is still unchecked.
+- Status: **draft for review.** Not merged to `main`.
+
 ### 11:10 — `paper/02-constitutional-law`
 - Added **Paper II — Constitutional Law of India – I (K-1002)**, `sem-1/paper-2-constitutional-law/`: 14 unit files covering every line of the official syllabus (nature of the Constitution; Preamble; Fundamental Rights general; Arts. 14, 15–18, 19(1)(a), 20, 21 and 21A, 23–24, 25–28, 29–30, 32; Directive Principles; Fundamental Duties).
 - Added `README.md` (index, three-pass plan, answer template, revision sheets, consolidated verify list), `case-and-quote-bank.md` (160 case rows by theme, quotations) and `glossary.md`.

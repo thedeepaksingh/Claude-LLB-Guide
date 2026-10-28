@@ -173,59 +173,30 @@ flowchart LR
 
 ## 10. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 2, 8). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Is the Preamble a part of the Constitution? Can it be amended? Discuss with the help of decided cases.**
-**Introduction:** The Preamble states the Constitution's source, objectives and character.
-**Body:** (1) *Berubari* (1960): not a part; key to the framers' minds. (2) *Kesavananda* (1973): part; Preamble reveals basic structure; amendable subject to basic structure. (3) *LIC v. CERC* (1995): integral part. (4) 42nd Amendment (1976): only amendment. (5) *Balram Singh* (2024): Art. 368 reaches the Preamble.
-**Role:** aid to interpretation; not a source of power; not enforceable.
-**Conclusion:** the Preamble is part of the Constitution and can be amended consistent with its basic features.
+- [C-02](question-bank/section-c-part-1-units-1-5.md#c-02) The Preamble *(topic asked: Dec 2022 Q6; Dec 2023 Q5; Dec 2024 Q1; Dec 2025 Q1)*
 
----
+**Section B (10 marks)**
 
-**Q2. Discuss the ideals and objectives embodied in the Preamble.**
-*(Use §3: source (We, the People), nature of State (sovereign, socialist, secular, democratic, republic), objectives (justice, liberty, equality, fraternity). Link each to articles: Justice → Arts. 14–18, 38–39; Liberty → 19, 25; Equality → 14–16; Fraternity → 51A.)*
+- [B-03](question-bank/section-b-part-1.md#b-03) "The Preamble gives direction and purpose to the Constitution" *(topic asked: Dec 2022 Q6; Dec 2023 Q5; Dec 2024 Q1; Dec 2025 Q1)*
+- [B-14](question-bank/section-b-part-1.md#b-14) Is the Preamble a part of the Constitution?
+- [B-15](question-bank/section-b-part-1.md#b-15) Secularism in the Indian Constitution *(topic asked: Dec 2022 Q4; Dec 2023 Q2)*
 
----
+**Section A (4 marks), 10 answers**
 
-**Q3. Explain the terms "socialist" and "secular" in the Preamble. Were they validly inserted?**
-*(Use §3.3, §3.4, §5. Cases: *Nakara*, *Bommai*, *Balram Singh*. Conclude with the Indian meaning: welfare and equal respect for all religions.)*
-
----
-
-**Q4. Discuss the role of the Preamble in the interpretation of the Constitution.**
-*(Use §4 "Uses" with cases: *Berubari*, *Kesavananda*, *LIC*, *Bommai*, *Nakara*.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Objectives Resolution.**
-2. **Preamble: "We, the People".**
-3. **Sovereign democratic republic.**
-4. **Socialism in the Indian Constitution.**
-5. **Secularism in the Indian Constitution (*Bommai*).**
-6. **Justice, liberty, equality and fraternity.**
-7. **Dignity of the individual.**
-8. **42nd Amendment and the Preamble.**
-9. **Preamble as an aid to interpretation.**
-10. **Balram Singh v. Union of India (2024).**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| When was the Objectives Resolution moved? | 13 December 1946 (by Nehru). |
-| Which Amendment altered the Preamble? | The 42nd Amendment, 1976. |
-| Which words were added? | "Socialist", "Secular", and "integrity". |
-| Which case held the Preamble is not a part of the Constitution? | *In re Berubari Union* (1960). |
-| Which case held it is a part? | *Kesavananda Bharati* (1973). |
-| Is the Preamble enforceable in a court? | No; it is not a source of power or a direct right. |
-| On what date was the Constitution adopted? | 26 November 1949. |
-| Which case upheld the 1976 insertions (2024)? | *Dr. Balram Singh v. Union of India*. |
-| Which case held secularism to be basic structure? | *S.R. Bommai* (and *Kesavananda*). |
+- [A-01](question-bank/section-a-part-1.md#a-01) Terms added by the 42nd Amendment, 1976
+- [A-06](question-bank/section-a-part-1.md#a-06) Salient features of the Preamble
+- [A-11](question-bank/section-a-part-1.md#a-11) Socialist State
+- [A-14](question-bank/section-a-part-1.md#a-14) Secular State
+- [A-23](question-bank/section-a-part-1.md#a-23) Objectives Resolution
+- [A-24](question-bank/section-a-part-1.md#a-24) Is the Preamble a part of the Constitution?
+- [A-25](question-bank/section-a-part-1.md#a-25) "We, the People of India"
+- [A-26](question-bank/section-a-part-1.md#a-26) Democratic Republic
+- [A-27](question-bank/section-a-part-1.md#a-27) Justice, Liberty, Equality and Fraternity
+- [A-28](question-bank/section-a-part-1.md#a-28) Amendability of the Preamble
 
 ---
 

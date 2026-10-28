@@ -198,73 +198,31 @@ The Court drew the line: *"discussion, advocacy"* of even unpopular causes is pr
 
 ## 12. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Discuss the scope of the right to freedom of speech and expression under Article 19(1)(a). What restrictions can be imposed under Article 19(2)?**
-**Introduction:** The right is the foundation of democracy; it is available to citizens and not absolute.
-**Body:** (1) Text and 19(2) grounds; amendments. (2) Scope: press, right to know, airwaves, commercial speech, silence, flag, internet, protest (table §3). (3) Restrictions with cases: public order (*Lohia*, *Rangarajan*), sedition, obscenity, contempt, defamation, incitement, hate speech. (4) Tests of reasonableness (*V.G. Row*, proportionality).
-**Recent:** *Shreya Singhal*, *Anuradha Bhasin*, *Kaushal Kishor*, electoral bonds.
-**Conclusion:** free speech is the rule and restrictions the exception; they must be by law, within 19(2), and proportionate.
+- [C-08](question-bank/section-c-part-2-units-6-8.md#c-08) Expanding horizons of freedom of speech and expression *(topic asked: Dec 2025 Q9; Dec 2023 Q9; Dec 2022 Q12)*
+- [C-09](question-bank/section-c-part-2-units-6-8.md#c-09) Freedom of the press *(topic asked: Dec 2024 Q13)*
+- [C-10](question-bank/section-c-part-2-units-6-8.md#c-10) Freedoms included in Art. 19(1)(a) and the restrictions on them *(topic asked: Dec 2023 Q9; Dec 2022 Q12)*
 
----
+**Section B (10 marks)**
 
-**Q2. Is freedom of the press a separate fundamental right? Discuss the Supreme Court decisions on press freedom.**
-*(Use §3 table: *Romesh Thappar*, *Brij Bhushan*, *Sakal Papers*, *Bennett Coleman*, *Indian Express*; state it is derived from 19(1)(a); add *Rajagopal* on prior restraint; end with *Cricket Association of Bengal* for broadcasting.)*
+- [B-26](question-bank/section-b-part-2.md#b-26) Restrictions on freedom of speech under Article 19(2) *(topic asked: Dec 2023 Q9; Dec 2022 Q12)*
+- [B-27](question-bank/section-b-part-2.md#b-27) Sedition: from Kedar Nath Singh to BNS section 152
+- [B-28](question-bank/section-b-part-2.md#b-28) Freedom of the press *(topic asked: Dec 2024 Q13)*
 
----
+**Section A (4 marks), 9 answers**
 
-**Q3. Discuss *Shreya Singhal v. Union of India* and its significance for online speech.**
-*(Use §6 table. Explain vagueness, chilling effect, discussion/advocacy/incitement, s. 69A, s. 79; link to *Anuradha Bhasin* and the IT Rules debate.)*
-
----
-
-**Q4. "Sedition and free speech": discuss the law from *Kedar Nath Singh* to the Bharatiya Nyaya Sanhita.**
-*(Use §4.3: s. 124A IPC; *Kedar Nath*; *Balwant Singh*; *Vombatkere* (11 May 2022); BNS s. 152. Note the status caveat.)*
-
----
-
-**Q5. Explain the concepts of "public order", "law and order" and "security of the State" in the context of Art. 19(2).**
-*(Use §4.2: diagram, *Lohia*, *Arun Ghosh*, *Rangarajan*.)*
-
----
-
-**Q6. Discuss obscenity and free speech: from *Ranjit Udeshi* to *Aveek Sarkar*.**
-*(Use §4.5.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Prior restraint (*Brij Bhushan*).**
-2. **Right to information as part of Art. 19(1)(a).**
-3. **Commercial speech (*Tata Press*).**
-4. **Right to silence (*Bijoe Emmanuel*).**
-5. **Public order v. law and order.**
-6. **Hicklin test and community standards test.**
-7. **Contempt of court and free speech.**
-8. **Criminal defamation (*Subramanian Swamy*).**
-9. **Internet shutdowns (*Anuradha Bhasin*).**
-10. **Section 66A IT Act and *Shreya Singhal*.**
-11. **Hate speech (*Amish Devgan*).**
-12. **Reasonable restrictions: proportionality test.**
-13. **Electoral bonds and Art. 19(1)(a).**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Is Art. 19(1)(a) available to non-citizens? | No; only to citizens. |
-| How many grounds are there in Art. 19(2)? | Eight. |
-| Which Amendment added "public order" to Art. 19(2)? | The First Amendment, 1951. |
-| Which Amendment added "sovereignty and integrity of India"? | The 16th Amendment, 1963. |
-| Which case struck down s. 66A IT Act? | *Shreya Singhal v. Union of India* (2015). |
-| Which case introduced the "spark in a powder keg" test? | *S. Rangarajan v. P. Jagjivan Ram* (1989). |
-| Is there a fundamental right to call a bandh? | No (*Communist Party of India (M) v. Bharat Kumar*, 1998). |
-| Which case abandoned the Hicklin test? | *Aveek Sarkar v. State of West Bengal* (2014). |
-| Name the case on internet shutdowns. | *Anuradha Bhasin v. Union of India* (2020). |
-| Which provision of the BNS replaced sedition? | Section 152 (acts endangering sovereignty, unity and integrity of India). |
+- [A-52](question-bank/section-a-part-2.md#a-52) Right to know
+- [A-53](question-bank/section-a-part-2.md#a-53) Public order
+- [A-54](question-bank/section-a-part-2.md#a-54) Prior restraint
+- [A-55](question-bank/section-a-part-2.md#a-55) Commercial speech
+- [A-56](question-bank/section-a-part-2.md#a-56) Freedom of speech on the internet
+- [A-57](question-bank/section-a-part-2.md#a-57) Obscenity
+- [A-58](question-bank/section-a-part-2.md#a-58) Contempt of court
+- [A-59](question-bank/section-a-part-2.md#a-59) Defamation
+- [A-60](question-bank/section-a-part-2.md#a-60) *Shreya Singhal v. Union of India* (2015)
 
 ---
 

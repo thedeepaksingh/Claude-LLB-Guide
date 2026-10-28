@@ -173,55 +173,25 @@ Art. 20(3) applies when:
 
 ## 10. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 42, 43, 44, 45, 46). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Explain the protection given by Article 20 to persons accused of offences.**
-**Introduction:** Art. 20 gives three fundamental protections that apply to any person and cannot be suspended in an Emergency.
-**Body:** (1) Art. 20(1): two limbs; criminal laws only; procedure change allowed; beneficial retrospective laws (*Ratan Lal*); BNS/IPC savings. (2) Art. 20(2): four elements; *Maqbool Hussain*, *Venkataraman*, *Apte*, *Kolla Veera*. (3) Art. 20(3): elements; *M.P. Sharma*, *Kathi Kalu Oghad*, *Nandini Satpathy*, *Selvi*, *Ritesh Sinha*.
-**Conclusion:** Art. 20 balances State power with the dignity of the accused.
+- [C-11](question-bank/section-c-part-2-units-6-8.md#c-11) Article 20: protection in respect of conviction for offences
+- [C-12](question-bank/section-c-part-2-units-6-8.md#c-12) Short notes: (a) Protection against self-incrimination; (b) Doctrine of double jeopardy *(topic asked: Dec 2025 Q13; Dec 2022 Q8)*
 
----
+**Section B (10 marks)**
 
-**Q2. Discuss the right against self-incrimination under Art. 20(3). Does it extend to narco-analysis and polygraph tests?**
-*(Use §4: elements, case table, *Selvi*. Cover what is excluded (handwriting, DNA, voice) and the link to Art. 21.)*
+- [B-04](question-bank/section-b-part-1.md#b-04) The doctrine of double jeopardy *(topic asked: Dec 2022 Q8; Dec 2025 Q13)*
+- [B-05](question-bank/section-b-part-1.md#b-05) Protection against ex post facto laws *(topic asked: Dec 2023 Q6; Dec 2025 Q4)*
+- [B-29](question-bank/section-b-part-2.md#b-29) Protection against self-incrimination (Article 20(3)) *(topic asked: Dec 2025 Q13)*
 
----
+**Section A (4 marks), 4 answers**
 
-**Q3. What is meant by double jeopardy? Distinguish Art. 20(2) from the plea of *autrefois acquit*.**
-*(Use §3.1–§3.3 table.)*
-
----
-
-**Q4. "Art. 20(1) protects against ex post facto laws only in criminal matters." Discuss.**
-*(Use §2: scope, procedure v. substance, beneficial laws, the 2024 criminal codes.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Ex post facto law.**
-2. **Doctrine of double jeopardy.**
-3. **Prosecution and punishment (*Maqbool Hussain*).**
-4. **Testimonial compulsion (*Kathi Kalu Oghad*).**
-5. **Right to silence (*Nandini Satpathy*).**
-6. **Narco-analysis, polygraph and brain mapping (*Selvi*).**
-7. **Voice samples and Art. 20(3) (*Ritesh Sinha*).**
-8. **Art. 20 and the new criminal codes.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| To whom is Art. 20 available? | To any person (citizen or non-citizen). |
-| Can Art. 20 be suspended in an Emergency? | No. |
-| Which clause protects against double jeopardy? | Art. 20(2). |
-| Is a retrospective law that reduces punishment barred by Art. 20(1)? | No; beneficial retrospective laws are allowed. |
-| Which case held that specimen handwriting does not violate Art. 20(3)? | *State of Bombay v. Kathi Kalu Oghad* (1961). |
-| Which case extended the privilege to police interrogation? | *Nandini Satpathy v. P.L. Dani* (1978). |
-| Which case dealt with narco-analysis? | *Selvi v. State of Karnataka* (2010). |
-| Does departmental inquiry bar a criminal trial under Art. 20(2)? | No (not a prosecution before a court). |
+- [A-04](question-bank/section-a-part-1.md#a-04) Protection from ex post facto laws
+- [A-61](question-bank/section-a-part-2.md#a-61) Protection against self-incrimination (Art. 20(3))
+- [A-62](question-bank/section-a-part-2.md#a-62) Double jeopardy (Art. 20(2))
+- [A-63](question-bank/section-a-part-2.md#a-63) Narco-analysis: *Selvi v. State of Karnataka* (2010)
 
 ---
 

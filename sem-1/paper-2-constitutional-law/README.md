@@ -2,7 +2,8 @@
 
 > **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/02-constitutional-law` · **Status:** draft for review (not yet merged to `main`)
 > **Source syllabus:** see [`docs/00-syllabus-map.md`](../../docs/00-syllabus-map.md)
-> **Exam pattern:** **not confirmed.** The official syllabus does not publish one. Q&A is written in three tiers (long ≈ 10–15 marks, short note ≈ 5 marks, very short ≈ 2 marks). Send recent question papers to re-cut weightage. See [`docs/01-gaps-and-open-questions.md`](../../docs/01-gaps-and-open-questions.md), item A1.
+> **Exam pattern: confirmed** from the 20 papers of Dec 2022–2025 (Paper II: 3 hours, 100 marks). **Section A:** Q1–5 compulsory, 4 marks each, ≤ 75 words. **Section B:** any 2 of Q6–8, 10 marks each, ≤ 200 words. **Section C:** any 3 of Q9–13, 20 marks each, "in detail". No official marking scheme was found, so every rubric in this pack is marked "(mine)". See [`docs/02-exam-pattern-and-past-papers.md`](../../docs/02-exam-pattern-and-past-papers.md).
+> **Question bank:** 227 model answers (151 + 47 + 29), a 93-case digest, three mock papers and a review checklist are in [`question-bank/`](question-bank/README.md).
 
 ---
 
@@ -24,10 +25,11 @@
 | 12 | Art. 32: constitutional remedies (with Art. 226, writs, PIL) | [`unit-12-article-32.md`](unit-12-article-32.md) | *Prem Chand Garg*, *Daryao*, *Rudul Sah*, *S.P. Gupta*, *Vineet Narain* |
 | 13 | Directive Principles; relationship with Fundamental Rights | [`unit-13-dpsp.md`](unit-13-dpsp.md) | *Champakam*, *Kesavananda*, *Minerva Mills*, *Sanjeev Coke*, *Shah Bano* |
 | 14 | Fundamental Duties (Art. 51A) | [`unit-14-fundamental-duties.md`](unit-14-fundamental-duties.md) | *RLEK*, *AIIMS Students' Union*, *Bijoe Emmanuel* |
+| — | **Question bank**: model answers for Sections A, B and C; case digest; mocks; checklist; coverage audit; verification log | [`question-bank/README.md`](question-bank/README.md) | all |
 | — | Master case tables and quotations | [`case-and-quote-bank.md`](case-and-quote-bank.md) | |
 | — | Glossary (Latin and constitutional terms) | [`glossary.md`](glossary.md) | |
 
-Every unit file follows the same layout: **text of the Article → background → concepts → cases → criticism → current developments → comparison tables → quick-revision box → model Q&A (long / short / very short) → verification checklist.**
+Every unit file follows the same layout: **text of the Article → background → concepts → cases → criticism → current developments → comparison tables → quick-revision box → links to the model answers in the question bank → verification checklist.**
 
 ---
 
@@ -36,9 +38,9 @@ Every unit file follows the same layout: **text of the Article → background �
 **Three-pass plan**
 1. **Understand (pass 1):** read each unit once in syllabus order (Units 1–3 give the frame; Units 4–12 are the rights; Units 13–14 close the loop).
 2. **Memorise (pass 2):** use the *quick-revision boxes* and the one-page sheets below. For every Article, be able to write: *text → who can claim → against whom → restrictions → three leading cases → one recent development*.
-3. **Practise (pass 3):** write the long-answer questions under timed conditions, then compare with the model outline.
+3. **Practise (pass 3):** write the Section A, B and C answers from the [question bank](question-bank/README.md) under timed conditions, then compare with the model answer; sit the [mock papers](question-bank/mock-exam-1.md); mark yourself with the [checklist](question-bank/answer-review-checklist.md).
 
-**Answer-writing template for a constitutional-law long answer (10–15 marks)**
+**Answer-writing template for a Section C answer (20 marks, "in detail"; about 900–1,200 words)**
 
 | Step | What to write | Roughly |
 |---|---|---|
@@ -106,25 +108,24 @@ Every unit file follows the same layout: **text of the Article → background �
 
 ---
 
-## High-probability topics (expected, not yet checked against past papers)
+## What the past papers show (Dec 2022–2025)
 
-*These are based on syllabus structure and standard practice, **not** on an analysis of CCSU past papers. Once you send recent papers, this list will be replaced by a verified frequency table.*
+Counted from the 52 Paper II questions. The full table and the question-by-question map are in [`question-bank/README.md`](question-bank/README.md#4-how-often-each-topic-has-come-december-20222025).
 
-- **Unit 1:** federal features of the Constitution; Union-State relations basics; parliamentary form of government; basic features
-- **Unit 2:** Preamble as part of the Constitution (*Berubari* v. *Kesavananda*); key words; amendment of the Preamble
-- **Unit 3:** definition of "State" (Art. 12); doctrine of eclipse and severability; amendability of FRs; Arts. 358–359
-- **Unit 4:** reasonable classification; arbitrariness; exceptions to equality
-- **Unit 5:** reservation: *Indra Sawhney*; Art. 15(4)–(6); Art. 16(4); untouchability
-- **Unit 6:** Art. 19(1)(a) and 19(2); sedition; press freedom; *Shreya Singhal*
-- **Unit 7:** double jeopardy; self-incrimination; ex post facto laws
-- **Unit 8 (highest probability):** Art. 21 expansion; *Maneka Gandhi*; privacy; right to die; Art. 21A and RTE
-- **Unit 9:** forced labour (*PUDR*); child labour
-- **Unit 10:** secularism; essential religious practices; Art. 25 v. 26
-- **Unit 11:** minority educational institutions; *T.M.A. Pai*
-- **Unit 12:** writs; Art. 32 v. 226; PIL
-- **Unit 13:** DPSP v. FR; UCC
-- **Unit 14:** list of duties; enforceability
+| Topic | Years asked (of 4) |
+|---|---|
+| Federalism / federal structure / form of government (Unit 1) | **4** |
+| Fundamental Duties (Unit 14) | **4** |
+| Article 21 in any form (incl. environment, dignity, RTE) (Unit 8) | **4** |
+| Free speech and press, Art. 19(1)(a) (Unit 6) | **4** |
+| Preamble (Unit 2) | **4** (2025 only through the 42nd Amendment) |
+| Fundamental Rights v. DPSP (Unit 13) | 3 |
+| Public interest litigation (Unit 12) | 3 |
+| Art. 20: ex post facto, double jeopardy, self-incrimination (Unit 7) | 3 |
+| Reservation / Art. 14 (Units 4–5) | 3 |
+| Suspension of Fundamental Rights; minorities; against whom FRs lie | 2 each |
 
+Four papers are a small sample. Use this to decide what to read **first**, not what to skip: the bank covers every syllabus line ([coverage audit](question-bank/coverage-audit.md)).
 ---
 
 ## Consolidated list: items to verify before the exam
@@ -149,4 +150,4 @@ Every unit file follows the same layout: **text of the Article → background �
 **Weakest citation recall (do not quote the SCC cite unless you have checked it)**
 *Mahabir Auto Stores* (1990) 3 SCC 752 · *Netai Bag* (2000) 8 SCC 262 · *Appa Balu Ingale* · *Janhit Abhiyan* · *Balram Singh* · *Subhash Desai* · *In re Art. 370* · *T.N. v. Governor* · *Kaushal Kishor* ((2023) 4 SCC 1) · *T. Barai* · *Kolla Veera Raghav Rao* · *Jacob Puliyel* · *Fertilizer Corporation Kamgar Union* · *Kantaru Rajeevaru (review)*.
 
-Each unit's own checklist (last section) lists its citations in full.
+Each unit's own checklist (last section) lists its citations in full. The question bank has its own [source-verification log](question-bank/source-verification-log.md), which separates what was checked from what was not.

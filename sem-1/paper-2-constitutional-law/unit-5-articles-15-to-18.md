@@ -30,7 +30,7 @@
 | Case | Citation | Holding |
 |---|---|---|
 | **Yusuf Abdul Aziz v. State of Bombay** | AIR 1954 SC 321 | s. 497 IPC punishing only the man for adultery was valid under Art. 15(3) |
-| **Joseph Shine v. Union of India** | (2018) 2 SCC 189 | Overruled *Yusuf Abdul Aziz*; s. 497 IPC violated Arts. 14, 15, 21; Art. 15(3) cannot be used to perpetuate stereotypes |
+| **Joseph Shine v. Union of India** | (2019) 3 SCC 39 | Overruled *Yusuf Abdul Aziz*; s. 497 IPC violated Arts. 14, 15, 21; Art. 15(3) cannot be used to perpetuate stereotypes |
 | **Air India v. Nargesh Meerza** | (1981) 4 SCC 335 | The rule terminating an air hostess's service on her **first pregnancy** was struck down as arbitrary and violative of Art. 14; other service conditions challenged in the case were treated differently (read the report for which) |
 | **C.B. Muthamma v. Union of India** | (1979) 4 SCC 260 | Rules of the Foreign Service discriminating against married women held unconstitutional |
 | **Anuj Garg v. Hotel Association of India** | (2008) 3 SCC 1 | Punjab Excise Act s. 30, which barred women from employment in bars, struck down; "protective" discrimination rooted in stereotypes violates Arts. 14, 15 |
@@ -192,66 +192,32 @@ Art. 15(2) is one of the few rights enforceable against private persons (shops, 
 
 ## 9. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 24, 25, 26, 27, 28, 29). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Discuss the constitutional provisions on reservation in public employment and education. How has the Supreme Court balanced them with equality?**
-**Introduction:** Substantive equality requires special provisions for historically disadvantaged groups.
-**Body:** (1) Arts. 15(3)–(6) and 16(4)–(6) with amendments. (2) *Champakam*, *Balaji*, *N.M. Thomas*. (3) *Indra Sawhney* (table). (4) Promotion: *Nagaraj*, *Jarnail Singh*, *Mukesh Kumar*. (5) *Ashoka Kumar Thakur*; EWS (*Janhit*); sub-classification (*Davinder Singh*); Maratha case.
-**Conclusion:** reservation is enabling and must be backed by data, within the 50% ceiling.
+- [C-07](question-bank/section-c-part-1-units-1-5.md#c-07) Reservation policy *(topic asked: Dec 2024 Q9)*
+- [C-26](question-bank/section-c-part-4-gap-fill.md#c-26) The right to equality beyond Article 14: Articles 15, 16, 17 and 18
 
----
+**Section B (10 marks)**
 
-**Q2. Critically examine the decision in *Indra Sawhney v. Union of India*.**
-*(Use §2.3 table; add criticism on caste v. class; 50% limit; and its partial override by the 77th Amendment; and its continued authority after *Jaishri Laxmanrao Patil*.)*
+- [B-23](question-bank/section-b-part-2.md#b-23) Article 15: prohibition of discrimination and special provisions
+- [B-24](question-bank/section-b-part-2.md#b-24) *Indra Sawhney v. Union of India* (1992) *(topic asked: Dec 2024 Q9)*
+- [B-25](question-bank/section-b-part-2.md#b-25) Articles 17 and 18: untouchability and titles
 
----
+**Section A (4 marks), 11 answers**
 
-**Q3. Discuss Article 15 and the permissible special provisions.**
-*(Use §1.1–§1.5: text, "only", sex and gender identity, Art. 15(3) cases, 15(4)–(6), and Art. 15(2) horizontal effect.)*
-
----
-
-**Q4. Explain Article 17. How has Parliament and the Supreme Court enforced the abolition of untouchability?**
-*(Use §3: text; horizontal effect; PCR Act 1955; PoA Act 1989; *Subhash Kashinath Mahajan* and *Prathvi Raj Chauhan*.)*
-
----
-
-**Q5. Discuss the EWS reservation and the constitutional challenge to it.**
-*(Use §1.4 and §5 timeline: 103rd Amendment; *Janhit Abhiyan* (3:2); the majority and the dissent; relation to the 50% ceiling.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Article 15(2)** and private discrimination.
-2. **Article 15(3): special provision for women.**
-3. **Champakam Dorairajan and the First Amendment.**
-4. **Creamy layer.**
-5. **50% rule (*Balaji*, *Indra Sawhney*).**
-6. **Article 16(4A) and consequential seniority.**
-7. **M. Nagaraj: conditions for reservation in promotion.**
-8. **EWS reservation (103rd Amendment).**
-9. **Sub-classification of Scheduled Castes (*Davinder Singh*).**
-10. **Protection of Civil Rights Act, 1955.**
-11. **Balaji Raghavan: awards v. titles.**
-12. **Transgender persons and equality (*NALSA*).**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Which Amendment inserted Art. 15(4)? | The First Amendment, 1951. |
-| Which Article provides EWS reservation in employment? | Art. 16(6) (103rd Amendment). |
-| How many judges decided *Indra Sawhney*? | Nine. |
-| What is the ceiling on reservation fixed by the Court? | 50% (save in extraordinary circumstances). |
-| Which Article abolishes untouchability? | Art. 17. |
-| Which case held that Padma awards are not titles? | *Balaji Raghavan v. Union of India* (1996). |
-| Which Amendment inserted Art. 16(4A)? | The 77th Amendment (1995). |
-| Which Article permits Parliament to prescribe residence requirements? | Art. 16(3). |
-| Is reservation in promotion a fundamental right? | No (*Mukesh Kumar*, 2020). |
-| Which case held sub-classification of SCs permissible? | *State of Punjab v. Davinder Singh* (2024). |
+- [A-43](question-bank/section-a-part-2.md#a-43) Article 15(3): women and children
+- [A-44](question-bank/section-a-part-2.md#a-44) Article 15(4) and 15(5)
+- [A-45](question-bank/section-a-part-2.md#a-45) Article 16(4): reservation in public employment
+- [A-46](question-bank/section-a-part-2.md#a-46) Creamy layer
+- [A-47](question-bank/section-a-part-2.md#a-47) EWS reservation (103rd Amendment)
+- [A-48](question-bank/section-a-part-2.md#a-48) The 50% ceiling on reservation
+- [A-49](question-bank/section-a-part-2.md#a-49) Sub-classification of Scheduled Castes and Tribes
+- [A-50](question-bank/section-a-part-2.md#a-50) Article 17: abolition of untouchability
+- [A-51](question-bank/section-a-part-2.md#a-51) Article 18: abolition of titles
+- [A-144](question-bank/section-a-part-4.md#a-144) Article 15(2): access to public places
+- [A-145](question-bank/section-a-part-4.md#a-145) Article 16(1)–(3): equality of opportunity in public employment
 
 ---
 
@@ -262,7 +228,7 @@ Art. 15(2) is one of the few rights enforceable against private persons (shops, 
 - [ ] *Sabharwal* (1995) 2 SCC 745 · *Ajit Singh II* (1999) 7 SCC 209 · *Nagaraj* (2006) 8 SCC 212 · *Jarnail Singh* (2018) 10 SCC 396 · *Pavitra II* (2019) 16 SCC 129 · *Mukesh Kumar* (2020) 3 SCC 1 · *Jaishri Patil* (2021) 8 SCC 1
 - [ ] *Ashoka Kumar Thakur* (2008) 6 SCC 1 · *Pramati* (2014) 8 SCC 1 · *Janhit Abhiyan* (7 Nov 2022; SCC cite) · *Davinder Singh* 2024 INSC 562 (confirm the opinions on creamy layer)
 - [ ] *A.V.S. Narasimha Rao* (1969) 1 SCC 839 · *Pradeep Jain* (1984) 3 SCC 654 · *E.V. Chinnaiah* (2005) 1 SCC 394
-- [ ] *Yusuf Abdul Aziz* AIR 1954 SC 321 · *Joseph Shine* (2018) 2 SCC 189 · *Nargesh Meerza* (1981) 4 SCC 335 (read which service rules were struck and which upheld) · *Muthamma* (1979) 4 SCC 260 · *Anuj Garg* (2008) 3 SCC 1 · *Githa Hariharan* (1999) 2 SCC 228 · *Babita Puniya* (2020) 7 SCC 469 · *NALSA* (2014) 5 SCC 438
+- [ ] *Yusuf Abdul Aziz* AIR 1954 SC 321 · *Joseph Shine* (2019) 3 SCC 39 · *Nargesh Meerza* (1981) 4 SCC 335 (read which service rules were struck and which upheld) · *Muthamma* (1979) 4 SCC 260 · *Anuj Garg* (2008) 3 SCC 1 · *Githa Hariharan* (1999) 2 SCC 228 · *Babita Puniya* (2020) 7 SCC 469 · *NALSA* (2014) 5 SCC 438
 - [ ] *Appa Balu Ingale* (citation uncertain; confirm) · *Subhash Kashinath Mahajan* (2018) 6 SCC 454 · *Prathvi Raj Chauhan* (2020) 4 SCC 727 · *Balaji Raghavan* (1996) 1 SCC 361
 - [ ] 105th Amendment (2021) text and dates of the 77th, 81st, 85th, 93rd, 103rd Amendments
 - [ ] State-level follow-up to *Davinder Singh* (not verified in this session)

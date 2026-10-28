@@ -248,66 +248,39 @@ Combine the lists. **Suggested thesis:** *"The Indian Constitution is federal in
 
 ## 7. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 1, 3, 4, 5). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. "The Indian Constitution is federal in form but unitary in spirit." Discuss.**
-**Introduction:** Art. 1 calls India a "Union of States"; Ambedkar explained that the Union is indestructible and the States cannot secede. Wheare called it quasi-federal.
-**Body:** (1) Federal features (§A.3 table). (2) Unitary features (§A.4 table). (3) Judicial view: *West Bengal* (1963), *Kesavananda*, *Bommai*, *GNCTD* (2018 and 2023). (4) Asymmetry (Arts. 371–371J, Art. 370 case).
-**Recent:** Governors and Bills (2025).
-**Conclusion:** Federal in structure with a strong Centre; courts have made federalism enforceable.
+- [C-01](question-bank/section-c-part-1-units-1-5.md#c-01) Federal structure of the Constitution and the form of government *(topic asked: Dec 2025 Q6; Dec 2024 Q6; Dec 2022 Q2; Dec 2023 Q3; Dec 2024 Q2)*
 
----
+**Section B (10 marks)**
 
-**Q2. Discuss the parliamentary form of government in India. How does it differ from the presidential system?**
-*(Use §B.1–B.3: Arts. 74, 75, 163, 164; *Ram Jawaya Kapur*, *Shamsher Singh*; comparison table with the USA; end with the 42nd/44th Amendment changes to Art. 74.)*
+- [B-01](question-bank/section-b-part-1.md#b-01) Federalism: is the Indian Constitution federal? *(topic asked: Dec 2025 Q6; Dec 2024 Q2; Dec 2023 Q3; Dec 2022 Q2)*
+- [B-02](question-bank/section-b-part-1.md#b-02) "Neither federal nor unitary but quasi-federal": do you agree? *(topic asked: Dec 2024 Q6)*
+- [B-11](question-bank/section-b-part-1.md#b-11) The parliamentary form of government in India *(topic asked: Dec 2022 Q3)*
+- [B-12](question-bank/section-b-part-1.md#b-12) Rule of law *(topic asked: Dec 2023 Q1)*
+- [B-13](question-bank/section-b-part-1.md#b-13) Article 356 and the *Bommai* guidelines
 
----
+**Section A (4 marks), 17 answers**
 
-**Q3. Federalism is part of the basic structure. Examine with the help of decided cases.**
-*(Use §A.6, §A.7. Open with *Kesavananda* and *Bommai*; develop through *Bommai* guidelines, *Rameshwar Prasad*, *Nabam Rebia*, *GNCTD*; close with the Governor-assent decisions.)*
-
----
-
-**Q4. Discuss the constitutional provisions and judicial review of the President's Rule under Article 356.**
-*(Use §A.7 in full. Add the Sarkaria and Punchhi recommendations in §A.8.)*
-
----
-
-**Q5. Explain the nature of the Indian Constitution and its principal sources.**
-*(Use §1–§2: the sources table, features list, and the three amendment methods.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Quasi-federalism.**
-2. **Cooperative federalism.**
-3. **Asymmetric federalism (Arts. 370, 371–371J).**
-4. **"Union of States" (Art. 1).**
-5. **Role of the Governor.**
-6. **Article 356 and the *Bommai* case.**
-7. **Sarkaria Commission.**
-8. **GST Council (Art. 279A).**
-9. **Doctrine of separation of powers in India.**
-10. **Sources of the Indian Constitution.**
-11. **Presidential Reference on Governors' assent (2025).**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Which Article says India is a "Union of States"? | Art. 1(1). |
-| Who chaired the Drafting Committee? | Dr. B.R. Ambedkar. |
-| When did the Constitution come into force? | 26 January 1950. |
-| Who called the Constitution "quasi-federal"? | K.C. Wheare. |
-| Under which Article is the President bound by ministerial advice? | Art. 74(1) (as amended by the 42nd and 44th Amendments). |
-| Which case held Art. 356 justiciable? | *S.R. Bommai v. Union of India* (1994). |
-| In which Schedule are the legislative lists? | Seventh Schedule. |
-| Which Article provides for the GST Council? | Art. 279A (101st Amendment). |
-| How long can President's Rule last at most? | Three years (with conditions). |
-| Which Article gives original jurisdiction to the Supreme Court in Centre–State disputes? | Art. 131. |
+- [A-07](question-bank/section-a-part-1.md#a-07) Federalism
+- [A-08](question-bank/section-a-part-1.md#a-08) Federal structure of the Indian Constitution
+- [A-10](question-bank/section-a-part-1.md#a-10) Rule of law
+- [A-12](question-bank/section-a-part-1.md#a-12) Fundamental law
+- [A-13](question-bank/section-a-part-1.md#a-13) Parliamentary form of government
+- [A-16](question-bank/section-a-part-1.md#a-16) Union of States (Art. 1)
+- [A-17](question-bank/section-a-part-1.md#a-17) Quasi-federal Constitution
+- [A-18](question-bank/section-a-part-1.md#a-18) Cooperative federalism
+- [A-19](question-bank/section-a-part-1.md#a-19) Asymmetric federalism
+- [A-20](question-bank/section-a-part-1.md#a-20) Partly rigid and partly flexible
+- [A-21](question-bank/section-a-part-1.md#a-21) Separation of powers in India
+- [A-22](question-bank/section-a-part-1.md#a-22) President as the constitutional head
+- [A-146](question-bank/section-a-part-4.md#a-146) Doctrine of pith and substance
+- [A-147](question-bank/section-a-part-4.md#a-147) Residuary powers
+- [A-148](question-bank/section-a-part-4.md#a-148) The federal system during an Emergency
+- [A-149](question-bank/section-a-part-4.md#a-149) Parliamentary and presidential systems
+- [A-150](question-bank/section-a-part-4.md#a-150) Commissions on Union–State relations
 
 ---
 

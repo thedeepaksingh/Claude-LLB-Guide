@@ -162,67 +162,35 @@
 
 ## 10. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 77, 78, 79, 80, 81, 82, 83). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. "Article 32 is the very soul of the Constitution." Discuss the scope of the Supreme Court's power to issue writs under Art. 32.**
-**Introduction:** Ambedkar's statement; Art. 32 as a guaranteed Fundamental Right.
-**Body:** (1) Text, four clauses. (2) Features: guaranteed, for FRs only, appropriate proceedings, wide remedial power. (3) The five writs (table) with conditions and cases. (4) Compensation, guidelines, continuing mandamus. (5) Limits: res judicata, laches, private bodies. (6) Art. 32 v. Art. 226 (table).
-**Recent:** PIL; *L. Chandra Kumar*.
-**Conclusion:** Art. 32 has turned rights from paper promises into enforceable guarantees.
+- [C-21](question-bank/section-c-part-3-units-9-14.md#c-21) Public interest litigation *(topic asked: Dec 2025 Q11; Dec 2024 Q12; Dec 2023 Q11)*
+- [C-22](question-bank/section-c-part-3-units-9-14.md#c-22) "Article 32 is itself a Fundamental Right" *(topic asked: Dec 2023 Q12; Dec 2022 Q13)*
+- [C-29](question-bank/section-c-part-4-gap-fill.md#c-29) The writs under Articles 32 and 226
 
----
+**Section B (10 marks)**
 
-**Q2. Explain the writs of habeas corpus, mandamus, certiorari, prohibition and quo warranto with leading cases.**
-*(Use §2 table; add one line each on grounds and exceptions.)*
+- [B-40](question-bank/section-b-part-3.md#b-40) The five writs
+- [B-41](question-bank/section-b-part-3.md#b-41) Article 32 and Article 226 *(topic asked: Dec 2023 Q12)*
+- [B-42](question-bank/section-b-part-3.md#b-42) Public interest litigation: abuse, limits and guidelines *(topic asked: Dec 2025 Q11; Dec 2024 Q12; Dec 2023 Q11)*
+- [B-43](question-bank/section-b-part-3.md#b-43) Compensation for violation of Fundamental Rights under Article 32
 
----
+**Section A (4 marks), 12 answers**
 
-**Q3. Distinguish between Art. 32 and Art. 226 of the Constitution.**
-*(Use §4 table.)*
-
----
-
-**Q4. What is public interest litigation? Discuss its evolution, advantages and limits.**
-*(Use §5: meaning, *Hussainara*, *S.P. Gupta*, features, *Balwant Singh Chaufal* guidelines, criticism.)*
-
----
-
-**Q5. Can the Supreme Court award compensation under Art. 32? Discuss.**
-*(Use §3: *Rudul Sah*, *Bhim Singh*, *Nilabati Behera*.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Habeas corpus.**
-2. **Mandamus: when it does not lie.**
-3. **Certiorari v. prohibition.**
-4. **Quo warranto.**
-5. **Locus standi and PIL.**
-6. **Epistolary jurisdiction.**
-7. **Continuing mandamus (*Vineet Narain*).**
-8. **Res judicata and Art. 32 (*Daryao*).**
-9. **Prem Chand Garg v. Excise Commissioner.**
-10. **Compensation for Fundamental Rights violations.**
-11. **L. Chandra Kumar and judicial review.**
-12. **Arts. 33–35.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Is Art. 32 itself a Fundamental Right? | Yes; it is in Part III. |
-| Who called Art. 32 the "heart and soul" of the Constitution? | Dr. B.R. Ambedkar. |
-| How many writs does Art. 32(2) name? | Five. |
-| Which writ literally means "by what authority"? | Quo warranto. |
-| Which writ is issued to quash an order already passed? | Certiorari. |
-| Which writ is preventive and issued while proceedings are pending? | Prohibition. |
-| Can Art. 32 be invoked for an ordinary legal right? | No; only for Fundamental Rights (Art. 226 covers legal rights). |
-| Which case struck down the security-deposit rule for petitions? | *Prem Chand Garg v. Excise Commissioner* (1963). |
-| Which case first treated judicial review as basic structure for High Courts as well? | *L. Chandra Kumar v. Union of India* (1997). |
-| Who may file a habeas corpus petition? | The detenu or any person on his behalf. |
+- [A-106](question-bank/section-a-part-3.md#a-106) Article 32: right to constitutional remedies
+- [A-107](question-bank/section-a-part-3.md#a-107) Scope of Article 32
+- [A-108](question-bank/section-a-part-3.md#a-108) Habeas corpus
+- [A-109](question-bank/section-a-part-3.md#a-109) Mandamus
+- [A-110](question-bank/section-a-part-3.md#a-110) Certiorari and prohibition
+- [A-111](question-bank/section-a-part-3.md#a-111) Quo warranto
+- [A-112](question-bank/section-a-part-3.md#a-112) Article 32 and Article 226 compared
+- [A-113](question-bank/section-a-part-3.md#a-113) Public interest litigation (PIL)
+- [A-114](question-bank/section-a-part-3.md#a-114) Epistolary jurisdiction
+- [A-115](question-bank/section-a-part-3.md#a-115) Compensation under Article 32
+- [A-116](question-bank/section-a-part-3.md#a-116) Continuing mandamus
+- [A-117](question-bank/section-a-part-3.md#a-117) Abuse of PIL
 
 ---
 

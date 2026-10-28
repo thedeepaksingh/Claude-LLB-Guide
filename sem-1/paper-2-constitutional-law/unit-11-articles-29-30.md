@@ -140,57 +140,28 @@ Inserted by the **44th Amendment (1978)** to overcome the effect of the repeal o
 
 ## 9. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 71, 72, 73, 74, 75, 76). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Discuss the cultural and educational rights of minorities under Arts. 29 and 30 of the Constitution.**
-**Introduction:** the Constitution protects the cultural diversity through Arts. 29–30.
-**Body:** (1) Art. 29(1) and (2), cases. (2) Art. 30(1), (1A), (2). (3) Who is a minority (*Kerala Education Bill*, *D.A.V.*, *T.M.A. Pai*). (4) Scope and limits: *St. Xavier's*, *St. Stephen's*, *T.M.A. Pai*, *Inamdar*. (5) *Pramati* and RTE; AMU.
-**Conclusion:** rights are substantial but not absolute; autonomy goes with standards.
+- [C-20](question-bank/section-c-part-3-units-9-14.md#c-20) Cultural and educational rights of minorities: Articles 29 and 30 *(topic asked: Dec 2024 Q7; Dec 2025 Q8)*
 
----
+**Section B (10 marks)**
 
-**Q2. "The right to administer is not the right to maladminister." Discuss the extent of State regulation over minority educational institutions.**
-*(Use §3.3 table.)*
+- [B-10](question-bank/section-b-part-1.md#b-10) Cultural and educational rights of minorities: a critical note *(topic asked: Dec 2024 Q7; Dec 2025 Q8)*
+- [B-39](question-bank/section-b-part-3.md#b-39) Who is a minority? The AMU case (2024)
 
----
+**Section A (4 marks), 9 answers**
 
-**Q3. Who is a minority under the Constitution? Discuss with reference to *T.M.A. Pai Foundation*.**
-*(Use §3.1.)*
-
----
-
-**Q4. Discuss the Aligarh Muslim University minority-status case, including the overruling of *Azeez Basha*.**
-*(Use §5.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Art. 29(1): right to conserve language, script and culture.**
-2. **Art. 29(2) and *Champakam Dorairajan*.**
-3. **Minority: the State as the unit.**
-4. **Art. 30(1A) and the 44th Amendment.**
-5. **Right to administer v. maladministration.**
-6. **T.M.A. Pai Foundation (2002).**
-7. **P.A. Inamdar (2005): reservations in private unaided colleges.**
-8. **Pramati Educational Trust (2014) and the RTE Act.**
-9. **AMU: minority status (2024).**
-10. **National Commission for Minority Educational Institutions.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Is Art. 29(1) limited to minorities? | No; it applies to any section of citizens with a distinct language, script or culture. |
-| Is Art. 29(2) available to non-citizens? | No; it applies to citizens. |
-| What does the word "only" in Art. 29(2) signify? | Admission may be denied on other grounds (e.g., merit); not on religion, race, caste or language alone. |
-| Which Amendment inserted Art. 30(1A)? | The 44th Amendment, 1978. |
-| Is the term "minority" defined in the Constitution? | No. |
-| What was the unit for minority status in *T.M.A. Pai*? | The State. |
-| Which case overruled *Azeez Basha*? | *Aligarh Muslim University v. Naresh Agarwal* (8 Nov 2024). |
-| Does the RTE Act apply to minority institutions? | Not under *Pramati* (2014); the issue is referred to a larger bench (2025). |
+- [A-97](question-bank/section-a-part-3.md#a-97) Article 29(1): protection of language, script and culture
+- [A-98](question-bank/section-a-part-3.md#a-98) Article 29(2): no denial of admission
+- [A-99](question-bank/section-a-part-3.md#a-99) Article 30(1): minorities' right to establish and administer institutions
+- [A-100](question-bank/section-a-part-3.md#a-100) Who is a minority?
+- [A-101](question-bank/section-a-part-3.md#a-101) Article 30 is not absolute
+- [A-102](question-bank/section-a-part-3.md#a-102) *T.M.A. Pai Foundation v. State of Karnataka* (2002)
+- [A-103](question-bank/section-a-part-3.md#a-103) Aligarh Muslim University and minority status
+- [A-104](question-bank/section-a-part-3.md#a-104) Article 30(1A) and Article 30(2)
+- [A-105](question-bank/section-a-part-3.md#a-105) Article 29 and Article 30 compared
 
 ---
 

@@ -145,48 +145,27 @@
 
 ## 10. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 90, 91, 92, 93). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. What are the Fundamental Duties of citizens? Are they enforceable? Discuss their significance.**
-**Introduction:** The original Constitution listed rights; duties were added by the 42nd Amendment in 1976.
-**Body:** (1) Origin: Swaran Singh Committee; USSR/UDHR inspiration. (2) The eleven duties (table §2). (3) Nature: citizens only, non-justiciable, no sanction. (4) Judicial use (table §4). (5) Statutes (table §5). (6) Verma Committee. (7) Criticism and importance.
-**Conclusion:** the duties are the moral and civic counterpart to the rights; their force comes through legislation, education and judicial interpretation.
+- [C-24](question-bank/section-c-part-3-units-9-14.md#c-24) Fundamental Duties (Article 51A) *(topic asked: Dec 2022 Q7; Dec 2023 Q4; Dec 2024 Q5; Dec 2025 Q2)*
 
----
+**Section B (10 marks)**
 
-**Q2. "Rights and duties are two sides of the same coin." Discuss in the light of Art. 51A.**
-*(Use §3 comparison, §4 cases, §7.)*
+- [B-08](question-bank/section-b-part-1.md#b-08) Fundamental Duties *(topic asked: Dec 2022 Q7; Dec 2023 Q4; Dec 2024 Q5; Dec 2025 Q2)*
 
----
+**Section A (4 marks), 9 answers**
 
-**Q3. Explain how the Supreme Court has used Fundamental Duties in its decisions.**
-*(Use §4 table: environment, anthem, flag, animal welfare, education.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Swaran Singh Committee.**
-2. **Art. 51A(g): environment and compassion.**
-3. **Art. 51A(k): duty of parents.**
-4. **Fundamental Duties and the National Anthem.**
-5. **Verma Committee on Fundamental Duties.**
-6. **Fundamental Duties v. Directive Principles.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Which Amendment added the Fundamental Duties? | The 42nd Amendment, 1976. |
-| Where are the Fundamental Duties placed? | Part IVA, Art. 51A. |
-| How many Fundamental Duties are there now? | Eleven. |
-| Which Amendment added the eleventh duty? | The 86th Amendment, 2002. |
-| Who recommended the Fundamental Duties? | The Swaran Singh Committee (1976). |
-| Are the Fundamental Duties justiciable? | No. |
-| To whom do they apply? | Citizens. |
-| Which duty relates to education of children? | Art. 51A(k): duty of parents or guardians (children aged 6–14). |
+- [A-02](question-bank/section-a-part-1.md#a-02) Four Fundamental Duties
+- [A-132](question-bank/section-a-part-3.md#a-132) Origin of the Fundamental Duties
+- [A-133](question-bank/section-a-part-3.md#a-133) Verma Committee (1999)
+- [A-134](question-bank/section-a-part-3.md#a-134) Nature of the Fundamental Duties
+- [A-135](question-bank/section-a-part-3.md#a-135) Article 51A(k): duty of parents and guardians
+- [A-136](question-bank/section-a-part-3.md#a-136) *Bijoe Emmanuel v. State of Kerala* (1986)
+- [A-137](question-bank/section-a-part-3.md#a-137) Laws to protect national honour
+- [A-138](question-bank/section-a-part-3.md#a-138) Duties with a social purpose
+- [A-139](question-bank/section-a-part-3.md#a-139) Fundamental Rights and Fundamental Duties
 
 ---
 

@@ -186,67 +186,36 @@ The Court read DPSPs into Art. 21 and Art. 14 to make them enforceable indirectl
 
 ## 10. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 84, 85, 86, 87, 88, 89). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Discuss the relationship between Fundamental Rights and Directive Principles of State Policy. Which prevails?**
-**Introduction:** Parts III and IV: two parts of one scheme; the Constitution does not state which prevails.
-**Body:** (1) Differences (table §2). (2) *Champakam* (FRs prevail). (3) *Kerala Education Bill*, *N.M. Thomas* (harmony). (4) Art. 31C and *Kesavananda*. (5) 42nd Amendment and *Minerva Mills* (balance is basic structure). (6) *Sanjeev Coke*. (7) DPSPs as an aid to Art. 21 (table §4.4). (8) *Property Owners Association* (2024).
-**Conclusion:** the present position is one of balance and harmony: FRs prevail in conflict, but DPSPs guide the interpretation and legislation.
+- [C-23](question-bank/section-c-part-3-units-9-14.md#c-23) Fundamental Rights and Directive Principles of State Policy *(topic asked: Dec 2025 Q12; Dec 2024 Q8; Dec 2023 Q7)*
+- [C-28](question-bank/section-c-part-4-gap-fill.md#c-28) Directive Principles of State Policy: nature, classification and importance
 
----
+**Section B (10 marks)**
 
-**Q2. "Directive Principles are not enforceable but are fundamental in the governance of the country." Discuss their importance.**
-*(Use §2 and §7.2; add examples of implementation, §5.)*
+- [B-07](question-bank/section-b-part-1.md#b-07) Fundamental Rights and Directive Principles *(topic asked: Dec 2023 Q7; Dec 2024 Q8; Dec 2025 Q12)*
+- [B-44](question-bank/section-b-part-3.md#b-44) Directive Principles: classification and importance
+- [B-45](question-bank/section-b-part-3.md#b-45) The Uniform Civil Code (Article 44)
+- [B-46](question-bank/section-b-part-3.md#b-46) Article 31C and *Minerva Mills v. Union of India* (1980)
 
----
+**Section A (4 marks), 14 answers**
 
-**Q3. Classify the Directive Principles and explain the main ones.**
-*(Use §3 table.)*
-
----
-
-**Q4. Discuss Art. 44 and the debate on a Uniform Civil Code in India.**
-*(Use §6: cases, Law Commission, State laws, arguments.)*
-
----
-
-**Q5. Discuss the significance of Art. 31C and *Minerva Mills v. Union of India*.**
-*(Use §4.3 and the mermaid chart.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Art. 37.**
-2. **Gandhian principles in Part IV.**
-3. **Socialistic principles in Part IV.**
-4. **Art. 39(b) and (c).**
-5. **Equal pay for equal work.**
-6. **Art. 39A and free legal aid.**
-7. **Art. 40 and panchayati raj.**
-8. **Art. 44: Uniform Civil Code.**
-9. **Art. 45 and Art. 21A.**
-10. **Art. 48 and cow slaughter.**
-11. **Art. 50: separation of the judiciary from the executive.**
-12. **Art. 51: international peace.**
-13. **Minerva Mills (1980).**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Which Part contains the DPSPs? | Part IV (Arts. 36–51). |
-| From which Constitution were the DPSPs borrowed? | The Irish Constitution (1937). |
-| Are DPSPs enforceable by courts? | No (Art. 37). |
-| Which Article provides for the Uniform Civil Code? | Art. 44. |
-| Which Amendment added Art. 39A? | The 42nd Amendment, 1976. |
-| Which Article provides for the separation of the judiciary from the executive? | Art. 50. |
-| Who described DPSPs as the "conscience of the Constitution"? | Granville Austin; adopted in *Minerva Mills*. |
-| Which case held that harmony between Parts III and IV is a basic feature? | *Minerva Mills v. Union of India* (1980). |
-| Which Amendment added Art. 43B? | The 97th Amendment, 2011. |
-| Which case enforced "equal pay for equal work" through Arts. 14 and 39(d)? | *Randhir Singh v. Union of India* (1982). |
+- [A-118](question-bank/section-a-part-3.md#a-118) Nature of the Directive Principles (Art. 37)
+- [A-119](question-bank/section-a-part-3.md#a-119) Classification of DPSPs
+- [A-120](question-bank/section-a-part-3.md#a-120) Article 39(b) and (c)
+- [A-121](question-bank/section-a-part-3.md#a-121) Article 40: village panchayats
+- [A-122](question-bank/section-a-part-3.md#a-122) Article 44: Uniform Civil Code
+- [A-123](question-bank/section-a-part-3.md#a-123) Article 45 and early childhood care
+- [A-124](question-bank/section-a-part-3.md#a-124) Articles 41 to 43A: social and economic rights
+- [A-125](question-bank/section-a-part-3.md#a-125) Article 48: cattle preservation
+- [A-126](question-bank/section-a-part-3.md#a-126) Article 50: separation of the judiciary from the executive
+- [A-127](question-bank/section-a-part-3.md#a-127) Article 51: international peace and security
+- [A-128](question-bank/section-a-part-3.md#a-128) *State of Madras v. Champakam Dorairajan* (1951)
+- [A-129](question-bank/section-a-part-3.md#a-129) Harmony between Fundamental Rights and Directive Principles
+- [A-130](question-bank/section-a-part-3.md#a-130) Importance of the Directive Principles
+- [A-131](question-bank/section-a-part-3.md#a-131) Criticism of the Directive Principles
 
 ---
 

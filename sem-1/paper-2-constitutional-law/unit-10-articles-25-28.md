@@ -195,66 +195,34 @@
 
 ## 11. Question bank (model answers)
 
-*Mark bands indicative; confirm your paper pattern (`docs/01-gaps-and-open-questions.md`, A1).*
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". The marks and word limits earlier shown in this file were guesses and have been removed. Every rubric in the bank is my own; the university publishes no marking scheme. Cases: [`leading-cases-digest.md`](question-bank/leading-cases-digest.md) (this unit: cases 63, 64, 65, 66, 67, 68, 69, 70). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
 
-### Long answers (10–15 marks)
+**Section C (20 marks)**
 
-**Q1. Discuss the scope of the freedom of religion guaranteed by Arts. 25–28 of the Constitution.**
-**Introduction:** secularism as a basic feature; the Constitution protects individual conscience and denominational autonomy while allowing reform.
-**Body:** (1) Art. 25: text, elements, limits (25(2)), propagation. (2) Art. 26. (3) Art. 27. (4) Art. 28. (5) ERP doctrine with cases. (6) Recent: *Shayara Bano*, *Sabarimala*, hijab, Waqf.
-**Conclusion:** the balance between faith and reform is still being worked out by the courts.
+- [C-19](question-bank/section-c-part-3-units-9-14.md#c-19) Article 25: religious freedom of the individual *(topic asked: Dec 2024 Q11)*
+- [C-27](question-bank/section-c-part-4-gap-fill.md#c-27) Freedom of religion: Articles 26, 27 and 28
 
----
+**Section B (10 marks)**
 
-**Q2. Distinguish between Art. 25 and Art. 26. What is the doctrine of essential religious practices?**
-*(Use §4.3 table; §3.)*
+- [B-36](question-bank/section-b-part-3.md#b-36) The doctrine of essential religious practices
+- [B-37](question-bank/section-b-part-3.md#b-37) Distinguish between Article 25 and Article 26
+- [B-38](question-bank/section-b-part-3.md#b-38) Articles 27 and 28
 
----
+**Section A (4 marks), 13 answers**
 
-**Q3. "The right to propagate does not include the right to convert." Discuss.**
-*(Use §2.3 and *Stainislaus*; mention anti-conversion statutes and the right to choose one's faith/partner; end with *Shafin Jahan*.)*
-
----
-
-**Q4. Critically examine *Shayara Bano v. Union of India* and *Indian Young Lawyers Association v. State of Kerala* (Sabarimala) on the relationship between religious freedom and equality.**
-*(Use §2.4 table; contrast the majority approaches, the dissent of Khehar CJI and Indu Malhotra J., and the nine-judge reference.)*
-
----
-
-**Q5. Explain the meaning of secularism in the Indian Constitution with reference to *S.R. Bommai*.**
-*(Use §1.)*
-
----
-
-### Short notes (5 marks)
-
-1. **Freedom of conscience.**
-2. **Right to propagate.**
-3. **Essential religious practices.**
-4. **Religious denomination (*Shirur Mutt*).**
-5. **Art. 25(2): social reform and temple entry (*Venkataramana Devaru*).**
-6. **Art. 27 and tax for religion.**
-7. **Art. 28 and religious instruction.**
-8. **Bijoe Emmanuel v. State of Kerala.**
-9. **Triple talaq judgment.**
-10. **Sabarimala and constitutional morality.**
-11. **Hijab controversy.**
-12. **Waqf (Amendment) Act, 2025: interim order.**
-
-### Very short answers (2 marks)
-
-| Question | Answer |
-|---|---|
-| Is Art. 25 available to non-citizens? | Yes; to all persons. |
-| Who holds the right under Art. 26? | A religious denomination or a section of it. |
-| Which religion is mentioned in Explanation I to Art. 25? | Sikh (the wearing and carrying of kirpans). |
-| Are Sikhs, Jains and Buddhists treated as Hindus under Art. 25(2)(b)? | Yes (Explanation II). |
-| Does Art. 27 bar fees? | No, only taxes. |
-| In which institutions is religious instruction barred? | Those wholly maintained out of State funds (Art. 28(1)). |
-| Which case introduced the 'essential practices' test? | *Shirur Mutt* (1954). |
-| Which case set aside triple talaq? | *Shayara Bano v. Union of India* (2017). |
-| Who dissented in Sabarimala (2018)? | Indu Malhotra J. |
-| Which case held secularism a basic feature? | *S.R. Bommai v. Union of India* (1994). |
+- [A-84](question-bank/section-a-part-3.md#a-84) Article 25(1): freedom of conscience and religion
+- [A-85](question-bank/section-a-part-3.md#a-85) Right to propagate religion
+- [A-86](question-bank/section-a-part-3.md#a-86) Essential religious practices (ERP)
+- [A-87](question-bank/section-a-part-3.md#a-87) Article 25(2): State regulation and reform
+- [A-88](question-bank/section-a-part-3.md#a-88) Explanations I and II to Article 25
+- [A-89](question-bank/section-a-part-3.md#a-89) Article 26: freedom to manage religious affairs
+- [A-90](question-bank/section-a-part-3.md#a-90) Article 25 and Article 26 distinguished
+- [A-91](question-bank/section-a-part-3.md#a-91) Article 27: no tax for promotion of a religion
+- [A-92](question-bank/section-a-part-3.md#a-92) Article 28: religious instruction in educational institutions
+- [A-93](question-bank/section-a-part-3.md#a-93) *M. Ismail Faruqui v. Union of India* (1994)
+- [A-94](question-bank/section-a-part-3.md#a-94) Triple talaq: *Shayara Bano v. Union of India* (2017)
+- [A-95](question-bank/section-a-part-3.md#a-95) Sabarimala: *Indian Young Lawyers Association v. State of Kerala* (2018)
+- [A-96](question-bank/section-a-part-3.md#a-96) The hijab case
 
 ---
 
