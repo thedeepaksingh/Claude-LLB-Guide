@@ -20,6 +20,7 @@ Work proceeds **one paper at a time**. A paper's branch is merged into `main` on
 
 - [`docs/00-syllabus-map.md`](docs/00-syllabus-map.md): the official syllabus, unit by unit, with source
 - [`docs/01-gaps-and-open-questions.md`](docs/01-gaps-and-open-questions.md): what is still unconfirmed (exam pattern, syllabus version) and where the law has moved beyond the syllabus
+- [`docs/02-exam-pattern-and-past-papers.md`](docs/02-exam-pattern-and-past-papers.md): the real exam pattern, 20 previous-year papers, topic-frequency tables
 - [`docs/WORKFLOW.md`](docs/WORKFLOW.md): branching, time-stamped logging, conventions
 - [`CHANGELOG.md`](CHANGELOG.md): IST-timestamped log of every major change
 
