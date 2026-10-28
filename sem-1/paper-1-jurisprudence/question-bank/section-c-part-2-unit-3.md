@@ -89,7 +89,7 @@ Austin began with the general term "law" (a rule laid down for the guidance of a
    - *Divine law*: the laws set by God to men. Outside jurisprudence.
    - *Human law*: laws set by men to men. These are of two kinds:
      - **Positive law** (law simply and strictly so called): set by political superiors, as such, to political inferiors. This is **the only subject-matter of jurisprudence**.
-     - **Positive morality**: set by men who are not political superiors, or not acting as such, for example a master's orders to his servant, or the rules of a club.
+     - **Positive morality**: set by men who are not political superiors, or not acting as such, for example the rules of a club or society.
 2. **Laws improperly so called:**
    - *By analogy*: rules of fashion and honour, and **international law**, which Austin called "positive international morality".
    - *By metaphor*: laws of science, such as the law of gravity.
