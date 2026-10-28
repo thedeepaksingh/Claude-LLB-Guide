@@ -6,8 +6,7 @@
 
 | # | Item | Why it matters | What I need from you |
 |---|------|----------------|----------------------|
-| A1 | **Question-paper pattern** (sections, how many questions to attempt, marks per question, long vs short vs objective) | The official syllabus PDF gives none. The Q&A in this repo is written in three tiers (long ≈ 10–15 marks, short note ≈ 5 marks, very short ≈ 2 marks). If your pattern differs, answer lengths and weightage should be re-cut. | Upload or paste **2–3 recent question papers** per subject (or the paper-pattern page from your college). |
-| A2 | **Syllabus version for your session** | The syllabus I found sits in the university's 2025/08 upload folder. A revised syllabus for 2026-27 may exist. | Confirm with the department, or share the syllabus PDF your college gave you. |
+| A2 | **Syllabus version and Paper IV code** | The syllabus I mapped (2025/08 upload) calls Paper IV "Indian Penal Code", code K-1004. The Dec 2024 and Dec 2025 papers are set on the **BNS** and printed **K-1006 / 11313**. I could not find a revised official syllabus. | Confirm with the department, or share the syllabus PDF your college gave you. Until then Paper IV is written BNS-first with the IPC section beside it. |
 | A3 | **Internal assessment / assignments** | Not stated for Semester I in the official syllabus. Many colleges run internals separately. | Tell me if your college has assignments, class tests or viva that need material. |
 | A4 | **Medium of examination** (English / Hindi) | CCSU papers can be answered in either. Hindi terminology for key terms can be added. | Tell me if you want a Hindi-term glossary alongside English. |
 | A5 | **Which paper next?** | You asked for one paper at a time. I started with Paper I because it is first in the syllabus. | Say if another paper is more urgent. |
@@ -38,4 +37,5 @@
 
 ## Resolved items
 
-*(none yet)*
+- **A1 — Question-paper pattern. Resolved 2026-10-28.** All 20 papers (five subjects × December 2022, 2023, 2024, 2025) were read. The pattern is identical on every one: 3 hours, 100 marks; Section A all 5 × 4 marks (≤ 75 words); Section B any 2 of 3 × 10 marks (≤ 200 words); Section C any 3 of 5 × 20 marks. Details, frequency tables and printing quirks are in [`02-exam-pattern-and-past-papers.md`](02-exam-pattern-and-past-papers.md); questions in [`past-papers/`](past-papers/). The earlier three-tier plan (long ≈ 10–15 marks, short note ≈ 5, very short ≈ 2) did **not** match the real pattern and is replaced by 20 / 10 / 4.
+- **Official marking scheme — not found (2026-10-28).** Only the per-section instructions printed on the papers exist in public. The repo's mark splits are labelled "model rubric" (my own), not official.
