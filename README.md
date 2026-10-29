@@ -8,7 +8,7 @@ Each paper is written as a full revision pack: background, evolution, core conce
 
 | Paper | Code | Title | Branch | Status |
 |---|---|---|---|---|
-| I | K-1001 | Jurisprudence – I (Legal Theory) | `paper/01-jurisprudence` | In progress |
+| I | K-1001 | Jurisprudence – I (Legal Theory) | `paper/01-jurisprudence` | Notes and question bank (183 model answers, thinker and case digest, 3 mocks) drafted; awaiting review ([open](sem-1/paper-1-jurisprudence/README.md)) |
 | II | K-1002 | Constitutional Law of India – I | `paper/02-constitutional-law` | Not started |
 | III | K-1003 | Law of Torts (and Consumer Protection) | `paper/03-law-of-torts` | Not started |
 | IV | K-1004 | Law of Crimes – I (IPC / BNS) | `paper/04-law-of-crimes` | Not started |
@@ -20,6 +20,7 @@ Work proceeds **one paper at a time**. A paper's branch is merged into `main` on
 
 - [`docs/00-syllabus-map.md`](docs/00-syllabus-map.md): the official syllabus, unit by unit, with source
 - [`docs/01-gaps-and-open-questions.md`](docs/01-gaps-and-open-questions.md): what is still unconfirmed (exam pattern, syllabus version) and where the law has moved beyond the syllabus
+- [`docs/02-exam-pattern-and-past-papers.md`](docs/02-exam-pattern-and-past-papers.md): the real exam pattern, 20 previous-year papers, topic-frequency tables
 - [`docs/WORKFLOW.md`](docs/WORKFLOW.md): branching, time-stamped logging, conventions
 - [`CHANGELOG.md`](CHANGELOG.md): IST-timestamped log of every major change
 
