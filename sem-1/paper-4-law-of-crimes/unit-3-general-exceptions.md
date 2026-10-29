@@ -13,7 +13,7 @@
 
 1. **Meaning.** A **general exception** is a circumstance in which an act that would otherwise be an offence is **not** an offence, because the law either **excuses** the actor (no culpable mind: infancy, insanity, involuntary intoxication, mistake of fact, accident) or **justifies** the act (private defence, necessity, acts done in good faith for another's benefit, judicial acts).
 2. **Where they sit.** BNS Chapter III, **General Exceptions**, ss. 14–44 ‡ (IPC Chapter IV, ss. 76–106). They apply to **every** offence in the Sanhita and other penal laws unless excluded, subject to s. 1 and to the special laws' own rules.
-3. **Burden of proof.** The prosecution must prove the offence. When the accused pleads a general exception, the burden of proving that the case falls within it is on him: Evidence Act s. 105 (BSA 2023, corresponding section †). The court **presumes absence of the circumstances** until the accused proves them, but he need only show a **preponderance of probabilities**, not prove beyond reasonable doubt (*Dahyabhai Chhaganbhai Thakker v. State of Gujarat* AIR 1964 SC 1563 for insanity †; *Partap v. State of U.P.* (1976) 1 SCC 203 †). In the case of private defence, the accused need not even plead it if the evidence shows it (*Munshi Ram v. Delhi Administration* AIR 1968 SC 702 †).
+3. **Burden of proof.** The prosecution must prove the offence. When the accused pleads a general exception, the burden of proving that the case falls within it is on him: Evidence Act s. 105 (BSA 2023 s. 108 †). The court **presumes absence of the circumstances** until the accused proves them, but he need only show a **preponderance of probabilities**, not prove beyond reasonable doubt (*Dahyabhai Chhaganbhai Thakker v. State of Gujarat* AIR 1964 SC 1563 for insanity †; *Partap v. State of U.P.* (1976) 1 SCC 203 †). In the case of private defence, the accused need not even plead it if the evidence shows it (*Munshi Ram v. Delhi Administration* AIR 1968 SC 702 †).
 4. **Excuse and justification.** Excuses (infancy, insanity) lead to **acquittal** because there is no guilty mind. Justifications (private defence) make the act **lawful**, and a person may resist a justified act only if the law gives another right of defence.
 
 **Section map**
@@ -103,7 +103,7 @@ BNS s. 22 (as IPC s. 84): *"Nothing is an offence which is done by a person who,
 1. **Unsoundness of mind**: not defined in the Code. Courts take it as a mental condition, not necessarily a medical disease, which prevents the cognitive faculties from working.
 2. **At the time of the act**: the accused must have been insane at the **material time**, not before or after.
 3. **Incapable of knowing** (i) the **nature of the act**, or (ii) that it is **wrong or contrary to law**. It is a **cognitive** test, not a test of will.
-4. **Burden on the accused**, on a preponderance of probabilities (Evidence Act s. 105; BSA †).
+4. **Burden on the accused**, on a preponderance of probabilities (Evidence Act s. 105; BSA s. 108 †).
 
 ### 7.3 Legal insanity and medical insanity
 
@@ -344,6 +344,6 @@ If a person, in the exercise in good faith of the right of private defence, **ex
 - [ ] BNS s. 22 wording ("unsoundness of mind") and s. 38 fourth clause
 - [ ] BNS s. 41 four cases, s. 43 continuance of the right
 - [ ] BNS s. 37 (IPC 99) text and Explanations
-- [ ] BSA 2023 section equivalent to Evidence Act s. 105 (burden of proving exceptions)
+- [ ] BSA 2023 s. 108 as the successor to Evidence Act s. 105 (burden of proving exceptions)
 - [ ] BNSS ss. 367–369 (unsound accused) numbers
 - [ ] Case reports marked †
