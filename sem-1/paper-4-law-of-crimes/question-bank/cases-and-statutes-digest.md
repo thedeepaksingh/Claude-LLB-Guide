@@ -44,7 +44,7 @@
 | **BNS s. 2(36), 2(37); IPC s. 23** | Wrongful gain; wrongful loss | ‡ | A-11, B-48, C-19 |
 | **BNS s. 3(4); IPC s. 32** | Acts include illegal omissions | ‡ | A-06, A-07, B-02, B-05, C-01, C-03 |
 | **BNS s. 3(5); IPC s. 34** | Common intention: acts done by several persons in furtherance of the common intention of all | † (sub-section number) | A-28, A-29, A-30, A-34, B-04, B-15, B-17, B-18, C-01, C-03 and 3 more |
-| **BNS s. 4; IPC s. 53** | Punishments: death, imprisonment for life, imprisonment (rigorous or simple), fine, community service | † (the list and order; the community-service Explanation was not checked) | A-21, A-23, B-11, B-12, B-13, C-04 |
+| **BNS s. 4; IPC s. 53** | Punishments: death, imprisonment for life, imprisonment (rigorous or simple), forfeiture of property, fine, community service | † (the list and order; the community-service Explanation was not checked) | A-21, A-23, B-11, B-12, B-13, C-04 |
 | **BNS s. 6; IPC s. 57** | Fractions of terms: life imprisonment is reckoned as twenty years for fractions | † | A-24, C-02, C-04 |
 | **BNS s. 8; IPC s. 63** | Amount of fine | † | C-04 |
 
