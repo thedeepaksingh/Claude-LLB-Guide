@@ -73,7 +73,7 @@
 | **1. Dishonest intention** | Intention to cause **wrongful gain to one person or wrongful loss to another** (s. 2(7), 2(36), 2(37)); the intention must exist **at the time of the moving** |
 | **2. Movable property** | Corporeal movable property (s. 2(21)); land and things attached to the earth are not, until severed. Things not in anyone's possession (wild animals at large, lost or abandoned things) cannot be stolen; electricity is movable property for theft by the Electricity Act, 2003 (s. 135) † |
 | **3. Out of the possession of another** | The property is in the **possession** of a person (actual or constructive), not just owned by him. A servant's custody is the master's possession (the servant illustration); a thing in a house is in the occupier's possession |
-| **4. Without consent** | Consent may be express or implied (Explanation 5). Consent obtained by fear or fraud is not consent for this purpose |
+| **4. Without consent** | Consent may be express or implied (Explanation 5). Where the owner is made to hand the property over by fear or deceit, the offence is more likely extortion or cheating than theft (§4.5, §8) |
 | **5. Moving** | Some **moving** of the property to effect the taking (Explanations 1–4). It is not necessary that the thief takes it away; a mere moving suffices |
 
 ### 2.3 Leading cases
