@@ -1,12 +1,23 @@
 # Paper III · Law of Torts including Consumer Protection Law (K-1003) · Unit 5
 ## Consumer Protection Act, 2019: consumer, service, contract of service and for service, deficiency, Commissions, complaint, product liability, CCPA
 
-> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
+> **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
 > **Verify before exam:** section numbers in the Act, the pecuniary limits (§6.2), case citations in §11 and the "current developments" in §12 (checklist at the end).
 > **Syllabus line (official):** *Consumer Protection Act — consumer: definition and concept; contract of service and contract for service; enforcement of consumer rights.*
 > **Naming.** The Dec 2022 paper still uses the **old** names ("District Consumer Disputes Redressal **Forum**") from the 1986 Act. The 2019 Act calls them **Commissions** (District, State, National). Write the name used in the question, and add the new name in brackets.
 
-**How this unit is examined.** (filled in by the generator)
+**How this unit has been examined (December 2022–2025).** 8 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q11 (20): Who is a Consumer? What is meant by 'Deficiency in Service'? Explain with the help of decided cases. → [C-22](question-bank/section-c-part-5-unit-5.md#c-22)
+- Dec 2024 Q7 (10): Write a short note on District Consumer redressal forum. → [B-52](question-bank/section-b-part-5-unit-5.md#b-52)
+- Dec 2024 Q13 (20): How complaint is written? Write down the procedure of formulation of the complaint before State Consumer Dispute Redr… → [C-24](question-bank/section-c-part-5-unit-5.md#c-24)
+- Dec 2023 Q3 (4): What is meant by "Deficiency in Service"? → [A-115](question-bank/section-a-part-5-unit-5.md#a-115)
+- Dec 2023 Q6 (10): Explain and distinguish between 'Contract of Service' and 'Contract for Service' citing suitable examples. → [B-51](question-bank/section-b-part-5-unit-5.md#b-51)
+- Dec 2023 Q11 (20): Discuss the powers and Jurisdiction of District Consumer redressal forum. → [C-23](question-bank/section-c-part-5-unit-5.md#c-23)
+- Dec 2022 Q4 (4): Write down the composition of the District Consumer Disputes Redressal Forum. → [A-122](question-bank/section-a-part-5-unit-5.md#a-122)
+- Dec 2022 Q10 (20): How complaint is written? Write down the procedure of formulation of the complaint before District Consumer Disputes… → [C-24](question-bank/section-c-part-5-unit-5.md#c-24)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-3-law-of-torts.md`](../../docs/past-papers/paper-3-law-of-torts.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -276,7 +287,55 @@ The Commission may, at the first hearing, direct the parties to try **mediation*
 
 ## 14. Question bank (model answers)
 
-(filled in by the generator)
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". Every rubric in the bank is my own; the university publishes no marking scheme. Cases and statutes: [`cases-and-statutes-digest.md`](question-bank/cases-and-statutes-digest.md) (case entries for this unit: 79–84). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
+
+**Section C (20 marks)**
+
+- [C-22](question-bank/section-c-part-5-unit-5.md#c-22) Who is a consumer? What is meant by deficiency in service? Explain with the help of decided cases *(set Dec 2025 Q11)*
+- [C-23](question-bank/section-c-part-5-unit-5.md#c-23) Discuss the powers and jurisdiction of the District Consumer Disputes Redressal Forum (Commission). How do the State and National Commissions differ? *(set Dec 2023 Q11)*
+- [C-24](question-bank/section-c-part-5-unit-5.md#c-24) How is a complaint written? Write down the procedure for formulating a complaint before the District (or State) Consumer Disputes Redressal Commission *(set Dec 2024 Q13; Dec 2022 Q10)*
+- [C-25](question-bank/section-c-part-5-unit-5.md#c-25) Explain the new features of the Consumer Protection Act, 2019: the Central Consumer Protection Authority, product liability, unfair contracts and e-commerce
+
+**Section B (10 marks)**
+
+- [B-51](question-bank/section-b-part-5-unit-5.md#b-51) Explain and distinguish "contract of service" and "contract for service", with examples *(set Dec 2023 Q6)*
+- [B-52](question-bank/section-b-part-5-unit-5.md#b-52) Write a short note on the District Consumer Disputes Redressal Forum (Commission) *(set Dec 2024 Q7)*
+- [B-53](question-bank/section-b-part-5-unit-5.md#b-53) Who is a consumer? Is a person buying goods for earning his livelihood a consumer?
+- [B-54](question-bank/section-b-part-5-unit-5.md#b-54) Distinguish deficiency in service from defect in goods. What is meant by deficiency in service?
+- [B-55](question-bank/section-b-part-5-unit-5.md#b-55) Explain unfair trade practice and unfair contract under the Consumer Protection Act, 2019
+- [B-56](question-bank/section-b-part-5-unit-5.md#b-56) Explain product liability under the Consumer Protection Act, 2019
+- [B-57](question-bank/section-b-part-5-unit-5.md#b-57) Explain the Central Consumer Protection Authority (CCPA): its establishment, powers and functions
+- [B-58](question-bank/section-b-part-5-unit-5.md#b-58) Explain limitation, appeals and enforcement of orders under the Consumer Protection Act, 2019
+- [B-59](question-bank/section-b-part-5-unit-5.md#b-59) What are the rights of consumers? Explain the Consumer Protection Councils
+- [B-60](question-bank/section-b-part-5-unit-5.md#b-60) Explain mediation and the regulation of e-commerce under the Consumer Protection Act, 2019
+
+**Section A (4 marks), 25 answers**
+
+- [A-111](question-bank/section-a-part-5-unit-5.md#a-111) Consumer
+- [A-112](question-bank/section-a-part-5-unit-5.md#a-112) Who is not a consumer
+- [A-113](question-bank/section-a-part-5-unit-5.md#a-113) Commercial purpose and self-employment
+- [A-114](question-bank/section-a-part-5-unit-5.md#a-114) Complaint and complainant
+- [A-115](question-bank/section-a-part-5-unit-5.md#a-115) Deficiency in service *(set Dec 2023 Q3)*
+- [A-116](question-bank/section-a-part-5-unit-5.md#a-116) Defect in goods
+- [A-117](question-bank/section-a-part-5-unit-5.md#a-117) "Service" under the Act
+- [A-118](question-bank/section-a-part-5-unit-5.md#a-118) Contract of personal service
+- [A-119](question-bank/section-a-part-5-unit-5.md#a-119) Unfair trade practice
+- [A-120](question-bank/section-a-part-5-unit-5.md#a-120) Unfair contract
+- [A-121](question-bank/section-a-part-5-unit-5.md#a-121) Consumer rights
+- [A-122](question-bank/section-a-part-5-unit-5.md#a-122) Composition of the District Commission (Forum) *(set Dec 2022 Q4)*
+- [A-123](question-bank/section-a-part-5-unit-5.md#a-123) Pecuniary jurisdiction of the Commissions
+- [A-124](question-bank/section-a-part-5-unit-5.md#a-124) Territorial jurisdiction
+- [A-125](question-bank/section-a-part-5-unit-5.md#a-125) State and National Commissions
+- [A-126](question-bank/section-a-part-5-unit-5.md#a-126) Limitation for consumer complaints
+- [A-127](question-bank/section-a-part-5-unit-5.md#a-127) Appeals under the Act
+- [A-128](question-bank/section-a-part-5-unit-5.md#a-128) Reliefs under s. 39
+- [A-129](question-bank/section-a-part-5-unit-5.md#a-129) Central Consumer Protection Authority
+- [A-130](question-bank/section-a-part-5-unit-5.md#a-130) Product liability
+- [A-131](question-bank/section-a-part-5-unit-5.md#a-131) Misleading advertisements
+- [A-132](question-bank/section-a-part-5-unit-5.md#a-132) Mediation
+- [A-133](question-bank/section-a-part-5-unit-5.md#a-133) E-commerce and the consumer
+- [A-134](question-bank/section-a-part-5-unit-5.md#a-134) Consumer Protection Councils
+- [A-135](question-bank/section-a-part-5-unit-5.md#a-135) Penalty for non-compliance with an order
 
 ---
 

@@ -1,11 +1,19 @@
 # Paper III · Law of Torts including Consumer Protection Law (K-1003) · Unit 4B
 ## Specific torts (2): Nuisance, trespass (to person, land and goods), false imprisonment, malicious prosecution and deceit
 
-> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
+> **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
 > **Verify before exam:** case citations in §9 and the "current developments" in §10 (checklist at the end).
 > **Syllabus line (official):** *Specific torts — negligence; nuisance; trespass; defamation.* Malicious prosecution and deceit are not named in the syllabus but are asked in the papers (deceit: Dec 2022 C11), so they are covered here.
 
-**How this unit is examined.** (filled in by the generator)
+**How this unit has been examined (December 2022–2025).** 5 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q2 (4): Define Trespass-ab-initio. → [A-95](question-bank/section-a-part-4-units-4b-4c.md#a-95)
+- Dec 2025 Q8 (10): What are the defences open in an action based on nuisance? → [B-38](question-bank/section-b-part-4-units-4b-4c.md#b-38)
+- Dec 2024 Q1 (4): What do you understand by Nuisance? → [A-85](question-bank/section-a-part-4-units-4b-4c.md#a-85)
+- Dec 2022 Q3 (4): Explain the ingredients of false imprisonment. → [A-98](question-bank/section-a-part-4-units-4b-4c.md#a-98)
+- Dec 2022 Q11 (20): What do you mean by fraud or deceit? What are the essentials of tort of deceit? Describe. → [C-21](question-bank/section-c-part-4-units-4b-4c.md#c-21)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-3-law-of-torts.md`](../../docs/past-papers/paper-3-law-of-torts.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -227,7 +235,45 @@ Passing off (misrepresentation that goods or services are the plaintiff's); inju
 
 ## 11. Question bank (model answers)
 
-(filled in by the generator)
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". Every rubric in the bank is my own; the university publishes no marking scheme. Cases and statutes: [`cases-and-statutes-digest.md`](question-bank/cases-and-statutes-digest.md) (case entries for this unit: 57–70). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
+
+**Section C (20 marks)**
+
+- [C-17](question-bank/section-c-part-4-units-4b-4c.md#c-17) Define nuisance. Distinguish public from private nuisance, and discuss the essentials of private nuisance, the defences and the remedies
+- [C-18](question-bank/section-c-part-4-units-4b-4c.md#c-18) What is trespass? Discuss trespass to the person, to land and to goods
+- [C-21](question-bank/section-c-part-4-units-4b-4c.md#c-21) What do you mean by fraud or deceit? What are the essentials of the tort of deceit? Describe *(set Dec 2022 Q11)*
+
+**Section B (10 marks)**
+
+- [B-37](question-bank/section-b-part-4-units-4b-4c.md#b-37) Distinguish between public nuisance and private nuisance
+- [B-38](question-bank/section-b-part-4-units-4b-4c.md#b-38) What defences are open in an action based on nuisance? *(set Dec 2025 Q8)*
+- [B-39](question-bank/section-b-part-4-units-4b-4c.md#b-39) Distinguish nuisance from negligence, trespass and the rule in *Rylands v. Fletcher*
+- [B-40](question-bank/section-b-part-4-units-4b-4c.md#b-40) Explain trespass to land and the doctrine of trespass *ab initio*
+- [B-41](question-bank/section-b-part-4-units-4b-4c.md#b-41) What are the ingredients of the tort of false imprisonment?
+- [B-42](question-bank/section-b-part-4-units-4b-4c.md#b-42) Distinguish between assault and battery
+- [B-43](question-bank/section-b-part-4-units-4b-4c.md#b-43) Explain trespass to goods and conversion
+- [B-44](question-bank/section-b-part-4-units-4b-4c.md#b-44) Explain the tort of malicious prosecution. How does it differ from false imprisonment?
+- [B-45](question-bank/section-b-part-4-units-4b-4c.md#b-45) Explain the tort of deceit and the rule in *Derry v. Peek*
+
+**Section A (4 marks), 17 answers**
+
+- [A-85](question-bank/section-a-part-4-units-4b-4c.md#a-85) Nuisance *(set Dec 2024 Q1)*
+- [A-86](question-bank/section-a-part-4-units-4b-4c.md#a-86) Public nuisance
+- [A-87](question-bank/section-a-part-4-units-4b-4c.md#a-87) Private nuisance
+- [A-88](question-bank/section-a-part-4-units-4b-4c.md#a-88) Public and private nuisance compared
+- [A-89](question-bank/section-a-part-4-units-4b-4c.md#a-89) Defences to nuisance
+- [A-90](question-bank/section-a-part-4-units-4b-4c.md#a-90) Prescription as a defence to nuisance
+- [A-91](question-bank/section-a-part-4-units-4b-4c.md#a-91) Coming to the nuisance
+- [A-92](question-bank/section-a-part-4-units-4b-4c.md#a-92) Remedies for nuisance
+- [A-93](question-bank/section-a-part-4-units-4b-4c.md#a-93) Trespass
+- [A-94](question-bank/section-a-part-4-units-4b-4c.md#a-94) Trespass to land
+- [A-95](question-bank/section-a-part-4-units-4b-4c.md#a-95) Trespass *ab initio *(set Dec 2025 Q2)*
+- [A-96](question-bank/section-a-part-4-units-4b-4c.md#a-96) Assault
+- [A-97](question-bank/section-a-part-4-units-4b-4c.md#a-97) Battery
+- [A-98](question-bank/section-a-part-4-units-4b-4c.md#a-98) False imprisonment *(set Dec 2022 Q3)*
+- [A-99](question-bank/section-a-part-4-units-4b-4c.md#a-99) Malicious prosecution
+- [A-100](question-bank/section-a-part-4-units-4b-4c.md#a-100) Conversion
+- [A-101](question-bank/section-a-part-4-units-4b-4c.md#a-101) Deceit
 
 ---
 

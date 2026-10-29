@@ -1,11 +1,18 @@
 # Paper III · Law of Torts including Consumer Protection Law (K-1003) · Unit 2
 ## Justifications in tort: volenti non fit injuria, necessity, inevitable accident and Act of God, statutory authority (and other defences)
 
-> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
+> **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
 > **Verify before exam:** case citations in §7 and the "current developments" in §8 (checklist at the end).
 > **Syllabus line (official):** *Justifications in tort — volenti non fit injuria; necessity; inevitable accident and Act of God; statutory authority.*
 
-**How this unit is examined.** (filled in by the generator)
+**How this unit has been examined (December 2022–2025).** 4 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q5 (4): Define inevitable accident. → [A-36](question-bank/section-a-part-1-units-1-2.md#a-36)
+- Dec 2025 Q6 (10): Harm suffered voluntarily is not actionable but mere knowledge of the risk is not enough for the application of this… → [B-15](question-bank/section-b-part-1-units-1-2.md#b-15)
+- Dec 2024 Q6 (10): Explain the distinction between "Inevitable accident and act of god." → [B-18](question-bank/section-b-part-1-units-1-2.md#b-18)
+- Dec 2023 Q9 (20): "It is the 'Consent' which is the basis of doctrine of Volenti non fit Injuria and not knowledge of the risk." Elucid… → [C-07](question-bank/section-c-part-1-units-1-2.md#c-07)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-3-law-of-torts.md`](../../docs/past-papers/paper-3-law-of-torts.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -219,7 +226,36 @@ An act **authorised by a statute** is not a tort even if it causes damage that w
 
 ## 10. Question bank (model answers)
 
-(filled in by the generator)
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". Every rubric in the bank is my own; the university publishes no marking scheme. Cases and statutes: [`cases-and-statutes-digest.md`](question-bank/cases-and-statutes-digest.md) (case entries for this unit: 18–28). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
+
+**Section C (20 marks)**
+
+- [C-05](question-bank/section-c-part-1-units-1-2.md#c-05) Who may sue and who may not be sued for a tort? Discuss the capacity of parties
+- [C-07](question-bank/section-c-part-1-units-1-2.md#c-07) "It is the *consent* which is the basis of the doctrine of *volenti non fit injuria*, and not knowledge of the risk." Elucidate with decided cases *(set Dec 2023 Q9)*
+- [C-08](question-bank/section-c-part-1-units-1-2.md#c-08) Discuss the defences of necessity, private defence and statutory authority in an action for tort
+- [C-09](question-bank/section-c-part-1-units-1-2.md#c-09) Distinguish inevitable accident from Act of God. Discuss both as defences in an action for tort
+
+**Section B (10 marks)**
+
+- [B-15](question-bank/section-b-part-1-units-1-2.md#b-15) "Harm suffered voluntarily is not actionable, but mere knowledge of the risk is not enough for the application of this rule." Discuss *(set Dec 2025 Q6)*
+- [B-16](question-bank/section-b-part-1-units-1-2.md#b-16) What are the exceptions to *volenti non fit injuria*?
+- [B-17](question-bank/section-b-part-1-units-1-2.md#b-17) Explain necessity and private defence as defences in tort
+- [B-18](question-bank/section-b-part-1-units-1-2.md#b-18) Explain the distinction between inevitable accident and Act of God *(set Dec 2024 Q6)*
+- [B-19](question-bank/section-b-part-1-units-1-2.md#b-19) Explain the defence of statutory authority
+- [B-20](question-bank/section-b-part-1-units-1-2.md#b-20) Write short notes on other defences in tort: plaintiff's default, mistake, act of a stranger and judicial acts
+
+**Section A (4 marks), 10 answers**
+
+- [A-31](question-bank/section-a-part-1-units-1-2.md#a-31) *Volenti non fit injuria
+- [A-32](question-bank/section-a-part-1-units-1-2.md#a-32) Knowledge is not consent
+- [A-33](question-bank/section-a-part-1-units-1-2.md#a-33) Rescue cases
+- [A-34](question-bank/section-a-part-1-units-1-2.md#a-34) Necessity
+- [A-35](question-bank/section-a-part-1-units-1-2.md#a-35) Private defence
+- [A-36](question-bank/section-a-part-1-units-1-2.md#a-36) Inevitable accident *(set Dec 2025 Q5)*
+- [A-37](question-bank/section-a-part-1-units-1-2.md#a-37) Act of God
+- [A-38](question-bank/section-a-part-1-units-1-2.md#a-38) Statutory authority
+- [A-39](question-bank/section-a-part-1-units-1-2.md#a-39) Plaintiff's default; mistake
+- [A-40](question-bank/section-a-part-1-units-1-2.md#a-40) Judicial acts
 
 ---
 

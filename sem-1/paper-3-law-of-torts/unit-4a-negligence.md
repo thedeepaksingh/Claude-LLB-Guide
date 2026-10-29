@@ -1,11 +1,21 @@
 # Paper III · Law of Torts including Consumer Protection Law (K-1003) · Unit 4A
 ## Specific torts (1): Negligence, including nervous shock, res ipsa loquitur, contributory negligence and professional negligence
 
-> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
+> **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
 > **Verify before exam:** case citations in §9 and the "current developments" in §10 (checklist at the end).
 > **Syllabus line (official):** *Specific torts — negligence; nuisance; trespass; defamation.* Unit 4 is split here into 4A (negligence), 4B (nuisance, trespass and other torts) and 4C (defamation).
 
-**How this unit is examined.** (filled in by the generator)
+**How this unit has been examined (December 2022–2025).** 7 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q7 (10): (Problem) A horse is left on the road with leg tied. A scooterist runs it and injures it. Can the owner of the horse… → [B-31](question-bank/section-b-part-3-unit-4a.md#b-31)
+- Dec 2024 Q3 (4): Explain the doctrine of 'Res Ipsa Loquitur'. → [A-75](question-bank/section-a-part-3-unit-4a.md#a-75)
+- Dec 2024 Q8 (10): In the light of Principle of Negligence, discuss the concept of "Nervous Shock". → [B-34](question-bank/section-b-part-3-unit-4a.md#b-34)
+- Dec 2023 Q2 (4): Explain "Res Ipsa Loquitor". → [A-75](question-bank/section-a-part-3-unit-4a.md#a-75)
+- Dec 2023 Q12 (20): In the light of Principle of Negligence discuss the concept of "Nervous Shock" referring to relevant decided case law… → [C-15](question-bank/section-c-part-3-unit-4a.md#c-15)
+- Dec 2022 Q1 (4): What are essential conditions of liability for negligence? → [A-64](question-bank/section-a-part-3-unit-4a.md#a-64)
+- Dec 2022 Q12 (20): What do you mean by negligence? Explain with the help of two rival theories the nature and definition of negligence. → [C-13](question-bank/section-c-part-3-unit-4a.md#c-13)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-3-law-of-torts.md`](../../docs/past-papers/paper-3-law-of-torts.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -189,7 +199,52 @@ Damages for personal injury (pain and suffering, loss of earnings, medical expen
 
 ## 11. Question bank (model answers)
 
-(filled in by the generator)
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". Every rubric in the bank is my own; the university publishes no marking scheme. Cases and statutes: [`cases-and-statutes-digest.md`](question-bank/cases-and-statutes-digest.md) (case entries for this unit: 42–56). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
+
+**Section C (20 marks)**
+
+- [C-13](question-bank/section-c-part-3-unit-4a.md#c-13) What do you mean by negligence? Explain, with the help of the two rival theories, the nature and definition of negligence. What are its essentials? *(set Dec 2022 Q12)*
+- [C-14](question-bank/section-c-part-3-unit-4a.md#c-14) Explain the doctrine of *res ipsa loquitur*, and discuss contributory negligence as a defence in an action for negligence
+- [C-15](question-bank/section-c-part-3-unit-4a.md#c-15) In the light of the principle of negligence, discuss the concept of "nervous shock", referring to relevant decided cases *(set Dec 2023 Q12)*
+- [C-16](question-bank/section-c-part-3-unit-4a.md#c-16) Discuss professional negligence, with particular reference to the liability of doctors
+
+**Section B (10 marks)**
+
+- [B-27](question-bank/section-b-part-3-unit-4a.md#b-27) What are the essential conditions of liability for negligence?
+- [B-28](question-bank/section-b-part-3-unit-4a.md#b-28) Explain how the law decides whether a duty of care exists
+- [B-29](question-bank/section-b-part-3-unit-4a.md#b-29) Explain the standard of care required of a reasonable man
+- [B-30](question-bank/section-b-part-3-unit-4a.md#b-30) Explain causation and remoteness of damage in negligence
+- [B-31](question-bank/section-b-part-3-unit-4a.md#b-31) (Problem) A horse is left on the road with its leg tied. A scooterist runs into it and injures it. Can the owner of the horse recover damages? *(set Dec 2025 Q7)*
+- [B-32](question-bank/section-b-part-3-unit-4a.md#b-32) Explain the doctrine of *res ipsa loquitur*
+- [B-33](question-bank/section-b-part-3-unit-4a.md#b-33) Explain contributory negligence and its effect on damages
+- [B-34](question-bank/section-b-part-3-unit-4a.md#b-34) In the light of the principle of negligence, discuss "nervous shock" *(set Dec 2024 Q8)*
+- [B-35](question-bank/section-b-part-3-unit-4a.md#b-35) Explain medical negligence in civil and criminal law
+- [B-36](question-bank/section-b-part-3-unit-4a.md#b-36) Explain liability for negligent misstatement and pure economic loss
+
+**Section A (4 marks), 22 answers**
+
+- [A-63](question-bank/section-a-part-3-unit-4a.md#a-63) Meaning of negligence
+- [A-64](question-bank/section-a-part-3-unit-4a.md#a-64) Essential conditions of liability for negligence *(set Dec 2022 Q1)*
+- [A-65](question-bank/section-a-part-3-unit-4a.md#a-65) Subjective theory of negligence
+- [A-66](question-bank/section-a-part-3-unit-4a.md#a-66) Objective theory of negligence
+- [A-67](question-bank/section-a-part-3-unit-4a.md#a-67) *Donoghue v. Stevenson* (1932)
+- [A-68](question-bank/section-a-part-3-unit-4a.md#a-68) The neighbour principle
+- [A-69](question-bank/section-a-part-3-unit-4a.md#a-69) The *Caparo* test
+- [A-70](question-bank/section-a-part-3-unit-4a.md#a-70) The reasonable man
+- [A-71](question-bank/section-a-part-3-unit-4a.md#a-71) The *Bolam* test
+- [A-72](question-bank/section-a-part-3-unit-4a.md#a-72) The "but for" test
+- [A-73](question-bank/section-a-part-3-unit-4a.md#a-73) *The Wagon Mound* (1961)
+- [A-74](question-bank/section-a-part-3-unit-4a.md#a-74) Thin-skull (egg-shell skull) rule
+- [A-75](question-bank/section-a-part-3-unit-4a.md#a-75) *Res ipsa loquitur *(set Dec 2024 Q3; Dec 2023 Q2)*
+- [A-76](question-bank/section-a-part-3-unit-4a.md#a-76) Conditions of *res ipsa loquitur
+- [A-77](question-bank/section-a-part-3-unit-4a.md#a-77) Contributory negligence
+- [A-78](question-bank/section-a-part-3-unit-4a.md#a-78) *Davies v. Mann* (1842) and the last opportunity rule
+- [A-79](question-bank/section-a-part-3-unit-4a.md#a-79) Nervous shock
+- [A-80](question-bank/section-a-part-3-unit-4a.md#a-80) Primary and secondary victims
+- [A-81](question-bank/section-a-part-3-unit-4a.md#a-81) *Hedley Byrne v. Heller* (1964)
+- [A-82](question-bank/section-a-part-3-unit-4a.md#a-82) Medical negligence
+- [A-83](question-bank/section-a-part-3-unit-4a.md#a-83) *Jacob Mathew v. State of Punjab* (2005)
+- [A-84](question-bank/section-a-part-3-unit-4a.md#a-84) Employer's duty to employees
 
 ---
 

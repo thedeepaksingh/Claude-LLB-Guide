@@ -1,11 +1,22 @@
 # Paper III · Law of Torts including Consumer Protection Law (K-1003) · Unit 3
 ## Liability for torts committed by others: vicarious liability, liability of the State, joint tortfeasors
 
-> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
+> **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
 > **Verify before exam:** case citations in §7 and the "current developments" in §8 (checklist at the end).
 > **Syllabus line (official):** *Liability for torts committed by others — vicarious liability; liability of the State (sovereign immunity); joint tort-feasors.*
 
-**How this unit is examined.** (filled in by the generator)
+**How this unit has been examined (December 2022–2025).** 8 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q3 (4): Distinguish between 'Contract of Service' and 'Contract for Service'. → [A-44](question-bank/section-a-part-2-unit-3.md#a-44)
+- Dec 2025 Q4 (4): What is meant by 'Joint Tortfeasors'? → [A-58](question-bank/section-a-part-2-unit-3.md#a-58)
+- Dec 2025 Q12 (20): In what classes of cases and on what grounds may one person sue and be sued for a tort committed to and by another? → [C-10](question-bank/section-c-part-2-unit-3.md#c-10)
+- Dec 2024 Q10 (20): "The old distinction between Sovereign and Non-sovereign functions or Governmental and Non-governmental functions are… → [C-11](question-bank/section-c-part-2-unit-3.md#c-11)
+- Dec 2024 Q12 (20): What do you mean by Joint Tort-feasors? Discuss the nature and extent of liability of Joint-tort feasors citing relev… → [C-12](question-bank/section-c-part-2-unit-3.md#c-12)
+- Dec 2023 Q8 (10): Discuss 'Vicarious Liability' with reference to Master-Servant relation. → [B-21](question-bank/section-b-part-2-unit-3.md#b-21)
+- Dec 2023 Q10 (20): What is meant by 'Joint-Tort-feasors'? Discuss the nature and extent of liability of Joint-Tort-feasors citing releva… → [C-12](question-bank/section-c-part-2-unit-3.md#c-12)
+- Dec 2022 Q9 (20): What are the main incidents of master's liability for the wrong done by servants in the course of their employment? → [C-10](question-bank/section-c-part-2-unit-3.md#c-10)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-3-law-of-torts.md`](../../docs/past-papers/paper-3-law-of-torts.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -105,7 +116,7 @@ An employer is **not liable** for the torts of an independent contractor *except
 ### 3.1 The rule of sovereign immunity (history)
 1. **English law.** "The King can do no wrong"; the Crown could not be sued in tort without its consent. The **Crown Proceedings Act, 1947** (UK) made the Crown liable like a private person.
 2. **India under the Company and the Crown.** The East India Company was a trading company with sovereign powers. *Peninsular & Oriental Steam Navigation Co. v. Secretary of State for India* (1861) 5 Bom HCR App 1 (Peacock C.J.): the Secretary of State was liable when a horse of the plaintiff was injured by the negligence of Government servants working in the Government dockyard at Kidderpore (Calcutta) †, because the act was done in the conduct of an **undertaking which a private person could carry on**, but he would not have been liable if it was done in the exercise of **sovereign** powers (waging war, taking prisoners, etc.). This is the origin of the sovereign / non-sovereign distinction in India.
-3. **After 1861.** *Secretary of State v. Hari Bhanji* (1882) 5 Mad 273 and *Nobin Chunder Dey v. Secretary of State* (1875) 1 Cal 11 gave the Government liability for non-sovereign acts. The Government of India Acts of 1858, 1915 and 1935 (s. 176) kept the position, and **Art. 300(1)** of the Constitution continued it: the Union and State may sue and be sued **in the like cases as the Dominion and the Provinces** might have been, subject to any law made by Parliament or the State legislature. No such general law has been made.
+3. **After 1861.** *Secretary of State v. Hari Bhanji* (1882) 5 Mad 273 † and *Nobin Chunder Dey v. Secretary of State* (1875) 1 Cal 11 † gave the Government liability for non-sovereign acts (I could not confirm the facts of either, so the model answers do not rely on them). The Government of India Acts of 1858, 1915 and 1935 (s. 176) kept the position, and **Art. 300(1)** of the Constitution continued it: the Union and State may sue and be sued **in the like cases as the Dominion and the Provinces** might have been, subject to any law made by Parliament or the State legislature. No such general law has been made.
 
 ### 3.2 The Supreme Court's cases
 
@@ -153,7 +164,7 @@ Persons whose independent acts contribute to the same damage are **not** joint t
 ### 4.3 Nature and extent of liability
 1. **Joint and several liability.** Each tortfeasor is liable for the **whole damage**. The plaintiff can sue all together, or any one, and recover the full amount from anyone (but only once).
 2. **Judgment.** At common law judgment against one barred an action against the others (*Brinsmead v. Harrison* (1872) LR 7 CP 547). This rule was removed in England by the Law Reform (Married Women and Tortfeasors) Act, 1935 and the Civil Liability (Contribution) Act, 1978 (s. 3). India has no statute on the point, and the Indian courts' practice is not settled in the sources I could check †.
-3. **Release.** A **release** of one joint tortfeasor releases all (*Cocke v. Jennor* (1614); *Duck v. Mayeu* [1892] 2 QB 511), but a **covenant not to sue** one does not release the others. A settlement with one tortfeasor that is accepted in full satisfaction of the whole claim extinguishes the claim against the others (*Jameson v. CEGB* [2000] 1 AC 455).
+3. **Release.** A **release** of one joint tortfeasor releases all (*Cocke v. Jennor* (1614); *Duck v. Mayeu* [1892] 2 QB 511 †), but a **covenant not to sue** one does not release the others. A settlement with one tortfeasor that is accepted in full satisfaction of the whole claim extinguishes the claim against the others (*Jameson v. CEGB* [2000] 1 AC 455).
 4. **Contribution.** The old rule was **no contribution** between wrongdoers (*Merryweather v. Nixan* (1799) 8 TR 186). The English 1935 and 1978 Acts allow a tortfeasor who has paid more than his share to claim contribution from the others, the court deciding what is "just and equitable" having regard to the responsibility of each. India has **no general statute** on contribution between tortfeasors (†); the courts apply the English principle of equitable contribution among those who are not knowing wrongdoers.
 5. **Indemnity.** A master who is made liable vicariously for his servant's tort has a right to be indemnified by the servant, and an agent who commits a tort at the principal's request is entitled to an indemnity unless he knew it was a wrong.
 
@@ -212,7 +223,7 @@ The question asks for the **classes of cases and the grounds** on which a person
 | Course of employment | *Limpus* (1862); *Beard* (1900); *Century Insurance* (1942); *Lloyd v. Grace, Smith* (1912); *Warren v. Henlys* (1948); *Mohamud* (2016); *Morrison* (2020) |
 | Independent contractor | *Honeywill v. Larkin* (1934); *Bower v. Peate* (1876); *Dalton v. Angus* (1881) |
 | State liability | *P&O* (1861); *Vidhyawati* (1962); *Kasturilal* (1965); *Nilabati Behera* (1993); *Nagendra Rao* (1994); *Chandrima Das* (2000); *Rudul Sah* (1983); *D.K. Basu* (1997) |
-| Joint tortfeasors | *The Koursk* (1924); *Brooke v. Bool* (1928); *Thompson v. LCC* (1899); *Brinsmead v. Harrison* (1872); *Duck v. Mayeu* (1892); *Merryweather v. Nixan* (1799) |
+| Joint tortfeasors | *The Koursk* (1924); *Brooke v. Bool* (1928); *Thompson v. LCC* (1899); *Brinsmead v. Harrison* (1872); *Duck v. Mayeu* (1892) †; *Merryweather v. Nixan* (1799) |
 
 **Quick-revision box**
 - Vicarious liability needs: (i) a tort by the servant; (ii) a master-servant (or similar) relationship; (iii) the tort in the course of employment.
@@ -225,7 +236,47 @@ The question asks for the **classes of cases and the grounds** on which a person
 
 ## 8. Question bank (model answers)
 
-(filled in by the generator)
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". Every rubric in the bank is my own; the university publishes no marking scheme. Cases and statutes: [`cases-and-statutes-digest.md`](question-bank/cases-and-statutes-digest.md) (case entries for this unit: 29–41). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
+
+**Section C (20 marks)**
+
+- [C-10](question-bank/section-c-part-2-unit-3.md#c-10) Vicarious liability: the main incidents of a master's liability for his servant's wrongs; classes of cases in which one person may sue or be sued for a tort to or by another *(set Dec 2025 Q12; Dec 2022 Q9)*
+- [C-11](question-bank/section-c-part-2-unit-3.md#c-11) "The old distinction between sovereign and non-sovereign functions is no longer invoked to determine the liability of the State." Do you agree? Comment with the help of decided cases *(set Dec 2024 Q10)*
+- [C-12](question-bank/section-c-part-2-unit-3.md#c-12) What do you mean by joint tortfeasors? Discuss the nature and extent of the liability of joint tortfeasors, citing relevant case laws *(set Dec 2024 Q12; Dec 2023 Q10)*
+
+**Section B (10 marks)**
+
+- [B-21](question-bank/section-b-part-2-unit-3.md#b-21) Discuss vicarious liability with reference to the master-servant relation *(set Dec 2023 Q8)*
+- [B-22](question-bank/section-b-part-2-unit-3.md#b-22) When is a servant's wrong "in the course of his employment"?
+- [B-23](question-bank/section-b-part-2-unit-3.md#b-23) When is an employer liable for the torts of an independent contractor?
+- [B-24](question-bank/section-b-part-2-unit-3.md#b-24) Explain the liability of the State in tort. Is sovereign immunity still available?
+- [B-25](question-bank/section-b-part-2-unit-3.md#b-25) Explain public-law compensation for violation of fundamental rights by the State
+- [B-26](question-bank/section-b-part-2-unit-3.md#b-26) Who are joint tortfeasors? State the nature of their liability
+
+**Section A (4 marks), 22 answers**
+
+- [A-41](question-bank/section-a-part-2-unit-3.md#a-41) Vicarious liability
+- [A-42](question-bank/section-a-part-2-unit-3.md#a-42) *Qui facit per alium facit per se* and *respondeat superior
+- [A-43](question-bank/section-a-part-2-unit-3.md#a-43) Tests to identify a servant
+- [A-44](question-bank/section-a-part-2-unit-3.md#a-44) Contract of service and contract for service *(set Dec 2025 Q3)*
+- [A-45](question-bank/section-a-part-2-unit-3.md#a-45) Course of employment
+- [A-46](question-bank/section-a-part-2-unit-3.md#a-46) Salmond's test of course of employment
+- [A-47](question-bank/section-a-part-2-unit-3.md#a-47) Liability for independent contractors
+- [A-48](question-bank/section-a-part-2-unit-3.md#a-48) Principal and agent
+- [A-49](question-bank/section-a-part-2-unit-3.md#a-49) Partners and companies
+- [A-50](question-bank/section-a-part-2-unit-3.md#a-50) Borrowed servant
+- [A-51](question-bank/section-a-part-2-unit-3.md#a-51) Sovereign immunity
+- [A-52](question-bank/section-a-part-2-unit-3.md#a-52) *P. & O. Steam Navigation Co. v. Secretary of State for India* (1861)
+- [A-53](question-bank/section-a-part-2-unit-3.md#a-53) Article 300 of the Constitution
+- [A-54](question-bank/section-a-part-2-unit-3.md#a-54) *Kasturilal Ralia Ram Jain v. State of U.P.* (1965)
+- [A-55](question-bank/section-a-part-2-unit-3.md#a-55) *State of Rajasthan v. Vidhyawati* (1962)
+- [A-56](question-bank/section-a-part-2-unit-3.md#a-56) Public-law compensation
+- [A-57](question-bank/section-a-part-2-unit-3.md#a-57) Notice under CPC s. 80
+- [A-58](question-bank/section-a-part-2-unit-3.md#a-58) Joint tortfeasors *(set Dec 2025 Q4)*
+- [A-59](question-bank/section-a-part-2-unit-3.md#a-59) Test in *The Koursk* (1924)
+- [A-60](question-bank/section-a-part-2-unit-3.md#a-60) Contribution between tortfeasors
+- [A-61](question-bank/section-a-part-2-unit-3.md#a-61) Release of a joint tortfeasor
+- [A-62](question-bank/section-a-part-2-unit-3.md#a-62) Composite negligence
 
 ---
 

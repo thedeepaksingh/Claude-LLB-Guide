@@ -1,11 +1,28 @@
 # Paper III · Law of Torts including Consumer Protection Law (K-1003) · Unit 1
 ## Torts and tortious liability: nature, constituents, fault, damage without injury, parties, strict and absolute liability
 
-> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
+> **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
 > **Verify before exam:** case citations in §6 and the "current developments" in §8 (checklist at the end).
 > **Syllabus line (official):** *Torts and tortious liability — definition, nature, characteristics; constituents of tort; fault; damnum sine injuria / injuria sine damno; mental element (malice, negligence, motive); who may sue and who may not be sued; strict and absolute liability.*
 
-**How this unit is examined.** (filled in by the generator)
+**How this unit has been examined (December 2022–2025).** 14 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q9 (20): "The mere causing of actual loss to another is not necessarily a tort but the mere wrong without any actual loss is a… → [C-02](question-bank/section-c-part-1-units-1-2.md#c-02)
+- Dec 2025 Q13 (20): Discuss the rule laid down in Rylands vs Fletcher. Are there any exceptions to this rule? Discuss. → [C-04](question-bank/section-c-part-1-units-1-2.md#c-04)
+- Dec 2024 Q2 (4): What do you understand by 'Pigeon Hole Theory'? → [A-07](question-bank/section-a-part-1-units-1-2.md#a-07)
+- Dec 2024 Q4 (4): Explain 'Damnum Sine Injuria'. → [A-10](question-bank/section-a-part-1-units-1-2.md#a-10)
+- Dec 2024 Q5 (4): What do you mean by 'Strict Liability'? → [A-24](question-bank/section-a-part-1-units-1-2.md#a-24)
+- Dec 2024 Q9 (20): The mere causing of actual loss to another is not necessarily a tort but the mere wrong without any actual loss is a… → [C-02](question-bank/section-c-part-1-units-1-2.md#c-02)
+- Dec 2023 Q1 (4): Define Tort and point out its main characteristics. → [A-02](question-bank/section-a-part-1-units-1-2.md#a-02)
+- Dec 2023 Q5 (4): Give reasons for award of unliquidated damages in Torts. → [A-14](question-bank/section-a-part-1-units-1-2.md#a-14)
+- Dec 2023 Q7 (10): Briefly explain the maxim "Injuria Sine Damnum" with the help of relevant decided case-laws. [sic — printed as "Injur… → [B-05](question-bank/section-b-part-1-units-1-2.md#b-05)
+- Dec 2022 Q2 (4): What is the difference between tort and crime? → [A-05](question-bank/section-a-part-1-units-1-2.md#a-05)
+- Dec 2022 Q5 (4): On what principle the maxim Damnum Sine Injuria underlies? → [A-11](question-bank/section-a-part-1-units-1-2.md#a-11)
+- Dec 2022 Q6 (10): When a right to action for a tort comes to an end or discharged? → [B-07](question-bank/section-b-part-1-units-1-2.md#b-07)
+- Dec 2022 Q7 (10): Explain the difference between tort and contract. → [B-02](question-bank/section-b-part-1-units-1-2.md#b-02)
+- Dec 2022 Q8 (10): What are necessary conditions of liability for foreign tort? → [B-08](question-bank/section-b-part-1-units-1-2.md#b-08)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-3-law-of-torts.md`](../../docs/past-papers/paper-3-law-of-torts.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -275,7 +292,66 @@ Any person can sue and be sued in tort. The exceptions below are **limits of cap
 
 ## 10. Question bank (model answers)
 
-(filled in by the generator)
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". Every rubric in the bank is my own; the university publishes no marking scheme. Cases and statutes: [`cases-and-statutes-digest.md`](question-bank/cases-and-statutes-digest.md) (case entries for this unit: 1–17). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
+
+**Section C (20 marks)**
+
+- [C-01](question-bank/section-c-part-1-units-1-2.md#c-01) Define tort. Discuss its nature and characteristics, and distinguish it from crime and contract
+- [C-02](question-bank/section-c-part-1-units-1-2.md#c-02) "The mere causing of actual loss to another is not necessarily a tort, but the mere wrong without any actual loss is a tort." Explain with decided cases *(set Dec 2025 Q9; Dec 2024 Q9)*
+- [C-03](question-bank/section-c-part-1-units-1-2.md#c-03) Discuss the mental element in tort: fault, intention, negligence, malice and motive
+- [C-04](question-bank/section-c-part-1-units-1-2.md#c-04) Discuss the rule in *Rylands v. Fletcher*. Are there any exceptions to the rule? Discuss *(set Dec 2025 Q13)*
+- [C-05](question-bank/section-c-part-1-units-1-2.md#c-05) Who may sue and who may not be sued for a tort? Discuss the capacity of parties
+- [C-06](question-bank/section-c-part-1-units-1-2.md#c-06) Remedies in tort; how the right of action ends; and liability for a foreign tort
+
+**Section B (10 marks)**
+
+- [B-01](question-bank/section-b-part-1-units-1-2.md#b-01) Distinguish between tort and crime
+- [B-02](question-bank/section-b-part-1-units-1-2.md#b-02) Explain the difference between tort and contract *(set Dec 2022 Q7)*
+- [B-03](question-bank/section-b-part-1-units-1-2.md#b-03) Define tort. What are its essential elements?
+- [B-04](question-bank/section-b-part-1-units-1-2.md#b-04) Explain *damnum sine injuria* with decided cases
+- [B-05](question-bank/section-b-part-1-units-1-2.md#b-05) Briefly explain the maxim *injuria sine damno* with the help of decided cases *(set Dec 2023 Q7)*
+- [B-06](question-bank/section-b-part-1-units-1-2.md#b-06) Explain the "pigeon-hole" theory of torts. Is the law of torts a list of torts or a general principle?
+- [B-07](question-bank/section-b-part-1-units-1-2.md#b-07) When does a right of action for a tort come to an end or get discharged? *(set Dec 2022 Q6)*
+- [B-08](question-bank/section-b-part-1-units-1-2.md#b-08) What are the necessary conditions of liability for a foreign tort? *(set Dec 2022 Q8)*
+- [B-09](question-bank/section-b-part-1-units-1-2.md#b-09) Distinguish between malice and motive in the law of torts
+- [B-10](question-bank/section-b-part-1-units-1-2.md#b-10) Discuss the remedies available in an action for tort. What are the kinds of damages?
+- [B-11](question-bank/section-b-part-1-units-1-2.md#b-11) Who may sue and be sued for a tort? Discuss the capacity of parties
+- [B-12](question-bank/section-b-part-1-units-1-2.md#b-12) State and explain the rule in *Rylands v. Fletcher*
+- [B-13](question-bank/section-b-part-1-units-1-2.md#b-13) What are the exceptions to the rule in *Rylands v. Fletcher*?
+- [B-14](question-bank/section-b-part-1-units-1-2.md#b-14) Explain the rule of absolute liability. How does it differ from strict liability?
+
+**Section A (4 marks), 30 answers**
+
+- [A-01](question-bank/section-a-part-1-units-1-2.md#a-01) Meaning of "tort"
+- [A-02](question-bank/section-a-part-1-units-1-2.md#a-02) Define tort and state its main characteristics *(set Dec 2023 Q1)*
+- [A-03](question-bank/section-a-part-1-units-1-2.md#a-03) Winfield's definition
+- [A-04](question-bank/section-a-part-1-units-1-2.md#a-04) Salmond's definition
+- [A-05](question-bank/section-a-part-1-units-1-2.md#a-05) Difference between tort and crime *(set Dec 2022 Q2)*
+- [A-06](question-bank/section-a-part-1-units-1-2.md#a-06) Difference between tort and contract
+- [A-07](question-bank/section-a-part-1-units-1-2.md#a-07) Pigeon-hole theory *(set Dec 2024 Q2)*
+- [A-08](question-bank/section-a-part-1-units-1-2.md#a-08) Elements of a tort
+- [A-09](question-bank/section-a-part-1-units-1-2.md#a-09) Legal damage; torts actionable *per se
+- [A-10](question-bank/section-a-part-1-units-1-2.md#a-10) *Damnum sine injuria *(set Dec 2024 Q4)*
+- [A-11](question-bank/section-a-part-1-units-1-2.md#a-11) Principle underlying *damnum sine injuria *(set Dec 2022 Q5)*
+- [A-12](question-bank/section-a-part-1-units-1-2.md#a-12) *Injuria sine damno
+- [A-13](question-bank/section-a-part-1-units-1-2.md#a-13) *Ubi jus ibi remedium
+- [A-14](question-bank/section-a-part-1-units-1-2.md#a-14) Reasons for unliquidated damages in tort *(set Dec 2023 Q5)*
+- [A-15](question-bank/section-a-part-1-units-1-2.md#a-15) Kinds of damages
+- [A-16](question-bank/section-a-part-1-units-1-2.md#a-16) Injunction
+- [A-17](question-bank/section-a-part-1-units-1-2.md#a-17) *Actio personalis moritur cum persona
+- [A-18](question-bank/section-a-part-1-units-1-2.md#a-18) Foreign tort
+- [A-19](question-bank/section-a-part-1-units-1-2.md#a-19) Malice in law and malice in fact
+- [A-20](question-bank/section-a-part-1-units-1-2.md#a-20) Motive in tort
+- [A-21](question-bank/section-a-part-1-units-1-2.md#a-21) Fault, intention, negligence and recklessness
+- [A-22](question-bank/section-a-part-1-units-1-2.md#a-22) Minors and persons of unsound mind
+- [A-23](question-bank/section-a-part-1-units-1-2.md#a-23) Corporations, the State and foreign sovereigns
+- [A-24](question-bank/section-a-part-1-units-1-2.md#a-24) Strict liability *(set Dec 2024 Q5)*
+- [A-25](question-bank/section-a-part-1-units-1-2.md#a-25) The rule in *Rylands v. Fletcher
+- [A-26](question-bank/section-a-part-1-units-1-2.md#a-26) Non-natural use of land
+- [A-27](question-bank/section-a-part-1-units-1-2.md#a-27) Exceptions to *Rylands v. Fletcher
+- [A-28](question-bank/section-a-part-1-units-1-2.md#a-28) Absolute liability
+- [A-29](question-bank/section-a-part-1-units-1-2.md#a-29) *M.C. Mehta v. Union of India* (1987)
+- [A-30](question-bank/section-a-part-1-units-1-2.md#a-30) Bhopal gas leak (1984)
 
 ---
 

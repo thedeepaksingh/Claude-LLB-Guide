@@ -1,6 +1,6 @@
 # Paper III · Question Bank · Section C (20 marks) · Part 3: C-13 to C-16 (Unit 4A: negligence)
 
-> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
+> **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
 > **Pattern:** Section C = any 3 of 5, 20 marks each, "answer is required in detail". Each model answer below runs about 900–1,500 words. It is a full-marks **reference**: in the exam, keep the headings, the key cases and one or two Indian examples, and write what fits in 30–35 minutes (about 700–1,000 handwritten words; my estimate). See [`../../../docs/02-exam-pattern-and-past-papers.md`](../../../docs/02-exam-pattern-and-past-papers.md).
 > **"Model rubric (mine)"** lines are **my own** mark splits; the university publishes no marking scheme.
 > **Citations:** case name and year are enough in the exam; the report citations are given for checking. Items marked † were written from memory (see the [source-verification log](source-verification-log.md)).
@@ -200,7 +200,7 @@ If the facts are fully known, there is nothing for the doctrine to say.
 - The standard is the skill of an **ordinary competent member** of the profession, not the highest skill. A mere **error of judgment**, or a treatment that fails, is not negligence.
 
 **2. The Indian law**
-- ***Dr. Laxman Balkrishna Joshi v. Dr. Trimbak Bapu Godbole*** AIR 1969 SC 128. A boy with a fractured elbow was treated by a doctor who tried to set it without adequate anaesthesia and the boy died of shock †. The Supreme Court held the doctor liable and stated that a medical practitioner owes **three duties**: a duty of care in **deciding whether to take the case**, in **deciding what treatment to give**, and in **administering that treatment**.
+- ***Dr. Laxman Balkrishna Joshi v. Dr. Trimbak Bapu Godbole*** AIR 1969 SC 128. A patient with a fracture was treated by a doctor who tried to set it without adequate care in giving the anaesthetic, and the patient died of shock †. The Supreme Court held the doctor liable and stated that a medical practitioner owes **three duties**: a duty of care in **deciding whether to take the case**, in **deciding what treatment to give**, and in **administering that treatment**.
 - ***Poonam Verma v. Ashwin Patel*** (1996) 4 SCC 332 †: a person who practises a system of medicine in which he is not qualified is negligent *per se*.
 - ***Spring Meadows Hospital v. Harjol Ahluwalia*** (1998) 4 SCC 39: parents may claim for the negligent treatment of a child; the hospital was liable for its doctors and nurses.
 - ***Samira Kohli v. Dr. Prabha Manchanda*** (2008) 2 SCC 1: treatment without **informed consent** is a trespass to the person; consent to one procedure does not cover another unless it is an emergency.

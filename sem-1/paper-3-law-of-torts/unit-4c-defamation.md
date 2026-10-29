@@ -1,11 +1,20 @@
 # Paper III · Law of Torts including Consumer Protection Law (K-1003) · Unit 4C
 ## Specific torts (3): Defamation: libel and slander, essentials, innuendo, defences and the criminal law (BNS s. 356)
 
-> **Last updated:** 2026-10-28 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
+> **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-28 · **Branch:** `paper/03-law-of-torts`
 > **Verify before exam:** case citations in §9, the BNS section numbers in §6, and the "current developments" in §10 (checklist at the end).
 > **Syllabus line (official):** *Specific torts — negligence; nuisance; trespass; defamation.*
 
-**How this unit is examined.** (filled in by the generator)
+**How this unit has been examined (December 2022–2025).** 6 of the 52 previous questions came from this unit:
+
+- Dec 2025 Q1 (4): Difference between Libel and Slander. → [A-103](question-bank/section-a-part-4-units-4b-4c.md#a-103)
+- Dec 2025 Q10 (20): (Problem) A says of a book published by Z — Z's book is foolish; Z must be a weak man. Z's book is indecent; Z must b… → [C-20](question-bank/section-c-part-4-units-4b-4c.md#c-20)
+- Dec 2024 Q11 (20): Discuss the ingredients of the tort of defamation. What defence are available in an action for Defamation? Discuss. → [C-19](question-bank/section-c-part-4-units-4b-4c.md#c-19)
+- Dec 2023 Q4 (4): What is meant by "Innuendo"? Explain by giving examples. → [A-104](question-bank/section-a-part-4-units-4b-4c.md#a-104)
+- Dec 2023 Q13 (20): Define Defamation and point out its essentials. What defences are available to a tort feasor in case of Defamation? → [C-19](question-bank/section-c-part-4-units-4b-4c.md#c-19)
+- Dec 2022 Q13 (20): Explain in detail certain essential conditions of liability of a person for defamation. → [C-19](question-bank/section-c-part-4-units-4b-4c.md#c-19)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-3-law-of-torts.md`](../../docs/past-papers/paper-3-law-of-torts.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -190,7 +199,32 @@ Damages: **general** (presumed), **special** (proved), **aggravated**, **exempla
 
 ## 10. Question bank (model answers)
 
-(filled in by the generator)
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, "in detail". Every rubric in the bank is my own; the university publishes no marking scheme. Cases and statutes: [`cases-and-statutes-digest.md`](question-bank/cases-and-statutes-digest.md) (case entries for this unit: 71–78). Mock papers: [1](question-bank/mock-exam-1.md), [2](question-bank/mock-exam-2.md), [3](question-bank/mock-exam-3.md).
+
+**Section C (20 marks)**
+
+- [C-19](question-bank/section-c-part-4-units-4b-4c.md#c-19) Define defamation and discuss its essentials. What defences are available in an action for defamation? *(set Dec 2024 Q11; Dec 2023 Q13; Dec 2022 Q13)*
+- [C-20](question-bank/section-c-part-4-units-4b-4c.md#c-20) (Problem) A says of a book published by Z: "Z's book is foolish; Z must be a weak man. Z's book is indecent; Z must be a man of impure mind." Can A be held liable for making a defamatory statement against Z? *(set Dec 2025 Q10)*
+
+**Section B (10 marks)**
+
+- [B-46](question-bank/section-b-part-4-units-4b-4c.md#b-46) Distinguish between libel and slander
+- [B-47](question-bank/section-b-part-4-units-4b-4c.md#b-47) What is "innuendo"? Explain with examples
+- [B-48](question-bank/section-b-part-4-units-4b-4c.md#b-48) Explain justification and fair comment as defences in defamation
+- [B-49](question-bank/section-b-part-4-units-4b-4c.md#b-49) Explain absolute and qualified privilege in defamation
+- [B-50](question-bank/section-b-part-4-units-4b-4c.md#b-50) Explain criminal defamation under BNS s. 356. Was it upheld in *Subramanian Swamy*?
+
+**Section A (4 marks), 9 answers**
+
+- [A-102](question-bank/section-a-part-4-units-4b-4c.md#a-102) Defamation
+- [A-103](question-bank/section-a-part-4-units-4b-4c.md#a-103) Libel and slander *(set Dec 2025 Q1)*
+- [A-104](question-bank/section-a-part-4-units-4b-4c.md#a-104) Innuendo *(set Dec 2023 Q4)*
+- [A-105](question-bank/section-a-part-4-units-4b-4c.md#a-105) Justification (truth)
+- [A-106](question-bank/section-a-part-4-units-4b-4c.md#a-106) Fair comment
+- [A-107](question-bank/section-a-part-4-units-4b-4c.md#a-107) Absolute privilege
+- [A-108](question-bank/section-a-part-4-units-4b-4c.md#a-108) Qualified privilege
+- [A-109](question-bank/section-a-part-4-units-4b-4c.md#a-109) Criminal defamation: BNS s. 356
+- [A-110](question-bank/section-a-part-4-units-4b-4c.md#a-110) Publication in defamation
 
 ---
 
