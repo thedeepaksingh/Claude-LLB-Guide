@@ -2,11 +2,29 @@
 ## General principles of crime (1): concept and definition of crime, elements (human being, *mens rea*, *actus reus*, injury), stages of crime, strict liability, punishments and key definitions
 
 > **Last updated:** 2026-10-29 (IST) · **Law stated as on:** 2026-10-29 · **Branch:** `paper/04-law-of-crimes`
-> **Verify before exam:** the BNS section numbers in §2 and §9 (see the [source-verification log](question-bank/source-verification-log.md)), the case citations in §11, and the "current developments" in §12 (checklist at the end).
+> **Verify before exam:** the BNS section numbers in §2, §6, §7 and §9 (see the [source-verification log](question-bank/source-verification-log.md)), the case citations in §9, and the "current developments" in §11 (checklist at the end).
 > **Syllabus line (official):** *General principles of crime — concept; elements; stages; strict liability, constructive liability, common intention and common object.* This file covers concept, elements, stages and strict liability. Constructive liability, common intention and common object are in [Unit 1B](unit-1b-constructive-liability.md).
 > **Which code?** The syllabus is written around the Indian Penal Code, 1860 (IPC), and the papers of December 2022 and 2023 use IPC numbers. The Bharatiya Nyaya Sanhita, 2023 (BNS) replaced the IPC for offences committed from **1 July 2024**, and the papers of December 2024 and 2025 are set on the BNS. This pack is therefore **BNS first, with the IPC section beside it** in every table. The printed paper code on the BNS-era papers is K-1006 (the syllabus map says K-1004); see [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 15 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2025 Q1 (4): Define 'Solitary Confinement'. → [A-22](question-bank/section-a-part-1-unit-1a.md#a-22)
+- Dec 2025 Q6 (10): Define crime. Discuss different stages of a crime. → [B-01](question-bank/section-b-part-1-units-1a-1b.md#b-01)
+- Dec 2024 Q2 (4): Actus non facit reum nisi mens sit rea → [A-05](question-bank/section-a-part-1-unit-1a.md#a-05)
+- Dec 2024 Q7 (10): What is the concept of crime in criminal law? What are the essential elements that must be present for an act or omis… → [B-02](question-bank/section-b-part-1-units-1a-1b.md#b-02)
+- Dec 2024 Q12 (20): What are the different stages of crime under the criminal law? How does the criminal law address each stage in terms… → [C-02](question-bank/section-c-part-1-units-1a-1b.md#c-02)
+- Dec 2023 Q1 (4): Movable Property → [A-14](question-bank/section-a-part-1-unit-1a.md#a-14)
+- Dec 2023 Q2 (4): Injury → [A-13](question-bank/section-a-part-1-unit-1a.md#a-13)
+- Dec 2023 Q3 (4): Strict liability → [A-20](question-bank/section-a-part-1-unit-1a.md#a-20)
+- Dec 2023 Q4 (4): Wrongful loss → [A-11](question-bank/section-a-part-1-unit-1a.md#a-11)
+- Dec 2023 Q5 (4): Good faith → [A-12](question-bank/section-a-part-1-unit-1a.md#a-12)
+- Dec 2023 Q12 (20): Describe the scope of 'Intention', 'Preparation' and 'attempt' to commit a crime. → [C-02](question-bank/section-c-part-1-units-1a-1b.md#c-02)
+- Dec 2022 Q5 (4): Dishonestly → [A-09](question-bank/section-a-part-1-unit-1a.md#a-09)
+- Dec 2022 Q7 (10): Mens Rea → [B-04](question-bank/section-b-part-1-units-1a-1b.md#b-04)
+- Dec 2022 Q8 (10): Good faith → [B-10](question-bank/section-b-part-1-units-1a-1b.md#b-10)
+- Dec 2022 Q9 (20): Define crime. Explain the elements of crime. → [C-01](question-bank/section-c-part-1-units-1a-1b.md#c-01)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -310,7 +328,63 @@ The Indian system mixes them. The community-service provision and probation (BNS
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-01](question-bank/section-c-part-1-units-1a-1b.md#c-01) Define crime and discuss its essential elements *(set Dec 2022 Q9)*
+- [C-02](question-bank/section-c-part-1-units-1a-1b.md#c-02) Stages of crime: intention, preparation and attempt; liability and punishment at each stage *(set Dec 2024 Q12; Dec 2023 Q12)*
+- [C-03](question-bank/section-c-part-1-units-1a-1b.md#c-03) *Actus non facit reum nisi mens sit rea*: discuss *mens rea*, *actus reus* and strict liability in Indian criminal law
+- [C-04](question-bank/section-c-part-1-units-1a-1b.md#c-04) Punishment: kinds of punishment under the BNS, theories of punishment, the death penalty and life imprisonment
+
+**Section B (10 marks)**
+
+- [B-01](question-bank/section-b-part-1-units-1a-1b.md#b-01) Define crime. Explain the stages of crime *(set Dec 2025 Q6)*
+- [B-02](question-bank/section-b-part-1-units-1a-1b.md#b-02) Explain the concept and elements of crime *(set Dec 2024 Q7)*
+- [B-03](question-bank/section-b-part-1-units-1a-1b.md#b-03) Distinguish between crime and tort
+- [B-04](question-bank/section-b-part-1-units-1a-1b.md#b-04) Explain *mens rea*. What is its importance and what are the exceptions? *(set Dec 2022 Q7)*
+- [B-05](question-bank/section-b-part-1-units-1a-1b.md#b-05) Explain *actus reus*. How does the law treat omissions and causation?
+- [B-06](question-bank/section-b-part-1-units-1a-1b.md#b-06) Explain intention, preparation and attempt
+- [B-07](question-bank/section-b-part-1-units-1a-1b.md#b-07) How is preparation distinguished from attempt? Refer to decided cases
+- [B-08](question-bank/section-b-part-1-units-1a-1b.md#b-08) Explain strict liability in criminal law
+- [B-09](question-bank/section-b-part-1-units-1a-1b.md#b-09) Distinguish between motive and intention
+- [B-10](question-bank/section-b-part-1-units-1a-1b.md#b-10) Explain "good faith" as defined in the Code *(set Dec 2022 Q8)*
+- [B-11](question-bank/section-b-part-1-units-1a-1b.md#b-11) What are the kinds of punishment under the BNS? Explain community service
+- [B-12](question-bank/section-b-part-1-units-1a-1b.md#b-12) Discuss the death penalty and the doctrine of "rarest of rare"
+- [B-13](question-bank/section-b-part-1-units-1a-1b.md#b-13) Explain the theories of punishment
+- [B-14](question-bank/section-b-part-1-units-1a-1b.md#b-14) State the main changes made by the Bharatiya Nyaya Sanhita, 2023 in the Indian Penal Code, 1860
+
+**Section A (4 marks), 27 answers**
+
+- [A-01](question-bank/section-a-part-1-unit-1a.md#a-01) Crime
+- [A-02](question-bank/section-a-part-1-unit-1a.md#a-02) Offence (BNS s. 2(24); IPC s. 40)
+- [A-03](question-bank/section-a-part-1-unit-1a.md#a-03) Elements of crime
+- [A-04](question-bank/section-a-part-1-unit-1a.md#a-04) *Mens rea
+- [A-05](question-bank/section-a-part-1-unit-1a.md#a-05) *Actus non facit reum nisi mens sit rea *(set Dec 2024 Q2)*
+- [A-06](question-bank/section-a-part-1-unit-1a.md#a-06) *Actus reus
+- [A-07](question-bank/section-a-part-1-unit-1a.md#a-07) Omission
+- [A-08](question-bank/section-a-part-1-unit-1a.md#a-08) Motive and intention
+- [A-09](question-bank/section-a-part-1-unit-1a.md#a-09) Dishonestly *(set Dec 2022 Q5)*
+- [A-10](question-bank/section-a-part-1-unit-1a.md#a-10) Fraudulently
+- [A-11](question-bank/section-a-part-1-unit-1a.md#a-11) Wrongful loss (and wrongful gain) *(set Dec 2023 Q4)*
+- [A-12](question-bank/section-a-part-1-unit-1a.md#a-12) Good faith *(set Dec 2023 Q5)*
+- [A-13](question-bank/section-a-part-1-unit-1a.md#a-13) Injury *(set Dec 2023 Q2)*
+- [A-14](question-bank/section-a-part-1-unit-1a.md#a-14) Movable property *(set Dec 2023 Q1)*
+- [A-15](question-bank/section-a-part-1-unit-1a.md#a-15) Voluntarily
+- [A-16](question-bank/section-a-part-1-unit-1a.md#a-16) Stages of crime
+- [A-17](question-bank/section-a-part-1-unit-1a.md#a-17) Preparation
+- [A-18](question-bank/section-a-part-1-unit-1a.md#a-18) Attempt (BNS s. 62; IPC s. 511)
+- [A-19](question-bank/section-a-part-1-unit-1a.md#a-19) Impossible attempt
+- [A-20](question-bank/section-a-part-1-unit-1a.md#a-20) Strict liability *(set Dec 2023 Q3)*
+- [A-21](question-bank/section-a-part-1-unit-1a.md#a-21) Kinds of punishment (BNS s. 4; IPC s. 53)
+- [A-22](question-bank/section-a-part-1-unit-1a.md#a-22) Solitary confinement *(set Dec 2025 Q1)*
+- [A-23](question-bank/section-a-part-1-unit-1a.md#a-23) Community service
+- [A-24](question-bank/section-a-part-1-unit-1a.md#a-24) Life imprisonment
+- [A-25](question-bank/section-a-part-1-unit-1a.md#a-25) Rarest of rare
+- [A-26](question-bank/section-a-part-1-unit-1a.md#a-26) Theories of punishment
+- [A-27](question-bank/section-a-part-1-unit-1a.md#a-27) BNS and IPC: main changes
 
 ---
 

@@ -5,7 +5,15 @@
 > **Verify before exam:** the case reports marked † (checklist at the end). The BNS section numbers, wording and punishments of ss. 100–118, 124, 126–131 and 137–140 in this note were read from pages reproducing the Act ‡ (see the [source-verification log](question-bank/source-verification-log.md)); ss. 119–123 and 125 are from the IPC order and marked †.
 > **Syllabus line (official):** *Offences against human body — culpable homicide, murder, hurt, grievous hurt, …* Kidnapping, abduction, wrongful restraint and confinement, force and assault, dowry death and stalking are in [Unit 4A-2](unit-4a2-kidnapping-restraint-force-and-women-child.md). The general exceptions used here (private defence) are in [Unit 3](unit-3-general-exceptions.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 5 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2025 Q11 (20): When does culpable Homicide amount to murder? → [C-12](question-bank/section-c-part-4-unit-4a1.md#c-12)
+- Dec 2024 Q10 (20): What is the distinction between culpable homicide and murder under the Bharatiya Nyay Sanhita, 2023? What are the key… → [C-12](question-bank/section-c-part-4-unit-4a1.md#c-12)
+- Dec 2023 Q10 (20): Differentiate between murder and culpable homicide. → [C-12](question-bank/section-c-part-4-unit-4a1.md#c-12)
+- Dec 2022 Q1 (4): Grievous hurt → [A-83](question-bank/section-a-part-4-unit-4a1.md#a-83)
+- Dec 2022 Q13 (20): When does Culpable Homicide amount to Murder? → [C-12](question-bank/section-c-part-4-unit-4a1.md#c-12)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -370,7 +378,46 @@ Whoever, being under sentence of imprisonment for life, commits murder, shall be
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-12](question-bank/section-c-part-4-unit-4a1.md#c-12) When does culpable homicide amount to murder? Distinguish culpable homicide from murder, with cases *(set Dec 2025 Q11; Dec 2024 Q10; Dec 2023 Q10; Dec 2022 Q13)*
+- [C-13](question-bank/section-c-part-4-unit-4a1.md#c-13) Discuss the exceptions to murder: grave and sudden provocation, excess of private defence, public servant, sudden fight and consent
+- [C-14](question-bank/section-c-part-4-unit-4a1.md#c-14) Define hurt and grievous hurt. Discuss causing death by negligence and attempt to murder under the BNS
+
+**Section B (10 marks)**
+
+- [B-34](question-bank/section-b-part-4-unit-4a1.md#b-34) Define culpable homicide. State its essentials
+- [B-35](question-bank/section-b-part-4-unit-4a1.md#b-35) Define murder. Explain its four limbs
+- [B-36](question-bank/section-b-part-4-unit-4a1.md#b-36) Distinguish between culpable homicide and murder
+- [B-37](question-bank/section-b-part-4-unit-4a1.md#b-37) Explain grave and sudden provocation as an exception to murder
+- [B-38](question-bank/section-b-part-4-unit-4a1.md#b-38) Explain sudden fight and the other Exceptions to murder
+- [B-39](question-bank/section-b-part-4-unit-4a1.md#b-39) Explain causing death by negligence. What is the offence of hit-and-run?
+- [B-40](question-bank/section-b-part-4-unit-4a1.md#b-40) Distinguish hurt from grievous hurt. When is attempt to murder made out?
+
+**Section A (4 marks), 18 answers**
+
+- [A-68](question-bank/section-a-part-4-unit-4a1.md#a-68) Culpable homicide
+- [A-69](question-bank/section-a-part-4-unit-4a1.md#a-69) Murder
+- [A-70](question-bank/section-a-part-4-unit-4a1.md#a-70) Culpable homicide and murder
+- [A-71](question-bank/section-a-part-4-unit-4a1.md#a-71) Grave and sudden provocation
+- [A-72](question-bank/section-a-part-4-unit-4a1.md#a-72) Sudden fight
+- [A-73](question-bank/section-a-part-4-unit-4a1.md#a-73) Private defence and public servant Exceptions to murder
+- [A-74](question-bank/section-a-part-4-unit-4a1.md#a-74) Consent as an Exception to murder
+- [A-75](question-bank/section-a-part-4-unit-4a1.md#a-75) Punishment for murder
+- [A-76](question-bank/section-a-part-4-unit-4a1.md#a-76) Murder by a life-convict
+- [A-77](question-bank/section-a-part-4-unit-4a1.md#a-77) Mob lynching
+- [A-78](question-bank/section-a-part-4-unit-4a1.md#a-78) Punishment for culpable homicide not amounting to murder
+- [A-79](question-bank/section-a-part-4-unit-4a1.md#a-79) Death by negligence
+- [A-80](question-bank/section-a-part-4-unit-4a1.md#a-80) Hit and run
+- [A-81](question-bank/section-a-part-4-unit-4a1.md#a-81) Attempt to murder
+- [A-82](question-bank/section-a-part-4-unit-4a1.md#a-82) Hurt
+- [A-83](question-bank/section-a-part-4-unit-4a1.md#a-83) Grievous hurt *(set Dec 2022 Q1)*
+- [A-84](question-bank/section-a-part-4-unit-4a1.md#a-84) Hurt and grievous hurt
+- [A-85](question-bank/section-a-part-4-unit-4a1.md#a-85) Acid attack
 
 ---
 

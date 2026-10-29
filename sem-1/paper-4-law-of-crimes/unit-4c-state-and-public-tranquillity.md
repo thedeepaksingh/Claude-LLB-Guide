@@ -5,7 +5,15 @@
 > **Verify before exam:** the status of the pending challenges to IPC s. 124A and BNS s. 152 (§3.7) and the case reports marked † (checklist at the end). The headings and punishments of BNS ss. 147–158 and ss. 189–197, and the text of ss. 152, 189 and 190, were read from pages reproducing the Act ‡ (see the [source-verification log](question-bank/source-verification-log.md)). Court-status facts in §3.7 come from news and case-tracker reports (secondary sources) ‡.
 > **Syllabus line (official):** *State and public tranquillity: sedition; unlawful assembly; rioting and affray.* The syllabus says "sedition"; the BNS has no offence of that name. This unit therefore covers IPC s. 124A (the law examined in December 2022 and 2023) and BNS s. 152 (its replacement). Constructive liability for the members of an unlawful assembly (s. 190; IPC 149) is in [Unit 1B](unit-1b-constructive-liability.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 5 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2025 Q10 (20): What are the essential elements that constitute an unlawful assembly under the Bhartiya Nyay Sanhita, 2023? How does… → [C-24](question-bank/section-c-part-7-units-4c-4d.md#c-24)
+- Dec 2024 Q6 (10): What are the essential elements that constitute an unlawful assembly under the Bharatiya Nyay Sanhita, 2023? How does… → [B-56](question-bank/section-b-part-7-units-4c-4d.md#b-56)
+- Dec 2023 Q11 (20): Discuss the provisions related to sedition in Indian Penal Code with the help of decided cases. → [C-23](question-bank/section-c-part-7-units-4c-4d.md#c-23)
+- Dec 2023 Q13(a) (20): Distinguish between: (a) 'Rioting' and 'Affray' (b) Wrongful Restraint and wrongful confinement. → [C-24](question-bank/section-c-part-7-units-4c-4d.md#c-24)
+- Dec 2022 Q6 (10): Sedition → [B-55](question-bank/section-b-part-7-units-4c-4d.md#b-55)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -289,7 +297,34 @@ The full discussion is in [Unit 1B §3](unit-1b-constructive-liability.md). In b
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-23](question-bank/section-c-part-7-units-4c-4d.md#c-23) Discuss sedition under IPC s. 124A and its place after the Bharatiya Nyaya Sanhita (s. 152) *(set Dec 2023 Q11)*
+- [C-24](question-bank/section-c-part-7-units-4c-4d.md#c-24) Explain unlawful assembly under the BNS. Distinguish lawful from unlawful gatherings, and rioting from affray *(set Dec 2025 Q10; Dec 2023 Q13(a))*
+
+**Section B (10 marks)**
+
+- [B-55](question-bank/section-b-part-7-units-4c-4d.md#b-55) Explain the offence of sedition. What did the Supreme Court decide in *Kedar Nath*? *(set Dec 2022 Q6)*
+- [B-56](question-bank/section-b-part-7-units-4c-4d.md#b-56) What is an unlawful assembly? Distinguish lawful from unlawful gatherings *(set Dec 2024 Q6)*
+- [B-57](question-bank/section-b-part-7-units-4c-4d.md#b-57) Distinguish between rioting and affray
+- [B-58](question-bank/section-b-part-7-units-4c-4d.md#b-58) Explain section 152 of the BNS. Is it sedition by another name?
+
+**Section A (4 marks), 10 answers**
+
+- [A-120](question-bank/section-a-part-7-units-4c-4d.md#a-120) Sedition (IPC s. 124A)
+- [A-121](question-bank/section-a-part-7-units-4c-4d.md#a-121) BNS section 152
+- [A-122](question-bank/section-a-part-7-units-4c-4d.md#a-122) Waging war against the Government
+- [A-123](question-bank/section-a-part-7-units-4c-4d.md#a-123) Unlawful assembly
+- [A-124](question-bank/section-a-part-7-units-4c-4d.md#a-124) Lawful and unlawful gatherings
+- [A-125](question-bank/section-a-part-7-units-4c-4d.md#a-125) Rioting
+- [A-126](question-bank/section-a-part-7-units-4c-4d.md#a-126) Affray
+- [A-127](question-bank/section-a-part-7-units-4c-4d.md#a-127) Riot and affray
+- [A-128](question-bank/section-a-part-7-units-4c-4d.md#a-128) Punishment for membership of an unlawful assembly
+- [A-129](question-bank/section-a-part-7-units-4c-4d.md#a-129) Promoting enmity between groups
 
 ---
 

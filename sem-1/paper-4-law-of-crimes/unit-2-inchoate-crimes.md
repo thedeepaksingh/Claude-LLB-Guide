@@ -5,7 +5,11 @@
 > **Verify before exam:** the BNS sub-section numbers marked † and the case reports in §9 (checklist at the end). The section *ranges* (abetment ss. 45–60, conspiracy s. 61, attempt s. 62) were checked against the Act ‡; the numbers of individual abetment sections were worked out from the IPC order and are marked † until checked one by one.
 > **Syllabus line (official):** *General principles of crime — … abetment, … criminal conspiracy, attempt.* The general theory of stages (intention, preparation, attempt) is in [Unit 1A](unit-1a-concept-elements-stages.md), §4; constructive liability is in [Unit 1B](unit-1b-constructive-liability.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 1 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2024 Q4 (4): Abettor → [A-36](question-bank/section-a-part-2-units-1b-2.md#a-36)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -227,7 +231,37 @@ Criminal conspiracy as an offence in itself was added to the IPC by the **Crimin
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-06](question-bank/section-c-part-2-unit-2.md#c-06) Define abetment. Explain its kinds, who is an abettor, and the punishment for abetment, with reference to abetment of suicide
+- [C-07](question-bank/section-c-part-2-unit-2.md#c-07) What is criminal conspiracy? Discuss its essentials, proof and punishment, and distinguish it from abetment
+
+**Section B (10 marks)**
+
+- [B-19](question-bank/section-b-part-2-unit-2.md#b-19) Define abetment. What are its essentials?
+- [B-20](question-bank/section-b-part-2-unit-2.md#b-20) Who is an abettor? How is an abettor punished?
+- [B-21](question-bank/section-b-part-2-unit-2.md#b-21) Discuss abetment of suicide
+- [B-22](question-bank/section-b-part-2-unit-2.md#b-22) What is criminal conspiracy? State its essentials and punishment
+- [B-23](question-bank/section-b-part-2-unit-2.md#b-23) Distinguish between criminal conspiracy and abetment by conspiracy
+- [B-24](question-bank/section-b-part-2-unit-2.md#b-24) Explain attempt to commit an offence under BNS s. 62 (IPC s. 511)
+
+**Section A (4 marks), 11 answers**
+
+- [A-35](question-bank/section-a-part-2-units-1b-2.md#a-35) Abetment
+- [A-36](question-bank/section-a-part-2-units-1b-2.md#a-36) Abettor *(set Dec 2024 Q4)*
+- [A-37](question-bank/section-a-part-2-units-1b-2.md#a-37) Instigation
+- [A-38](question-bank/section-a-part-2-units-1b-2.md#a-38) Abetment by aid
+- [A-39](question-bank/section-a-part-2-units-1b-2.md#a-39) Abetment by conspiracy
+- [A-40](question-bank/section-a-part-2-units-1b-2.md#a-40) Abetment of an abetment
+- [A-41](question-bank/section-a-part-2-units-1b-2.md#a-41) Abetment when the offence is not committed
+- [A-42](question-bank/section-a-part-2-units-1b-2.md#a-42) Abettor present at the offence
+- [A-43](question-bank/section-a-part-2-units-1b-2.md#a-43) Abetment of suicide
+- [A-44](question-bank/section-a-part-2-units-1b-2.md#a-44) Criminal conspiracy
+- [A-45](question-bank/section-a-part-2-units-1b-2.md#a-45) Overt act in conspiracy
 
 ---
 

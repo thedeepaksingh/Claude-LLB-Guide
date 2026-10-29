@@ -5,7 +5,19 @@
 > **Verify before exam:** the BNS sub-section details marked † and the case reports marked † (checklist at the end). The text, sub-sections and punishments of ss. 303, 304, 308, 309, 310, 316, 318, 319, 324 and 331 were read from pages reproducing the Act ‡ (see the [source-verification log](question-bank/source-verification-log.md)); the headings of ss. 303–334 were also read ‡.
 > **Syllabus line (official):** *Property: theft; extortion; robbery; dacoity; cheating.* Misappropriation, criminal breach of trust, mischief and criminal trespass are **not named** in the syllabus text but have been asked (Dec 2025 A: *Mischief*, *Cheating by personation*, *Theft v. misappropriation*; Dec 2023 A: *Movable property*, *Wrongful loss*; Dec 2022 A: *Dishonestly*; Dec 2024 A: *Cheating*). Definitions of "movable property", "dishonestly", "wrongful gain", "wrongful loss" are in [Unit 1A §7](unit-1a-concept-elements-stages.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 9 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2025 Q3 (4): What do you mean by 'Mischief'? → [A-114](question-bank/section-a-part-6-unit-4b.md#a-114)
+- Dec 2025 Q4 (4): Cheating by Personation. → [A-113](question-bank/section-a-part-6-unit-4b.md#a-113)
+- Dec 2025 Q5 (4): Differentiate between 'Theft and Misappropriation'. → [A-104](question-bank/section-a-part-6-unit-4b.md#a-104)
+- Dec 2025 Q7 (10): What is extortion? When does extortion amount to dacoity? → [B-50](question-bank/section-b-part-6-unit-4b.md#b-50)
+- Dec 2024 Q3 (4): Cheating → [A-112](question-bank/section-a-part-6-unit-4b.md#a-112)
+- Dec 2024 Q9 (20): Define theft as per the Bharatiya Nyay Sanhita, 2023? How does theft differ from the Extortion? Explain with illustra… → [C-19](question-bank/section-c-part-6-unit-4b.md#c-19)
+- Dec 2023 Q6 (10): What are the ingredients of the offence of theft? Explain them and illustrate. → [B-48](question-bank/section-b-part-6-unit-4b.md#b-48)
+- Dec 2023 Q7 (10): (Problem) 'A' intending to commit theft, enters the house of 'B' at night and removes from one of the rooms, a heavy… → [B-49](question-bank/section-b-part-6-unit-4b.md#b-49)
+- Dec 2022 Q12 (20): What is Theft? When does theft amount to Robbery? → [C-19](question-bank/section-c-part-6-unit-4b.md#c-19)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -408,7 +420,47 @@ Other sections: **s. 332** (house-trespass to commit an offence, IPC 449–452) 
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-19](question-bank/section-c-part-6-unit-4b.md#c-19) Define theft and explain its ingredients. Distinguish theft from extortion, and say when theft amounts to robbery *(set Dec 2024 Q9; Dec 2022 Q12)*
+- [C-20](question-bank/section-c-part-6-unit-4b.md#c-20) Explain extortion, robbery and dacoity, and show how extortion may amount to robbery and robbery to dacoity
+- [C-21](question-bank/section-c-part-6-unit-4b.md#c-21) Distinguish criminal misappropriation from criminal breach of trust. Explain cheating and cheating by personation
+- [C-22](question-bank/section-c-part-6-unit-4b.md#c-22) Define mischief. Explain criminal trespass, house-trespass, lurking house-trespass and house-breaking and their punishments
+
+**Section B (10 marks)**
+
+- [B-48](question-bank/section-b-part-6-unit-4b.md#b-48) Define theft. State its ingredients *(set Dec 2023 Q6)*
+- [B-49](question-bank/section-b-part-6-unit-4b.md#b-49) A, intending to commit theft, enters B's house at night and removes a heavy box to the courtyard, where he opens it. Finding nothing worth taking, he leaves it there and goes away. Did A commit any offence? *(set Dec 2023 Q7)*
+- [B-50](question-bank/section-b-part-6-unit-4b.md#b-50) Define extortion. When does extortion become robbery and robbery become dacoity? *(set Dec 2025 Q7)*
+- [B-51](question-bank/section-b-part-6-unit-4b.md#b-51) Distinguish between theft, robbery and dacoity
+- [B-52](question-bank/section-b-part-6-unit-4b.md#b-52) Distinguish criminal breach of trust from dishonest misappropriation of property
+- [B-53](question-bank/section-b-part-6-unit-4b.md#b-53) Define cheating. How does it differ from breach of contract?
+- [B-54](question-bank/section-b-part-6-unit-4b.md#b-54) Define mischief. Explain criminal trespass, house-trespass and house-breaking
+
+**Section A (4 marks), 18 answers**
+
+- [A-102](question-bank/section-a-part-6-unit-4b.md#a-102) Theft
+- [A-103](question-bank/section-a-part-6-unit-4b.md#a-103) Snatching
+- [A-104](question-bank/section-a-part-6-unit-4b.md#a-104) Theft and misappropriation *(set Dec 2025 Q5)*
+- [A-105](question-bank/section-a-part-6-unit-4b.md#a-105) Extortion
+- [A-106](question-bank/section-a-part-6-unit-4b.md#a-106) Robbery
+- [A-107](question-bank/section-a-part-6-unit-4b.md#a-107) Dacoity
+- [A-108](question-bank/section-a-part-6-unit-4b.md#a-108) Robbery and dacoity
+- [A-109](question-bank/section-a-part-6-unit-4b.md#a-109) Criminal misappropriation
+- [A-110](question-bank/section-a-part-6-unit-4b.md#a-110) Criminal breach of trust
+- [A-111](question-bank/section-a-part-6-unit-4b.md#a-111) Criminal breach of trust and misappropriation
+- [A-112](question-bank/section-a-part-6-unit-4b.md#a-112) Cheating *(set Dec 2024 Q3)*
+- [A-113](question-bank/section-a-part-6-unit-4b.md#a-113) Cheating by personation *(set Dec 2025 Q4)*
+- [A-114](question-bank/section-a-part-6-unit-4b.md#a-114) Mischief *(set Dec 2025 Q3)*
+- [A-115](question-bank/section-a-part-6-unit-4b.md#a-115) Criminal trespass
+- [A-116](question-bank/section-a-part-6-unit-4b.md#a-116) House-trespass and house-breaking
+- [A-117](question-bank/section-a-part-6-unit-4b.md#a-117) Lurking house-trespass
+- [A-118](question-bank/section-a-part-6-unit-4b.md#a-118) Theft and extortion
+- [A-119](question-bank/section-a-part-6-unit-4b.md#a-119) Aggravated theft
 
 ---
 

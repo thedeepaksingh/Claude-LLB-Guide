@@ -5,7 +5,20 @@
 > **Verify before exam:** BNS sub-section details marked † and the case reports marked † (checklist at the end). The text, numbers and punishments of ss. 78, 80, 82, 85, 126–131, 137, 138, 140(1)–(2) and 143(2) were read from pages reproducing the Act ‡ (see the [source-verification log](question-bank/source-verification-log.md)).
 > **Syllabus line (official):** *Kidnapping and abduction; wrongful restraint and confinement; assault; criminal force.* Dowry death, stalking and offences against children are **not named** in the syllabus text but have been asked in the December 2024 and December 2025 papers (Dowry death: A-question, Dec 2025 Q2 and C-question Dec 2024 Q11; Stalking: Dec 2024 Q5; Offences against child: Dec 2024 Q13(b)). Murder, hurt and grievous hurt are in [Unit 4A-1](unit-4a1-homicide-and-hurt.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 10 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2025 Q2 (4): What do you mean by 'Dowry Death'? → [A-95](question-bank/section-a-part-5-unit-4a2.md#a-95)
+- Dec 2025 Q8 (10): What is wrongful restraint? Distinguish it from wrongful confinement. → [B-41](question-bank/section-b-part-5-unit-4a2.md#b-41)
+- Dec 2025 Q12 (20): Define kidnapping. How does it differ from abduction? Can there be an abduction which is not punishable under BNS? → [C-15](question-bank/section-c-part-5-unit-4a2.md#c-15)
+- Dec 2024 Q5 (4): Stalking → [A-97](question-bank/section-a-part-5-unit-4a2.md#a-97)
+- Dec 2024 Q8 (10): Define Kidnapping in the context of Bharatiya Nyay Sanhita, 2023? Explain how does Kidnapping differ from abduction? → [B-43](question-bank/section-b-part-5-unit-4a2.md#b-43)
+- Dec 2024 Q11 (20): Define Dowry Death in the context of the Bharatiya Nyay Sanhita, 2023. How does it provide dowry death differently fr… → [C-17](question-bank/section-c-part-5-unit-4a2.md#c-17)
+- Dec 2024 Q13(b) (20): Comment on any two of these three of the following: (a) Constructive Liability under the criminal law. (b) Offences a… → [C-18](question-bank/section-c-part-5-unit-4a2.md#c-18)
+- Dec 2023 Q8 (10): How does abduction differ from kidnapping? Explain with suitable illustrations. → [B-43](question-bank/section-b-part-5-unit-4a2.md#b-43)
+- Dec 2023 Q13(b) (20): Distinguish between: (a) 'Rioting' and 'Affray' (b) Wrongful Restraint and wrongful confinement. → [C-16](question-bank/section-c-part-5-unit-4a2.md#c-16)
+- Dec 2022 Q2 (4): Criminal force → [A-89](question-bank/section-a-part-5-unit-4a2.md#a-89)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -365,7 +378,45 @@ Supreme Court: *Arnesh Kumar v. State of Bihar* (2014) 8 SCC 273 (no automatic a
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-15](question-bank/section-c-part-5-unit-4a2.md#c-15) Define kidnapping and abduction. Distinguish between them. Is abduction punishable by itself? *(set Dec 2025 Q12)*
+- [C-16](question-bank/section-c-part-5-unit-4a2.md#c-16) Distinguish between wrongful restraint and wrongful confinement. Explain force, criminal force and assault *(set Dec 2023 Q13(b))*
+- [C-17](question-bank/section-c-part-5-unit-4a2.md#c-17) Dowry death (BNS s. 80) compared with the IPC; cruelty by husband or relatives and stalking *(set Dec 2024 Q11)*
+- [C-18](question-bank/section-c-part-5-unit-4a2.md#c-18) Discuss the offences against children under the Bharatiya Nyaya Sanhita, 2023 *(set Dec 2024 Q13(b))*
+
+**Section B (10 marks)**
+
+- [B-41](question-bank/section-b-part-5-unit-4a2.md#b-41) Distinguish between wrongful restraint and wrongful confinement *(set Dec 2025 Q8)*
+- [B-42](question-bank/section-b-part-5-unit-4a2.md#b-42) Define force, criminal force and assault. How do they differ?
+- [B-43](question-bank/section-b-part-5-unit-4a2.md#b-43) Distinguish between kidnapping and abduction *(set Dec 2024 Q8; Dec 2023 Q8)*
+- [B-44](question-bank/section-b-part-5-unit-4a2.md#b-44) Explain kidnapping from lawful guardianship. When is "taking" established?
+- [B-45](question-bank/section-b-part-5-unit-4a2.md#b-45) Explain dowry death. State its essentials and the presumption
+- [B-46](question-bank/section-b-part-5-unit-4a2.md#b-46) Explain stalking and cruelty by husband or relatives under the BNS
+- [B-47](question-bank/section-b-part-5-unit-4a2.md#b-47) Discuss the offences against a child under the BNS
+
+**Section A (4 marks), 16 answers**
+
+- [A-86](question-bank/section-a-part-5-unit-4a2.md#a-86) Wrongful restraint
+- [A-87](question-bank/section-a-part-5-unit-4a2.md#a-87) Wrongful confinement
+- [A-88](question-bank/section-a-part-5-unit-4a2.md#a-88) Force
+- [A-89](question-bank/section-a-part-5-unit-4a2.md#a-89) Criminal force *(set Dec 2022 Q2)*
+- [A-90](question-bank/section-a-part-5-unit-4a2.md#a-90) Assault
+- [A-91](question-bank/section-a-part-5-unit-4a2.md#a-91) Kidnapping
+- [A-92](question-bank/section-a-part-5-unit-4a2.md#a-92) Abduction
+- [A-93](question-bank/section-a-part-5-unit-4a2.md#a-93) Kidnapping from lawful guardianship
+- [A-94](question-bank/section-a-part-5-unit-4a2.md#a-94) Kidnapping for ransom
+- [A-95](question-bank/section-a-part-5-unit-4a2.md#a-95) Dowry death *(set Dec 2025 Q2)*
+- [A-96](question-bank/section-a-part-5-unit-4a2.md#a-96) Cruelty by husband or relatives
+- [A-97](question-bank/section-a-part-5-unit-4a2.md#a-97) Stalking *(set Dec 2024 Q5)*
+- [A-98](question-bank/section-a-part-5-unit-4a2.md#a-98) Child (BNS s. 2(3))
+- [A-99](question-bank/section-a-part-5-unit-4a2.md#a-99) Exposure and abandonment of a child
+- [A-100](question-bank/section-a-part-5-unit-4a2.md#a-100) Hiring a child to commit an offence
+- [A-101](question-bank/section-a-part-5-unit-4a2.md#a-101) Selling or buying a child for prostitution
 
 ---
 

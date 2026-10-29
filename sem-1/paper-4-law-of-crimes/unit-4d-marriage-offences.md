@@ -5,7 +5,11 @@
 > **Verify before exam:** the BNS sub-section details marked † and the case reports marked † (checklist at the end). The text and punishments of BNS s. 82 and s. 85, and the headings of ss. 81–86, were read from pages reproducing the Act ‡ (see the [source-verification log](question-bank/source-verification-log.md)).
 > **Syllabus line (official):** *Marriage: bigamy and adultery.* Bigamy was asked in December 2022 (Section A, "Bigamy"). No question on adultery has been asked in the four papers I have, but the topic is on the syllabus, and the law has changed (*Joseph Shine*, 2018; BNS 2023). Cruelty by husband or relatives (BNS ss. 85–86) and dowry death (s. 80) are in [Unit 4A-2](unit-4a2-kidnapping-restraint-force-and-women-child.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 1 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2022 Q4 (4): Bigamy → [A-130](question-bank/section-a-part-7-units-4c-4d.md#a-130)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -162,7 +166,27 @@ I did not check how the position in service law (the armed forces) stands after 
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-25](question-bank/section-c-part-7-units-4c-4d.md#c-25) Discuss the offence of bigamy under the BNS. What is the position of adultery after Joseph Shine?
+
+**Section B (10 marks)**
+
+- [B-59](question-bank/section-b-part-7-units-4c-4d.md#b-59) What is bigamy? State its essentials and exceptions
+- [B-60](question-bank/section-b-part-7-units-4c-4d.md#b-60) Discuss adultery. Why is it not an offence under the BNS?
+
+**Section A (4 marks), 6 answers**
+
+- [A-130](question-bank/section-a-part-7-units-4c-4d.md#a-130) Bigamy *(set Dec 2022 Q4)*
+- [A-131](question-bank/section-a-part-7-units-4c-4d.md#a-131) Exceptions to bigamy
+- [A-132](question-bank/section-a-part-7-units-4c-4d.md#a-132) Adultery (IPC s. 497)
+- [A-133](question-bank/section-a-part-7-units-4c-4d.md#a-133) *Joseph Shine v. Union of India
+- [A-134](question-bank/section-a-part-7-units-4c-4d.md#a-134) Concealing a former marriage when marrying again
+- [A-135](question-bank/section-a-part-7-units-4c-4d.md#a-135) Sexual intercourse by deceitful means
 
 ---
 

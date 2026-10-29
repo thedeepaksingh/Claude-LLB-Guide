@@ -5,7 +5,14 @@
 > **Verify before exam:** the BNS section numbers in §2 and §3 (see the [source-verification log](question-bank/source-verification-log.md)) and the case citations in §8 (checklist at the end).
 > **Syllabus line (official):** *General principles of crime — … constructive liability, common intention and common object.* The concept, elements and stages of crime are in [Unit 1A](unit-1a-concept-elements-stages.md); abetment, conspiracy and attempt are in [Unit 2](unit-2-inchoate-crimes.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 4 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2025 Q13 (20): Discuss fully the law relating to constructive criminality. → [C-05](question-bank/section-c-part-1-units-1a-1b.md#c-05)
+- Dec 2024 Q13(a) (20): Comment on any two of these three of the following: (a) Constructive Liability under the criminal law. (b) Offences a… → [C-05](question-bank/section-c-part-1-units-1a-1b.md#c-05)
+- Dec 2023 Q9 (20): Explain 'Constructive Liability' in Penal Law with special reference to Section 34 (common intention) and Section 149… → [C-05](question-bank/section-c-part-1-units-1a-1b.md#c-05)
+- Dec 2022 Q11 (20): Discuss in detail law relating to constructive criminal liability. Also differentiate between Section 34 and Section… → [C-05](question-bank/section-c-part-1-units-1a-1b.md#c-05)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -187,7 +194,30 @@ An assembly which was lawful when it assembled may become unlawful later (Explan
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-05](question-bank/section-c-part-1-units-1a-1b.md#c-05) Constructive criminal liability: common intention (s. 3(5) / s. 34) and common object (s. 190 / s. 149); differences between them *(set Dec 2025 Q13; Dec 2024 Q13(a); Dec 2023 Q9; Dec 2022 Q11)*
+
+**Section B (10 marks)**
+
+- [B-15](question-bank/section-b-part-1-units-1a-1b.md#b-15) Explain common intention (BNS s. 3(5); IPC s. 34)
+- [B-16](question-bank/section-b-part-1-units-1a-1b.md#b-16) Explain common object (BNS s. 190; IPC s. 149)
+- [B-17](question-bank/section-b-part-1-units-1a-1b.md#b-17) Distinguish between section 34 and section 149 of the IPC (BNS ss. 3(5) and 190)
+- [B-18](question-bank/section-b-part-1-units-1a-1b.md#b-18) What is constructive liability? Explain its forms under the Code
+
+**Section A (4 marks), 7 answers**
+
+- [A-28](question-bank/section-a-part-2-units-1b-2.md#a-28) Constructive liability
+- [A-29](question-bank/section-a-part-2-units-1b-2.md#a-29) Common intention
+- [A-30](question-bank/section-a-part-2-units-1b-2.md#a-30) Similar intention and common intention
+- [A-31](question-bank/section-a-part-2-units-1b-2.md#a-31) Common object
+- [A-32](question-bank/section-a-part-2-units-1b-2.md#a-32) Unlawful assembly
+- [A-33](question-bank/section-a-part-2-units-1b-2.md#a-33) "Knew to be likely" limb of section 190
+- [A-34](question-bank/section-a-part-2-units-1b-2.md#a-34) Participation: "they also serve who only stand and wait"
 
 ---
 

@@ -5,7 +5,15 @@
 > **Verify before exam:** the BNS section numbers in the map in §1 (the Chapter III range ss. 14–44 and the s. 38 "seven cases" were checked ‡; individual numbers are worked out from the IPC order and marked † until checked one by one) and the case reports marked † (checklist at the end).
 > **Syllabus line (official):** *General exceptions — mistake, judicial acts, accident, necessity, infancy, insanity, intoxication, consent, compulsion, trifles, private defence.* The mental element is in [Unit 1A](unit-1a-concept-elements-stages.md); the use of private defence in murder cases is in [Unit 4A1](unit-4a1-homicide-and-hurt.md).
 
-{{EXAMINED}}
+**How this unit has been examined (December 2022–2025).** 5 of the 52 previous questions (counting each part of a Q13 separately) came from this unit:
+
+- Dec 2025 Q9 (20): Discuss Right of Private Defence of property. When does it extend up to causing death? → [C-09](question-bank/section-c-part-3-unit-3.md#c-09)
+- Dec 2024 Q1 (4): Legal Insanity and medical Insanity → [A-55](question-bank/section-a-part-3-unit-3.md#a-55)
+- Dec 2024 Q13(c) (20): Comment on any two of these three of the following: (a) Constructive Liability under the criminal law. (b) Offences a… → [C-08](question-bank/section-c-part-3-unit-3.md#c-08)
+- Dec 2022 Q3 (4): Mistake of fact → [A-46](question-bank/section-a-part-3-unit-3.md#a-46)
+- Dec 2022 Q10 (20): Discuss right of private defence of person. When does it extend up to the causing of death? → [C-08](question-bank/section-c-part-3-unit-3.md#c-08)
+
+*Source: the transcribed papers in [`docs/past-papers/paper-4-law-of-crimes.md`](../../docs/past-papers/paper-4-law-of-crimes.md). Unit assignment is by the main topic of the question. Topic frequency across all units is in the [question-bank README](question-bank/README.md#frequency).*
 
 ---
 
@@ -334,7 +342,53 @@ If a person, in the exercise in good faith of the right of private defence, **ex
 
 ---
 
-{{QBANK}}
+## Question bank (model answers)
+
+> **The model answers for this unit are in the [`question-bank/`](question-bank/README.md) folder**, written for the real CCSU pattern (confirmed on all 20 papers, Dec 2022–2025): Section A, 4 marks, ≤ 75 words; Section B, 10 marks, ≤ 200 words; Section C, 20 marks, in detail. Mark splits are mine; the university publishes no marking scheme.
+
+**Section C (20 marks)**
+
+- [C-08](question-bank/section-c-part-3-unit-3.md#c-08) Discuss the right of private defence of the body. When does it extend to causing death? *(set Dec 2024 Q13(c); Dec 2022 Q10)*
+- [C-09](question-bank/section-c-part-3-unit-3.md#c-09) Discuss the right of private defence of property. When does it extend to causing death? *(set Dec 2025 Q9)*
+- [C-10](question-bank/section-c-part-3-unit-3.md#c-10) Discuss insanity and intoxication as defences to criminal liability
+- [C-11](question-bank/section-c-part-3-unit-3.md#c-11) Explain the general exceptions of mistake of fact, accident, necessity, infancy, consent and compulsion
+
+**Section B (10 marks)**
+
+- [B-25](question-bank/section-b-part-3-unit-3.md#b-25) Explain mistake of fact and mistake of law as defences
+- [B-26](question-bank/section-b-part-3-unit-3.md#b-26) Explain the defences of accident and necessity
+- [B-27](question-bank/section-b-part-3-unit-3.md#b-27) Explain the defence of infancy. What is the law on juvenile offenders?
+- [B-28](question-bank/section-b-part-3-unit-3.md#b-28) Distinguish legal insanity from medical insanity. Explain section 22
+- [B-29](question-bank/section-b-part-3-unit-3.md#b-29) Explain the defence of intoxication
+- [B-30](question-bank/section-b-part-3-unit-3.md#b-30) Explain consent as a defence
+- [B-31](question-bank/section-b-part-3-unit-3.md#b-31) Explain the right of private defence and its restrictions
+- [B-32](question-bank/section-b-part-3-unit-3.md#b-32) When does the right of private defence extend to causing death?
+- [B-33](question-bank/section-b-part-3-unit-3.md#b-33) Explain the commencement and continuance of the right of private defence, and the effect of exceeding it
+
+**Section A (4 marks), 22 answers**
+
+- [A-46](question-bank/section-a-part-3-unit-3.md#a-46) Mistake of fact *(set Dec 2022 Q3)*
+- [A-47](question-bank/section-a-part-3-unit-3.md#a-47) Mistake of law
+- [A-48](question-bank/section-a-part-3-unit-3.md#a-48) Judicial acts
+- [A-49](question-bank/section-a-part-3-unit-3.md#a-49) Accident
+- [A-50](question-bank/section-a-part-3-unit-3.md#a-50) Necessity
+- [A-51](question-bank/section-a-part-3-unit-3.md#a-51) Child under seven
+- [A-52](question-bank/section-a-part-3-unit-3.md#a-52) Child between seven and twelve
+- [A-53](question-bank/section-a-part-3-unit-3.md#a-53) Unsoundness of mind
+- [A-54](question-bank/section-a-part-3-unit-3.md#a-54) M'Naghten rules
+- [A-55](question-bank/section-a-part-3-unit-3.md#a-55) Legal and medical insanity *(set Dec 2024 Q1)*
+- [A-56](question-bank/section-a-part-3-unit-3.md#a-56) Involuntary intoxication
+- [A-57](question-bank/section-a-part-3-unit-3.md#a-57) Voluntary intoxication
+- [A-58](question-bank/section-a-part-3-unit-3.md#a-58) Consent
+- [A-59](question-bank/section-a-part-3-unit-3.md#a-59) Act done in good faith for a person's benefit
+- [A-60](question-bank/section-a-part-3-unit-3.md#a-60) Compulsion (duress)
+- [A-61](question-bank/section-a-part-3-unit-3.md#a-61) Acts causing slight harm (trifles)
+- [A-62](question-bank/section-a-part-3-unit-3.md#a-62) Right of private defence
+- [A-63](question-bank/section-a-part-3-unit-3.md#a-63) Restrictions on private defence
+- [A-64](question-bank/section-a-part-3-unit-3.md#a-64) Private defence of the body extending to death
+- [A-65](question-bank/section-a-part-3-unit-3.md#a-65) Private defence of property extending to death
+- [A-66](question-bank/section-a-part-3-unit-3.md#a-66) Commencement and continuance of private defence
+- [A-67](question-bank/section-a-part-3-unit-3.md#a-67) Excess of private defence
 
 ---
 
