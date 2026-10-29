@@ -12,7 +12,7 @@
 <a id="c-01"></a>
 ## C-01 · Define crime and discuss its essential elements
 
-**Asked as:** Dec 2022 Q9 (C, "Define crime and discuss its elements"). Set at 10 and 4 marks: Dec 2024 Q7 (B-04, "concept and elements of crime"), Dec 2025 Q6 (B-03, "define crime"). Related: A-01 to A-05.
+**Asked as:** Dec 2022 Q9 (C, "Define crime and discuss its elements"). Set at 10 marks: Dec 2024 Q7 (B-02, "concept and elements of crime"), Dec 2025 Q6 (B-01, "define crime"). Related: A-01 to A-03, B-03.
 **Marks:** 20 · **Time:** about 30 minutes
 **Model rubric (mine):** introduction and definitions 5 · characteristics 3 · human being 1 · *mens rea* 4 · *actus reus* 3 · injury 2 · strict liability and exceptions 1 · crime v. tort 1
 
@@ -76,7 +76,7 @@ One act may be both: assault, defamation (BNS s. 356), death by negligence (BNS 
 <a id="c-02"></a>
 ## C-02 · Stages of crime: intention, preparation and attempt; liability and punishment at each stage
 
-**Asked as:** Dec 2024 Q12 (C, "stages of crime and liability/punishment"), Dec 2023 Q12 (C, "intention, preparation, attempt"). Set at 10 marks: Dec 2025 Q6 (B-03, "define crime and its stages"). Related: A-06, A-07.
+**Asked as:** Dec 2024 Q12 (C, "stages of crime and liability/punishment"), Dec 2023 Q12 (C, "intention, preparation, attempt"). Set at 10 marks: Dec 2025 Q6 (B-01, "define crime and its stages"). Related: A-16 to A-19, B-06, B-07.
 **Marks:** 20 · **Time:** about 30 minutes
 **Model rubric (mine):** four stages stated 3 · intention 2 · preparation (rule and exceptions) 4 · attempt (statute, tests, cases) 8 · accomplishment and punishment table 2 · conclusion 1
 
@@ -140,7 +140,7 @@ One act may be both: assault, defamation (BNS s. 356), death by negligence (BNS 
 <a id="c-03"></a>
 ## C-03 · *Actus non facit reum nisi mens sit rea*: discuss *mens rea*, *actus reus* and strict liability in Indian criminal law
 
-**Asked as:** not yet set at 20 marks. Set at 10 marks: Dec 2022 Q7 (B-06, "mens rea"). Set at 4 marks: Dec 2024 Q2 (A-12, *actus non facit reum*), Dec 2023 Q3 (A-14, strict liability). Related: B-07, B-08.
+**Asked as:** not yet set at 20 marks. Set at 10 marks: Dec 2022 Q7 (B-04, "mens rea"). Set at 4 marks: Dec 2024 Q2 (A-05, *actus non facit reum*), Dec 2023 Q3 (A-20, strict liability). Related: B-05, B-08, B-09.
 **Marks:** 20 · **Time:** about 30 minutes
 **Model rubric (mine):** maxim and meaning 3 · *mens rea* in the Code 5 · *actus reus*, omission, causation 4 · concurrence 1 · strict liability (reasons, cases, India) 6 · conclusion 1
 
@@ -200,7 +200,7 @@ One act may be both: assault, defamation (BNS s. 356), death by negligence (BNS 
 <a id="c-04"></a>
 ## C-04 · Punishment: kinds of punishment under the BNS, theories of punishment, the death penalty and life imprisonment
 
-**Asked as:** not yet set at 20 marks. Set at 4 marks: Dec 2025 Q1 (A-01, solitary confinement). Related: B-09, B-10, B-11, B-12.
+**Asked as:** not yet set at 20 marks. Set at 4 marks: Dec 2025 Q1 (A-22, solitary confinement). Related: A-21, A-23 to A-26, B-11, B-12, B-13.
 **Marks:** 20 · **Time:** about 30 minutes
 **Model rubric (mine):** kinds of punishment (s. 4) 4 · solitary confinement and fine 3 · theories 5 · death penalty 5 · life imprisonment and remission 2 · conclusion 1
 
@@ -258,7 +258,7 @@ The Indian system is a mix. Retribution and deterrence appear in the death penal
 <a id="c-05"></a>
 ## C-05 · Constructive criminal liability: common intention (s. 3(5) / s. 34) and common object (s. 190 / s. 149); differences between them
 
-**Asked as:** Dec 2022 Q11 (C, "constructive criminal liability; s. 34 and s. 149"), Dec 2023 Q9 (C, "constructive liability – ss. 34 and 149"), Dec 2025 Q13 (C, "constructive criminality"), Dec 2024 Q13(a) (C, "constructive liability"). Related: B-13, B-14, B-15.
+**Asked as:** Dec 2022 Q11 (C, "constructive criminal liability; s. 34 and s. 149"), Dec 2023 Q9 (C, "constructive liability – ss. 34 and 149"), Dec 2025 Q13 (C, "constructive criminality"), Dec 2024 Q13(a) (C, "constructive liability"). Related: B-15 to B-18, A-28 to A-34.
 **Marks:** 20 · **Time:** about 30 minutes
 **Model rubric (mine):** meaning of constructive liability 2 · s. 3(5) / s. 34 (text, essentials, cases) 6 · s. 190 / s. 149 (text, unlawful assembly, essentials, cases) 6 · differences 4 · overlap and other forms 1 · conclusion 1
 

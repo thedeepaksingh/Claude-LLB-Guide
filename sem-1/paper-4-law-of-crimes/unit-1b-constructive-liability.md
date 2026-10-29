@@ -110,7 +110,7 @@ An assembly which was lawful when it assembled may become unlawful later (Explan
 
 | Point | Common intention (BNS s. 3(5); IPC s. 34) | Common object (BNS s. 190; IPC s. 149) |
 |---|---|---|
-| Nature | A rule of joint liability; creates no offence | A rule of joint liability that attaches to **membership** of an unlawful assembly; a separate liability, but not a separate offence |
+| Nature | A rule of joint liability; creates no offence | A distinct liability that attaches to **membership** of an unlawful assembly; conviction is for the offence committed, read with s. 190 (some judgments call it a specific liability or offence †) |
 | Number of persons | **Two or more** | **Five or more** (an unlawful assembly) |
 | What must be shared | A **common intention** (a prior meeting of minds, a pre-arranged plan; may arise on the spot) | A **common object**, one of the five objects in s. 189(1) |
 | Participation | **Active participation** in the criminal act is needed | **Membership** is enough; no overt act is needed |
