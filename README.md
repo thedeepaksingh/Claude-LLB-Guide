@@ -8,13 +8,13 @@ Each paper is written as a full revision pack: background, evolution, core conce
 
 | Paper | Code | Title | Branch | Status |
 |---|---|---|---|---|
-| I | K-1001 | Jurisprudence – I (Legal Theory) | `paper/01-jurisprudence` | Notes and question bank (183 model answers, thinker and case digest, 3 mocks) drafted; awaiting review ([open](sem-1/paper-1-jurisprudence/README.md)) |
-| II | K-1002 | Constitutional Law of India – I | `paper/02-constitutional-law` | Notes and question bank (227 model answers, case digest, 3 mocks) drafted; awaiting review |
-| III | K-1003 | Law of Torts (and Consumer Protection) | `paper/03-law-of-torts` | Notes and question bank (220 model answers, case digest, 3 mocks) drafted; awaiting review |
-| IV | K-1004 | Law of Crimes – I (IPC / BNS) | `paper/04-law-of-crimes` | Not started |
+| I | K-1001 | Jurisprudence – I (Legal Theory) | `paper/01-jurisprudence` (merged) | Draft complete (183 model answers, thinker and case digest, 3 mocks); **on `main`** since 30 Oct 2026 · [open](sem-1/paper-1-jurisprudence/README.md) |
+| II | K-1002 | Constitutional Law of India – I | `paper/02-constitutional-law` (merged) | Draft complete (227 model answers, case digest, 3 mocks); **on `main`** since 30 Oct 2026 · [open](sem-1/paper-2-constitutional-law/README.md) |
+| III | K-1003 | Law of Torts (and Consumer Protection) | `paper/03-law-of-torts` (merged) | Draft complete (220 model answers, case digest, 3 mocks); **on `main`** since 30 Oct 2026 · [open](sem-1/paper-3-law-of-torts/README.md) |
+| IV | K-1004 | Law of Crimes – I (IPC / BNS) | `paper/04-law-of-crimes` (merged) | Draft complete (220 model answers, case digest, 3 mocks); **on `main`** since 30 Oct 2026 · [open](sem-1/paper-4-law-of-crimes/README.md) |
 | V | K-1005 | Contract – I (General Principles) | `paper/05-contract` | Not started |
 
-Work proceeds **one paper at a time**. A paper's branch is merged into `main` only after review.
+Work proceeds **one paper at a time**, each on its own branch. Papers I–IV were merged into `main` on 30 Oct 2026 on the owner's instruction (a full line-by-line review of every paper is still open); Paper V is in progress on its branch.
 
 ## Read these first
 
