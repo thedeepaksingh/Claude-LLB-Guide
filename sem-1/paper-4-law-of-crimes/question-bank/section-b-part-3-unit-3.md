@@ -178,7 +178,7 @@ Two sections deal with intoxication: **ss. 23 and 24** (IPC ss. 85 and 86) †.
 <a id="b-31"></a>
 ## B-31 · Explain the right of private defence and its restrictions
 
-**Asked as:** not yet set at 10 marks. Set at 20 marks: Dec 2022 Q10 and Dec 2024 Q13(c) (C-08). Related: A-62, A-63.
+**Asked as:** not yet set at 10 marks. Set in Section C: Dec 2022 Q10 and Dec 2024 Q13(c) (C-08). Related: A-62, A-63.
 **Marks:** 10 · **Limit:** ≤200 words
 **Rubric (mine):** nature and basis 3 · scope 2 · restrictions 4 · conclusion 1
 
@@ -203,7 +203,7 @@ Two sections deal with intoxication: **ss. 23 and 24** (IPC ss. 85 and 86) †.
 <a id="b-32"></a>
 ## B-32 · When does the right of private defence extend to causing death?
 
-**Asked as:** not yet set at 10 marks. Set at 20 marks: Dec 2022 Q10, Dec 2024 Q13(c) (body, C-08) and Dec 2025 Q9 (property, C-09). Related: A-64, A-65.
+**Asked as:** not yet set at 10 marks. Set in Section C: Dec 2022 Q10 and Dec 2024 Q13(c) (body, C-08); Dec 2025 Q9 (property, C-09). Related: A-64, A-65.
 **Marks:** 10 · **Limit:** ≤200 words
 **Rubric (mine):** body 4 · property 4 · other harm and conclusion 2
 
